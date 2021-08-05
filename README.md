@@ -1,32 +1,40 @@
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](LICENSE)
-
-
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License. This means you're free to share this book, but not to sell it. If you're interested in commercial use, please contact me.
 
 # Picking Flowers
 
-An accounting of China's cyber intrusions into international governments and commercial companies outside of China.
+An accounting of China's cyber intrusions into international governments, non-govermental organizations and commercial companies outside of China.
 
 
-Copyright © 2021 Rohit Dube
+Copyright © 2021 Rohit Dube. All Rights Reserved Worldwide.
 
 
 # Table of Contents
+* About this book
 * Introduction
-  * About this book
-* Part I: 1998 - 2012
-  * U.S. Defence and Space Organizations
-  * U.K. Ministry of Defence 
-  * Google
+* Part I: Government Espionage
+  * U.S.
+  * U.K.
+  * Canada
+  * Australia
+  * New Zealand
+  * Africa
+* Part II: Spying on Non-governmental Organizations
+  * Australian Universities
+  * U.S. Universities
+  * Institute for Micro-electronics (Shane Todd)
+* Spying on Dissidents and Refugees
+  * Tibet
+  * Xinjiang
+* Part III: Corporate Espionage
+  * Google (Aurora)
   * RSA
   * Nortel
-  * Shane Todd
-  * Tibet
-* Part II: 2012 - Now
-  * The APT1 report (to be renamed)
+  * Cisco
   * GitHub 
-  * U.S. Office of Personnel Management
   * Solarwinds
   * Microsoft Exchange
-  * COVID-19 Misinformation
-  * Uyghurs
+* Part IV: Influence Operations on the Public 
+  * Hong Kong
+  * COVID-19
+* Summary
+* Appendix
+  * Chinese Threat Actors
