@@ -9,9 +9,8 @@ Copyright © 2021 Rohit Dube. All Rights Reserved Worldwide.
 
 # Table of Contents
 * About this book
-* Introduction
 * Part I: Government Espionage
-  * U.S.
+  * U.S. (Titan Rain, Shady Rat, OPM)
   * U.K.
   * Canada
   * Australia
@@ -32,7 +31,8 @@ Copyright © 2021 Rohit Dube. All Rights Reserved Worldwide.
   * T-Mobile
   * GitHub 
   * Solarwinds
-  * Microsoft Exchange
+  * Microsoft Exchange (Hafnium)
+  * Oil & Gas (Night Dragon)
 * Part IV: Influence Operations on the Public 
   * Hong Kong
   * COVID-19
