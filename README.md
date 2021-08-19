@@ -1,7 +1,7 @@
 
 # Picking Flowers
 
-An accounting of China's cyber intrusions into international governments, non-govermental organizations and commercial companies outside of China.
+An accounting of China's electronic intrusions into international governments, non-govermental organizations, commercial companies and the public.
 
 
 Copyright © 2021 Rohit Dube. All Rights Reserved Worldwide.
@@ -24,11 +24,12 @@ Copyright © 2021 Rohit Dube. All Rights Reserved Worldwide.
 * Spying on Dissidents and Refugees
   * Tibet
   * Xinjiang
-* Part III: Corporate Espionage
+* Part III: Corporate Espionage and attacks on Private Enterprises
   * Google (Aurora)
   * RSA
   * Nortel
   * Cisco
+  * T-Mobile
   * GitHub 
   * Solarwinds
   * Microsoft Exchange
