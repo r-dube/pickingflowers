@@ -6,6 +6,8 @@ Books by attack country exist, but in the English language, they tend to focus o
 None seem to be available on China, despite its growing attack activity. 
 This book is an attempt to fill that gap on China.
 
+While the primary topic of this book is China's use of cyber attacks to spy on foreign entities, we also cover the use of non-cyber means to exfiltrate data, including intellectual property.
+
 The title of this book is inspired by a report on China's infilitration of international research universities. 
 The title of the report - *Picking Flowers Making Honey* - comes from a phrase (picking flowers in foreign lands to make honey in China) that the Chinese military uses to summarize its university espionage program \[1\].
 
