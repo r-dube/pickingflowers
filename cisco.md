@@ -17,8 +17,24 @@ Huawei claimed that two of its software engineers acted on their own without a c
 The Huawei engineers are alleged to have received the Cisco code for VRRP from an unidentified source and proceeded to incorporate the code into a Quidway software release.
 
 ## Cisco's competition with 3COM muddies the waters
+Cisco's case against Huawei was a little muddied by its near simulatenous effort to buy Huawei. 
+At the time of the lawsuit, Cisco competed with 3COM Inc. in some severals sub-sgements of the networking industry.
+3COM had launched a joint venture with Huawei called Future Wei.
+3COM rose to Huawei's defense during the lawsuit, even though it was not a party to the lawusit, as restrictrions on the sale of Huawei's products would hurt 3COM's business.
+In similar vein, if Cisco bought out Huawei, it would gain an advantage against 3COM.
+Cisco only proceeded with the lawsuit when it failed to pursuade Huawei to sell itself to Cisco.
 
-## Huawei's corporate culture
+## Huawei's corporate culture promotes intellectual property theft
+Contrary to its claims during the Cisco lawsuit, Huwaei does seem to have a corporate culture of extracting other corporations' intellectualy property, by "any means neccessary."
+Roughly at the same time as the Huawei's software engineers were copying Cisco's code, Huwaei was engaged in a multi-year project to extract intellectual property from Canada's Nortel Networks.
+Years later, the U.S. federal government indicted Huawei for stealing intellectual property from T-mobile, a U.S. telecom carrier.
+
+## Huawei is indirectly owned by the CCP.
+
 
 ## References and Notes
-: Cisco Drops Huawei Lawsuit. Phil Harvey. Light Reading. July 28, 2004.
+\[1\]: Cisco Drops Huawei Lawsuit. Phil Harvey. Light Reading. July 28, 2004.
+
+\[2\]: Nortel. Picking Flowers. 2021.
+
+\[3\]: T-mobile. Picking Flowers. 2021.
