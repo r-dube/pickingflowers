@@ -7,7 +7,7 @@ Huawei acknowledges that it used code from Cisco in its products but pins the bl
 
 ## Huawei accepts some responsibility
 In January 2003, Cisco filed a lawsuit against Huawei in the U.S. for stealing code from its IOS operating system that ran on its routers and switches \[1\].
-As part of the lawsuit, Cisco alleged that Huawei not only stole code, but that Huwaei also copied the IOS command-line interface and the IOS documentation related to the stolen code.
+As part of the lawsuit, Cisco alleged that Huawei not only stole code, but that Huawei also copied the IOS command-line interface and the IOS documentation related to the stolen code.
 
 In July 2004, Cisco dropped the lawsuit after Huawei acknowledged some Cisco code in its Quidway routers \[2\], \[3\].
 Huawei removed the offending code from its products and changed its user interface and documentation as part of the lawsuit process.
@@ -25,15 +25,16 @@ In a similar vein, if Cisco bought out Huawei, it would gain an advantage agains
 Cisco only proceeded with the lawsuit when it failed to persuade Huawei to sell itself to Cisco.
 
 ## Huawei's corporate culture promotes intellectual property theft
-Contrary to its claims during the Cisco lawsuit, Huwaei does seem to have a corporate culture of extracting other corporations' intellectual property by "any means necessary."
-Roughly at the same time as Huawei's software engineers were copying Cisco's code, Huwaei was engaged in a multi-year project to extract intellectual property from Canada's Nortel Networks \[6\].
-Years later, the U.S. federal government indicted Huawei for stealing intellectual property from T-mobile, a U.S. telecom carrier\[7\].
+Contrary to its claims during the Cisco lawsuit, Huawei does seem to have a corporate culture of extracting other corporations' intellectual property by "any means necessary."
+Roughly at the same time as Huawei's software engineers were copying Cisco's code, Huawei was engaged in a multi-year project to extract intellectual property from Canada's Nortel Networks \[6\].
+Years later, the U.S. federal government indicted Huawei for stealing intellectual property from T-mobile, a U.S. telecom carrier \[7\].
 
 ## Huawei is owned by the Communist Party of China
 Huawei has an opaque ownership structure. 
 Researchers who have peeled back the structure find that the company is effectively a state-owned enterprise (SOE) \[8\].
-Obviously, SOEs are directly influenced by the Communist Party of China (CCP).
-Given CCP's ownership of Huawei, it stands to reason that the CCP bears responsibility for Huawei's intellectual property theft from other corporations.
+Obviously, SOEs are heavily influenced by the Communist Party of China (CCP).
+In a sense, the CCP owns Huawei.
+Given CCP's ownership of Huawei, it stands to reason that the CCP bears responsibility for Huawei's intellectual property theft from corporations such as Cisco.
 
 ### References and Notes
 \[1\]: Cisco Sues Huawei. Light Reading. January 23, 2003.
