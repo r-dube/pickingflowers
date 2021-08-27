@@ -9,5 +9,5 @@ This book is an attempt to fill that gap on China.
 The title of this book is inspired by a report on China's infilitration of international research universities. 
 The title of the report - *Picking Flowers Making Honey* - comes from a phrase (picking flowers in foreign lands to make honey in China) that the Chinese military uses to summarize its university espionage program \[1\].
 
-## References and notes
+### References and notes
 \[1\]: Picking Flowers Making Honey. Alex Joske. Australian Strategic Policy Institute. October 30, 2018.
