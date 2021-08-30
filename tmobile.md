@@ -45,11 +45,22 @@ However, Huawei coached the engineers to make false and misleading statements to
 In September 2014, T-mobile filed a civil lawsuit against Huawei.
 Amongst other things, T-mobile alleged a breach of contract by Huawei \[4\].
 
-T-mobile partially won the case against Huawei in 2019 - a jury awarded it $4.8M U.S. dollars for Huawei's breach of contract.
+T-mobile partially won the case against Huawei in 2019 - a jury awarded it $4.8M U.S. dollars for Huawei's breach of contract \[5\].
 However, T-mobile was unable to convince the jury of more serious charges that would have required the jury to agree that Huawei's actions were "willful and malicious".
 Had T-mobile succeeded more fully in their lawsuit, Huawei would have had to pay much higher penalties.
 
-## Huawei is indicted by the U.S. Government
+## Huawei's playbook
+At the time T-mobile filed its lawsuit in 2014, it likely had no knowledge of the behind-the-scenes maneouvring of Huawei's management to exfiltrate T-mobile's robot technology.
+The U.S. Government's indictments of Huawei in 2019 \[2\] and 2020 \[3\] reveal a much fuller picture of the happenings inside Huawei.
+
+Huawei appears to have a playbook to steal information from other corporate entities. 
+First, via its management team, Huawei puts pressure on individual employees to steal information from business partners and competitors.
+Next, Huawei exfiltrates information for as long as possible - till its access is cut off or there is a lawsuit.
+In the meantime, Huawei management covers its tracks by making false statments or by downplaying the amount of theft that has occurred.
+Finally, if Huawei's management finds itself unable to dodge theft accusations, it pins the blame for the theft on the individual actions of the employees most obviously involved in the espionage effort.
+
+In the case of T-mobile, one of the two employees blamed (and terminated) by Huawei was the one who stole the robot arm and was caught by T-mobile doing so,
+The other employee was caught by T-mobile in the robot lab without authorization.
 
 ## References and notes
 \[1\]: A Robot Named "Tappy": Huawei Conspired To Steal T-Mobile's Trade Secrets, Says DOJ. Laurel Wamsley. NPR. January 29, 2019.
