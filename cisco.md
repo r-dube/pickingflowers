@@ -29,9 +29,17 @@ Contrary to its claims during the Cisco lawsuit, Huawei does seem to have a corp
 Roughly at the same time as Huawei's software engineers were copying Cisco's code, Huawei was engaged in a multi-year project to extract intellectual property from Canada's Nortel Networks \[6\].
 Years later, the U.S. federal government indicted Huawei for stealing intellectual property from T-mobile, a U.S. telecom carrier \[7\].
 
+Two other corporate behaviors are also relevant. 
+First, Huawei targets personnel, at competitors that it wants to steal from, for hiring. 
+Second, Huawei impedes investigations into its practices by destroying damaging evidence.
+
+In the case of Cisco, Huawei attempted to recruit Cisco's engineers that worked on products that Huawei's Quidway routers were based on \[3\]. 
+Further, Huawei erased software on the Quidway routers in its possession and attemped to remotely erase the software from devices deployed by third-parties in the US \[8\]. 
+Finally, Huawei sent back Quidway routers from the US to China so that the devices could not be examined as part of Cisco's lawsuit \[8\]. 
+
 ## Huawei is owned by the Communist Party of China
 Huawei has an opaque ownership structure. 
-Researchers who have peeled back the structure find that the company is effectively a state-owned enterprise (SOE) \[8\].
+Researchers who have peeled back the structure find that the company is effectively a state-owned enterprise (SOE) \[9\].
 Obviously, SOEs are heavily influenced by the Communist Party of China (CCP).
 In a sense, the CCP owns Huawei.
 Given CCP's ownership of Huawei, it stands to reason that the CCP bears responsibility for Huawei's intellectual property theft from corporations such as Cisco.
@@ -51,4 +59,6 @@ Given CCP's ownership of Huawei, it stands to reason that the CCP bears responsi
 
 \[7\]: T-mobile. Picking Flowers. 2021.
 
-\[8\]: Who Owns Huawei? Christopher Balding and Donald Clarke. SSRN. May 8, 2019.
+\[8\]: Superseding Indictment. Case 1:18-cr-00457-AMD. United States Eastern District Court. February 23, 2020.
+
+\[9\]: Who Owns Huawei? Christopher Balding and Donald Clarke. SSRN. May 8, 2019.
