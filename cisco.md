@@ -44,7 +44,7 @@ Obviously, SOEs are heavily influenced by the Communist Party of China (CCP).
 In a sense, the CCP owns Huawei.
 Given CCP's ownership of Huawei, it stands to reason that the CCP bears responsibility for Huawei's intellectual property theft from corporations such as Cisco.
 
-### References and Notes
+## References and notes
 \[1\]: Cisco Sues Huawei. Light Reading. January 23, 2003.
 
 \[2\]: Cisco Drops Huawei Lawsuit. Phil Harvey. Light Reading. July 28, 2004.
