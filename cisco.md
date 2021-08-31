@@ -26,7 +26,7 @@ Cisco only proceeded with the lawsuit when it failed to persuade Huawei to sell 
 
 ## Huawei's corporate culture promotes intellectual property theft
 Contrary to its claims during the Cisco lawsuit, Huawei does seem to have a corporate culture of extracting other corporations' intellectual property by "any means necessary."
-Roughly at the same time as Huawei's software engineers were copying Cisco's code, Huawei was engaged in a multi-year project to extract intellectual property from Canada's Nortel Networks \[6\].
+Roughly at the same time as Huawei's software engineers were copying Cisco's code, Huawei was engaged in extracting intellectual property from Motorola \[6\].
 Years later, the U.S. federal government indicted Huawei for stealing intellectual property from T-mobile, a U.S. telecom carrier \[7\].
 
 Two other corporate behaviors are also relevant. 
@@ -55,9 +55,9 @@ Given CCP's ownership of Huawei, it stands to reason that the CCP bears responsi
 
 \[5\]: When 3COM Met Huawei. Jeff Chase and Jon Zilber. Fast Company. June 4, 2019.
 
-\[6\]: Nortel. Picking Flowers. 2021.
+\[6\]: Motorola sues Huawei for trade secret theft. Phil Wahba and Melanie Lee. Reuters. July 21, 2010.
 
-\[7\]: T-mobile. Picking Flowers. 2021.
+\[7\]: Indictment. Case 2:19-cr-00010-RSM. United States District Court for the Western District of Washington at Seattle. January 16, 2019.
 
 \[8\]: Superseding Indictment. Case 1:18-cr-00457-AMD. United States Eastern District Court. February 23, 2020.
 
