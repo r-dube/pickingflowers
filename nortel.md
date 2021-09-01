@@ -7,6 +7,10 @@ The Chinese military subsequently provided the stolen intellectual to local comp
 One example was the theft of Nortel Network's intellectual property to aid Huawei's product and business development. 
 
 ## China's five-year plans
+China's sixth five-year plan (1981-1985) initiated China's focus on telecom and networking.
+This plan required Chinese bureaucrats to "gather the captial neccessary to strengthen the construction of key projects ... in communications..."
+Subsequently, the seventh plan (1986-1990) asked the bureaucrats to "speed up the construction of ... communications, telecommunications, ... industries."
+Huawei got its start in this enivironment of catching up with the developed countries on communications and networking technologies.
 
 ## Telecommunications and networking in the 1990s
 In the 1990s Telecommunications and networking were undergoing multiple changes.
@@ -66,9 +70,22 @@ While public documents clearly documenting China's human intelligence program ar
 This method of using legitimate researchers as spies is similar to China's infiltration of U.S., Canadian and Australian universities.
 
 ## Nortel falls, Huawei rises
+Starting around the March 2000 when the Internet bubble burst and up to 2009 when it filed for bankruptcy, Nortel repeatedly faltered.
+China's infiltration of Nortel is unlikely to be the sole cause of Nortel's downfall - Nortel is known to have problems in its management ranks.
+The Internet euphoria of 1999 and subsequent retrenching in the telecom and networking sector did not help.
+Neither did the world-wide financial crisis of 2008.
+However, the loss of business deals and employees, attributable to China, likely played some role in Nortel's demise.
+
 ### Heavily discounted deals
+In 2005, Huawei undercut Nortel (and other vendors) for a fibre optics network equipment deal at British Telecom (BT).
+Similarly, in 2008 Huawei undercut Nortel for a 3G wireless equipment deal in Canada (with Telus Corp. and BCE Inc.).
+In both cases Huawei's offer was significantly cheaper than Nortel's (in one case by upto 40%).
+Given China's extensive inflitration of Nortel, it stands to reason that the Chinese Government had passed on the specifics of Nortel's bids for the projects to Huawei.
+
 ### Hiring Nortel ex-employees
-### Other reasons for the fall
+Around 2009, as Nortel plunged deeper into crisis, Huawei hired away some of Nortel's most prominent researchers in Ottawa.
+Subsequently, in 2010, Huawei opened its own research center in Ottawa. 
+Now, Huawei had not just the stolen intellectual property, but also some of the people who originally created that intellectual property.
 
 ## References and notes
 \[1\]: Huawei. Acquired Podcast: Season 5, Episode 1. July 22, 2019.
