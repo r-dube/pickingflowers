@@ -62,6 +62,16 @@ Finally, when Huawei's management cannot dodge theft accusations, it pins the bl
 In the case of T-mobile, one of the two employees blamed (and terminated) by Huawei was the one who stole the robot arm and was caught by T-mobile doing so,
 The other employee was caught by T-mobile in the robot lab without authorization.
 
+## Secret stealing pipeline
+In 2013, Huawei extended its playbook by instituting a program to incentivize employees to steal intellectual property \[2\].
+As part of this program, Huawei created an internal web portal for employees to post information from competitors.
+Huawei instituted a "competition management group" that evaluated the value (to Huawei) of information submitted to the portal.
+Huawei also had a formal schedule for "bonus" payments to employees based on the value ascribed to the information that they submitted. 
+Finally, Huawei added biannual awards for the regions that contributed the most valuable information.
+
+In effect, Huawei created a pipeline of Huawei employees, willing to act as espionage agents, by offering them money for stolen information.
+
+
 ## References and notes
 \[1\]: A Robot Named "Tappy": Huawei Conspired To Steal T-Mobile's Trade Secrets, Says DOJ. Laurel Wamsley. NPR. January 29, 2019.
 
