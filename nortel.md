@@ -6,6 +6,8 @@ It appears, that the Chinese Government resorted to using its military to steal 
 The Chinese military subsequently provided the stolen intellectual to local companies. 
 One example was the theft of Nortel Network's intellectual property to aid Huawei's product and business development. 
 
+## China's five-year plans
+
 ## Telecommunications and networking in the 1990s
 In the 1990s Telecommunications and networking were undergoing multiple changes.
 First, Transmission Control Protocol / Intenet Protocol (TCP/IP) based data networks were replacing portions of the voice network.
@@ -26,8 +28,47 @@ Finally, through the acquisiton of Bay Networks, Nortel had a portfolio of data 
 In North America, Nortel compteted intensely with both Lucent and Cisco.
 
 ## Long-lasting Nortel infiltration
+China's infiltration of Nortel started in the 1990s and lasted atleast till 2009 when Nortel filed for bankruptcy protection. 
+During this time China employed both traditional and cyber espionage techniques to steal information from Nortel.
+The sophistication of the long running infiltration points to the Chinese military as the source of the hack.
 
-## Nortel goes bankrupt, Huawei rises
+### Data exfiltration
+Data exfiltration from Nortel to network addresses in China happened as early as the late 1990s.
+While the Canadian security intelligence service notified Nortel of the exfiltration, Nortel did not seem to take any action - Nortel's management seemed pre-occupied with obtaining new business deals in China.
+
+### Executive account compromise
+In 2004, Nortel security staff discovered that the corporate accounts of seven executives, including the CEO's account had been compromised by China.
+China used the compromised accounts to access and steal intellectual property (technical research) and trade secrets (business information) from Nortel.
+
+### Persistent access
+In some cases Nortel's security staff founds root-kits, a type of malware, on its executives laptops that could not be erased even if the laptop was re-imaged with a fresh-copy of the operating system.
+In other cases, the security staff found evidence of backdoors on Nortel's servers that allowed Chinese hackers to maintain access to Nortel's systems across long periods of time.
+
+### Listening devices
+China placed listening devices inside Nortel buildings to augment the intelligence they were able to gather through their cyber attacks.
+The presence of these listening devices only became known after some of Nortel's building were repurposed for use by the Canadian Government - the Government swept the buildings for surveilance equipment.
+
+### Unauthorized reverse-engineering
+A Chinese front company purchased Nortel equipment for the purposes of re-sale in China.
+Subsequently, the company returned equipment to Nortel.
+An examination of the returned equipment revealed that the equipment had been dis-assembled and then partially re-assembled.
+Likely, the purchase was part of a reverse-engineering effort conducted by Huawei.
+Such reverse-engineering is usually prohibited by re-sale agreements between vendors and their resellers.
+
+### Illegal photographs
+A Huawei employee was caught taking photographs of Nortel (and other vendors') equipment during a trade show in 2004.
+This employee entered the trade show area, where vendors housed equipment for exhibition.
+The employee proceeded to dismantle some of the equipment to access the components used by the exhibitors in their equipment.
+
+### Human intelligence
+China appears to have had a program to place human sources inside Nortel as employees.
+While public documents clearly documenting China's human intelligence program are not available, Canadian intelligence sources allege that Chinese researchers employed by Nortel were passing Nortel intellectual property back to China.
+This method of using legitimate researchers as spies is similar to China's infiltration of U.S., Canadian and Australian universities.
+
+## Nortel falls, Huawei rises
+### Heavily discounted deals
+### Hiring Nortel ex-employees
+### Other reasons for the fall
 
 ## References and notes
 \[1\]: Huawei. Acquired Podcast: Season 5, Episode 1. July 22, 2019.
@@ -37,3 +78,16 @@ In North America, Nortel compteted intensely with both Lucent and Cisco.
 \[\]: Nortel collapse linked to Chinese hackers. CBC News. February 16. 2012.
 
 \[\]: Inside the Chinese military attack on Nortel. Sam Cooper. Global News. August 25, 2020.
+
+\[\]: Did a Chinese Hack Kill Canada’s Greatest Tech Company? Natalie Pearson. Bloomberg Businessweek. July 1, 2020.
+
+\[\]: An Overview of the Demise of Nortel Networks and Key Lessons Learned:
+Systemic effects in environment, resilience and black-cloud formation. University of Ottawa. 2014.
+
+\[\]: China's Unrestricted Cyberwarfare Part 2. Malicious Life Podcast. June 1, 2021.
+
+\[\:] China's Unrestricted Cyberwarfare Part 3. Malicious Life Podcast. June 15, 2021.
+
+\[\]: Nortel hacking attack went unnoticed for almost 10 years. Ryan Naraine. ZDNET. February 14, 2012.
+
+\[\]: Nortel hacked to pieces. James Berkow. Financial Post. February 25, 2012.
