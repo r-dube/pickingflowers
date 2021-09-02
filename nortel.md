@@ -46,7 +46,7 @@ China used the compromised accounts to access and steal intellectual property (t
 
 ### Persistent access
 In some cases Nortel's security staff founds root-kits, a type of malware, on its executives laptops that could not be erased even if the laptop was re-imaged with a fresh-copy of the operating system \[7\].
-In other cases, the security staff found evidence of backdoors on Nortel's servers that allowed Chinese hackers to maintain access to Nortel's systems across long periods of time \[6\].
+In other cases, the security staff found evidence of backdoors on Nortel's servers that allowed Chinese hackers to maintain access to Nortel's systems across long periods of time \[6\], \[8\], \[9\].
 
 ### Listening devices
 China placed listening devices inside Nortel buildings to augment the intelligence they were able to gather through their cyber attacks.
@@ -71,7 +71,7 @@ This method of using legitimate researchers as spies is similar to China's infil
 
 ## Nortel falls, Huawei rises
 Starting around the March 2000 when the Internet bubble burst and up to 2009 when it filed for bankruptcy, Nortel repeatedly faltered.
-China's infiltration of Nortel is unlikely to be the sole cause of Nortel's downfall - Nortel is known to have problems in its management ranks \[11\].
+China's infiltration of Nortel is unlikely to be the sole cause of Nortel's downfall - Nortel is known to have problems in its management ranks \[10\], \[11\].
 The Internet euphoria of 1999 and subsequent retrenching in the telecom and networking sector did not help.
 Neither did the world-wide financial crisis of 2008.
 However, the loss of business deals and employees, attributable to China, likely played some role in Nortel's demise.
