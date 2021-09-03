@@ -1,4 +1,4 @@
-# Huawei steals T-mobile's robot technology
+# Huawei steals T-mobile's robot
 T-mobile USA Inc., a U.S. telecom carrier, created a robot in 2006 to mimic a human's use of cell phones.
 In 2012 T-mobile used this robot to test Huawei's cell phones for launch on its network.
 As it turned out, Huawei's phones were not doing well at T-mobile's tests.
