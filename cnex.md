@@ -9,7 +9,7 @@ Second, and simultaneously, they commissioned an academician to illegally obtain
 CNEX, headquartered in California, was stated in 2013 to developer controllers for solid state drives (SSDs).
 One of its co-founders, Yiren Huang, had worked on such controllers and related technology areas for several years.
 This co-founder also worked at Huawei from 2011 to 2013 in Huawei's storage division.
-By 2016, CNEX had developed some advanced controllers for SSDs - technology that Huawei did not yet have.
+By 2016, CNEX had developed some advanced controllers for SSDs - technology that Huawei did not yet have \[1\], \[2\].
 
 ## Huawei fakes purchase interest
 Huawei engaged CNEX by pretending that it was interested in purchasing CNEX's technology.
@@ -18,49 +18,51 @@ Huawei portrayed this presentation as "for the headquarter and not for the stora
 Subsequently, Huawei pressured CNEX to share a copy of the deck - the pressure came from dangling the possibility of a product purchase in front of CNEX.
 Huawei assured CNEX that it would not share the presentation with the storage group.
 However, once it had the presentation, Huawei did just that.
-The idea was to understand bits of technology documented in the presentation and use those ideas in Huawei's storage products.
+The idea was to understand bits of technology documented in the presentation and use those ideas in Huawei's storage products \[2\], \[3\].
 
 ## Huawei employs China-based academic for reverse-engineering
-In 2016, Huawei engaged two academicians to reverse-engineer CNEX's product.
+In 2016, Huawei engaged two academicians to study CNEX's product.
 One academician was based at the University of Texas in Arlington.
-The other academican - Bo Mao - was based at Xiamen University in China.
+The other academican - Bo Mao - was based at Xiamen University in China \[2\].
 
 Huawei gave the academcian in Texas a grant to procure equipment from CNEX.
 The academician initiated contact with CNEX but did not follow through.
-However, a different academician at the same university purchased two controllers from CNEX. The two Texas academician's knew each other, worked in the same general area of computer science and had published research papers together.
+However, a different academician at the same university purchased two controllers from CNEX using the Huawei grant. The two Texas academician's knew each other, worked in the same general area of computer science and had published research papers together.
 
-Huawei cut a separate deal with Bo Mao to create a project to reverse engineer CNEX's technology.
+Huawei cut a separate deal with Mao to create a project to reverse engineer CNEX's technology.
 Huawei paid Mao for this work and maintained frequent and sustained communication with Mao regarding the project.
 
 Mao, in turn, contacted CNEX, but without disclosing to CNEX that he was conducting work on behalf of Huawei.
 In fact, Mao pretended that he was conducting academic research.
 
-CNEX was motivated to work with both the Texas academician and Mao as they thought the researcher scrutiny would prove the superiority of the CNEX product over existing technologies.
+CNEX was motivated to work with both the Texas academicians and Mao as it thought thoight the researchers' study would prove the superiority of the CNEX product over existing technologies.
 
 ### Working through a distributor
-CNEX was not yet selling their product in China.
-However, CNEX had lined up a distributor for future sales in China.
+CNEX was not yet selling its product in China.
+However, CNEX had lined up a Chinese distributor for future sales.
 At Mao's insistence, CNEX worked with the distributor to get a controller to Mao.
-As part of the process, Mao signed and a license and non-disclosure agreement with CNEX.
-This agreement prohibted Mao from disclose information about the controller to a third-party, developing a competitive product or reverse-engineer the controller.
+As part of the process, Mao signed a license and non-disclosure agreement with CNEX.
+This agreement prohibted Mao from disclosing information about the controller to a third-party, developing a competitive product or reverse-engineering the controller \[2\].
 
 ### Reverse-engineering
-In April 2017, ince Mao had the controller in hand, he (or his students) attempted to understand the functionality of the various parts of the controller.
-In the process, Mao and his ended up breaking the controller rendering it useless.
+In April 2017, with the controller in hand, Mao and his students attempted to understand the functionality of the various parts of the controller.
+In the process, they ended up breaking the controller - it would not work any more.
 Mao contacted CNEX and claimed that one of his students had accidentaly broken the controller.
-Subsequent analysis revealed that the damage to controller was not accidental - i.e., someone had attempted to learn how the controller worked, by carefully dismantling a portion of it.
+Subsequent analysis revealed that the damage to the controller was not accidental - i.e., someone had attempted to learn how the controller worked, by carefully dismantling a portion of it \[2\].
+
 However, now, Mao and his team could not get the controller back into working condition.
-Presumably, Mao needed some technical assistance to put the controller back in working order (or get a replacement controller).
+Mao needed some technical assistance to fix the controller (or get a replacement controller).
 
 ### Huawei contacts the distributor
 In June 2017, Huawei contacted the distributor to buy a CNEX controller.
 This contact was odd because, CNEX had not previously disclosed its distributor or part numbers to Huawei.
 The only person who had the complete ordering information was Mao.
-Huawei had learned the ordering information through Mao - after all, Mao had been providing updates to Huawei as he attempted to reverse-engineer the CNEX controller.
 
-Had Huawei been successfull in procuring the part, they could conduct reverse-engineering on their own or provide Mao with a replacement board to continue his work.
+Huawei had learned the ordering information through Mao - after all, Mao had been providing regular updates to Huawei as he attempted to reverse-engineer the CNEX controller.
 
-In July 2017, when CNEX learned of Huawei's clandestine attempt to buy the controller, it cut-off technical support to Mao.
+Had Huawei been successfull in procuring the part, they could conduct reverse-engineering on their own or provide Mao with additional controllers to continue (or accelerate) his work.
+
+In July 2017, when CNEX learned of Huawei's clandestine attempt to buy the controller, it cut-off technical support to Mao \[2\].
 Mao was now stuck.
 
 ### Mao uses his Texas contacts
@@ -72,20 +74,20 @@ Mao contacted this academician to lobby for access to the controller.
 While this Texas academician did not have the controller, his colleague did.
 It appears that Mao worked out a deal with the two academicians to get short-term remot-access to the CNEX controller(s) in Texas.
 
-Through out the reverse-engineering project, Mao provided progress reports and information on the inner workings of the CNEX controller to multiple Huawei employees.
+Throughout the reverse-engineering project, Mao provided progress reports and information on the inner workings of the CNEX controller to multiple Huawei employees \[2\].
 
 ## Destabalizing CNEX
 Huawei took some additional steps to destabilize CNEX.
 It created an organizational chart representation of CNEX, enumerating CNEX employees, their locations and their compensation.
-Then it launched an effort to hire away these employees from CNEX for the purpose of creating turmoil within CNEX.
+Then it launched an effort to hire away these employees from CNEX for the purpose of creating turmoil within CNEX \[2\].
 
 ## Jury confirms Huawei's role
 Huawei and CNEX filed duelling lawsuits against each other in 2017 in the U.S.
-In 2019, a jury found that Huwaei had indeed misappropriated CNEX's technology.
+In 2019, a jury found that Huwaei had indeed misappropriated CNEX's technology \[4\].
 
 Subsequently, in a separate 2019 case, Mao admitted to lying to the FBI when the FBI questioned Mao on the CNEX case.
 The lying was provable given the FBI's investigation into the case.
-The FBI seems to have dropped the rest of the case (that pertained to the actual intellectual property theft) after Mao admitted to lying.
+The FBI seems to have dropped the rest of the case (that pertained to the actual intellectual property theft) after Mao admitted to lying \[5\], \[6\], \[7\].
 
 
 ## References and notes
@@ -100,3 +102,5 @@ The FBI seems to have dropped the rest of the case (that pertained to the actual
 \[5\]: U.S. charges Chinese professor tied to Huawei with criminal theft of IP. Matt Hamblen. Fierce Electronics. Sep 10, 2019
 
 \[6\]: Chinese professor stole hard drive secrets for Huawei, US government charges. Timothy Lee. Ars Technica. September 9, 2019.
+
+\[7\]: Chinese professor pleads guilty to lying to FBI in Huawei-related case. Karen Freifeld. Reuters. December 4, 2020.
