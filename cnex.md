@@ -27,10 +27,41 @@ The other academican - Bo Mao - was based at Xiamen University in China.
 
 Huawei gave the academcian in Texas a grant to procure equipment from CNEX.
 The academician initiated contact with CNEX but did not follow through.
-However, a different academician at the same university purchased two controllers from CNEX. 
+However, a different academician at the same university purchased two controllers from CNEX. The two Texas academician's knew each other, worked in the same general area of computer science and had published research papers together.
 
 Huawei cut a separate deal with Bo Mao to create a project to reverse engineer CNEX's technology.
 Huawei paid Mao for this work and maintained frequent and sustained communication with Mao regarding the project.
+
+Mao, in turn, contacted CNEX, but without disclosing to CNEX that he was conducting work on behalf of Huawei.
+In fact, Mao pretended that he was conducting academic research.
+
+CNEX was motivated to work with both the Texas academician and Mao as they thought the researcher scrutiny would prove the superiority of the CNEX product over existing technologies.
+
+### Working through a distributor
+CNEX was not yet selling their product in China.
+However, CNEX had lined up a distributor for future sales in China.
+At Mao's insistence, CNEX worked with the distributor to get a controller to Mao.
+As part of the process, Mao signed and a license and non-disclosure agreement with CNEX.
+This agreement prohibted Mao from disclose information about the controller to a third-party, developing a competitive product or reverse-engineer the controller.
+
+### Reverse-engineering
+In April 2017, ince Mao had the controller in hand, he (or his students) attempted to understand the functionality of the various parts of the controller.
+In the process, Mao and his ended up breaking the controller rendering it useless.
+Mao contacted CNEX and claimed that one of his students had accidentaly broken the controller.
+Subsequent analysis revealed that the damage to controller was most likely not accidental - i.e., someone had attempted to learn how the controller word, by dismantling a portion.
+However, now, Mao and his team could not get the controller back into working condition.
+Presumably, Mao needed some technical assistance to put the controller back in working order (or get a replacement controller).
+
+### Huawei contacts the distributor
+In June 2017, Huawei contacted the distributor to buy a CNEX controller.
+This contact was odd because, CNEX had not previously disclosed its distributor or part numbers to Huawei.
+The only person who had the complete ordering information was Mao.
+Huawei had learned the ordering information through Mao - after all, Mao had providing updates to Huawei as he attempted to reverse-engineer the CNEX controller.
+
+Had Huawei been successfull in procuring the part, they could conduct reverse-engineering on their own or provide Mao with a replacement board to continue his work.
+
+In July 2017, when CNEX learned of Huawei's clanderstine attempt to buy the controller, it cut-off technical support to Mao.
+Mao was no stuck.
 
 ## Destabalizing CNEX
 Huawei took some additional steps to destabilize CNEX.
