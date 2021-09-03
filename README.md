@@ -29,6 +29,7 @@ Copyright © 2021 r-dube. All Rights Reserved Worldwide.
   * [Nortel](nortel.md)
   * [Cisco](cisco.md)
   * [T-Mobile](tmobile.md)
+  * [CNEX](cnex.md)
   * GitHub 
   * Solarwinds
   * Microsoft Exchange (Hafnium)
