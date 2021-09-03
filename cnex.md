@@ -11,14 +11,14 @@ One of its co-founders, Yiren Huang, had worked on such controllers and related 
 This co-founder also worked at Huawei from 2011 to 2013 in Huawei's storage division.
 By 2016, CNEX had developed some advanced controllers for SSDs - technology that Huawei did not yet have.
 
-## Huawei strings along CNEX
+## Huawei fakes purchase interest
 Huawei engaged CNEX by pretending that it was interested in purchasing CNEX's technology.
 In 2015, Huawei invited CNEX to make a presentation in China.
 Huawei portrayed this presentation as "for the headquarter and not for the storage group."
-Subsequently, Huawei pressured CNEX to share a copy of the deck - the pressure came from dangling the possibility of a purchase in front of CNEX.
+Subsequently, Huawei pressured CNEX to share a copy of the deck - the pressure came from dangling the possibility of a product purchase in front of CNEX.
 Huawei assured CNEX that it would not share the presentation with the storage group.
-However, once it had the presentation, it did just that.
-The idea was to understand bits of technology documented in the presentation and use those ideas in Huawei's storage group.
+However, once it had the presentation, Huawei did just that.
+The idea was to understand bits of technology documented in the presentation and use those ideas in Huawei's storage products.
 
 ## Huawei employs China-based academic for reverse-engineering
 In 2016, Huawei engaged two academicians to reverse-engineer CNEX's product.
@@ -48,7 +48,7 @@ This agreement prohibted Mao from disclose information about the controller to a
 In April 2017, ince Mao had the controller in hand, he (or his students) attempted to understand the functionality of the various parts of the controller.
 In the process, Mao and his ended up breaking the controller rendering it useless.
 Mao contacted CNEX and claimed that one of his students had accidentaly broken the controller.
-Subsequent analysis revealed that the damage to controller was most likely not accidental - i.e., someone had attempted to learn how the controller word, by dismantling a portion.
+Subsequent analysis revealed that the damage to controller was not accidental - i.e., someone had attempted to learn how the controller worked, by carefully dismantling a portion of it.
 However, now, Mao and his team could not get the controller back into working condition.
 Presumably, Mao needed some technical assistance to put the controller back in working order (or get a replacement controller).
 
@@ -56,12 +56,23 @@ Presumably, Mao needed some technical assistance to put the controller back in w
 In June 2017, Huawei contacted the distributor to buy a CNEX controller.
 This contact was odd because, CNEX had not previously disclosed its distributor or part numbers to Huawei.
 The only person who had the complete ordering information was Mao.
-Huawei had learned the ordering information through Mao - after all, Mao had providing updates to Huawei as he attempted to reverse-engineer the CNEX controller.
+Huawei had learned the ordering information through Mao - after all, Mao had been providing updates to Huawei as he attempted to reverse-engineer the CNEX controller.
 
 Had Huawei been successfull in procuring the part, they could conduct reverse-engineering on their own or provide Mao with a replacement board to continue his work.
 
-In July 2017, when CNEX learned of Huawei's clanderstine attempt to buy the controller, it cut-off technical support to Mao.
-Mao was no stuck.
+In July 2017, when CNEX learned of Huawei's clandestine attempt to buy the controller, it cut-off technical support to Mao.
+Mao was now stuck.
+
+### Mao uses his Texas contacts
+It turns out that Mao knew the first academician at the University of Texas at Arlington.
+They had published a few papers together and their relationship preceded Mao's CNEX project.
+Mao also knew that the Texas academician had considered purchasing a CNEX controller.
+
+Mao contacted this academician to lobby for access to the controller.
+While this Texas academician did not have the controller, his colleague did.
+It appears that Mao worked out a deal with the two academicians to get short-term remot-access to the CNEX controller(s) in Texas.
+
+Through out the reverse-engineering project, Mao provided progress reports and information on the inner workings of the CNEX controller to multiple Huawei employees.
 
 ## Destabalizing CNEX
 Huawei took some additional steps to destabilize CNEX.
@@ -69,16 +80,23 @@ It created an organizational chart representation of CNEX, enumerating CNEX empl
 Then it launched an effort to hire away these employees from CNEX for the purpose of creating turmoil within CNEX.
 
 ## Jury confirms Huawei's role
+Huawei and CNEX filed duelling lawsuits against each other in 2017 in the U.S.
+In 2019, a jury found that Huwaei had indeed misappropriated CNEX's technology.
+
+Subsequently, in a separate 2019 case, Mao admitted to lying to the FBI when the FBI questioned Mao on the CNEX case.
+The lying was provable given the FBI's investigation into the case.
+The FBI seems to have dropped the rest of the case (that pertained to the actual intellectual property theft) after Mao admitted to lying.
+
 
 ## References and notes
-\[\]: Huawei Technologies loses trade secrets case against U.S. chip designer. Gary McWilliams. Reuters. June 26, 2019.
+\[1\]: Superseding Indictment. Case 1:18-cr-00457-AMD. United States Eastern District Court. February 23, 2020.
 
-\[\]: Superseding Indictment. Case 1:18-cr-00457-AMD. United States Eastern District Court. February 23, 2020.
+\[2\]: Document 1. Case 4:19-mj-00647-BJ. U.S. District Court for the Northern District of Texas, Fort Worth Division. August 14, 2019.
 
-\[\]: Semiconductor startup CNEX Labs alleged Huawei’s deputy chairman conspired to steal its intellectual property. Catherine Shu. Techcrunch. May 22, 2019.
+\[3\]: Semiconductor startup CNEX Labs alleged Huawei’s deputy chairman conspired to steal its intellectual property. Catherine Shu. Techcrunch. May 22, 2019.
 
-\[\]: Document 1. Case 4:19-mj-00647-BJ. U.S. District Court for the Northern District of Texas, Fort Worth Division. August 14, 2019.
+\[4\]: Huawei Technologies loses trade secrets case against U.S. chip designer. Gary McWilliams. Reuters. June 26, 2019.
 
-\[\]: Chinese professor stole hard drive secrets for Huawei, US government charges. Timothy Lee. Ars Technica. September 9, 2019.
+\[5\]: U.S. charges Chinese professor tied to Huawei with criminal theft of IP. Matt Hamblen. Fierce Electronics. Sep 10, 2019
 
-\[\]: U.S. charges Chinese professor tied to Huawei with criminal theft of IP. Matt Hamblen. Fierce Wireless. Sep 10, 2019
+\[6\]: Chinese professor stole hard drive secrets for Huawei, US government charges. Timothy Lee. Ars Technica. September 9, 2019.
