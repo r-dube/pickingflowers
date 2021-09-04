@@ -30,6 +30,7 @@ Copyright © 2021 r-dube. All Rights Reserved Worldwide.
   * [Cisco](cisco.md)
   * [T-Mobile](tmobile.md)
   * [CNEX](cnex.md)
+  * [Quintel](quintel.md)
   * GitHub 
   * Solarwinds
   * Microsoft Exchange (Hafnium)
