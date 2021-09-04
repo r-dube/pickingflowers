@@ -18,14 +18,15 @@ Huawei portrayed this presentation as "for the headquarter and not for the stora
 Subsequently, Huawei pressured CNEX to share a copy of the deck - the pressure came from dangling the possibility of product purchase to CNEX.
 Huawei assured CNEX that it would not share the presentation with the storage group.
 However, once it had the presentation, Huawei did just that.
-The idea was to understand bits of technology documented in the presentation and use those ideas in Huawei's storage products \[2\], \[3\].
+The idea was to understand bits of technology documented in the presentation and use those ideas in Huawei's storage products.
+This scheme to lure CNEX into disclosing its technology was sanctioned by Huawei's deputy chairman Eric Xu \[2\], \[3\].
 
 ## Huawei employs China-based academician for reverse-engineering
 In 2016, Huawei engaged two academicians to study CNEX's product.
 One academician was based at the University of Texas in Arlington.
 The other academician - Bo Mao - was based at Xiamen University in China \[2\].
 
-Huawei gave the academician in Texas a grant to procure equipment from CNEX.
+Huawei gave the academician in Texas a $100,000 grant to procure equipment from CNEX.
 The academician initiated contact with CNEX but did not follow through.
 However, a different academician at the same university purchased two controllers from CNEX using the Huawei grant. The two Texas academicians knew each other, worked in the same general area of computer science, and had published research papers together.
 
