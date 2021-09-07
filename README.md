@@ -9,36 +9,37 @@ Copyright © 2021 r-dube. All Rights Reserved Worldwide.
 
 ## Table of Contents
 * [About this book](about.md)
-* Part I: Government Espionage
+* Part 1: Huawei's corporate espionage
+  * [Nortel](nortel.md)
+  * [Cisco](cisco.md)
+  * [Motorola](motorola.md)
+  * [Quintel](quintel.md)
+  * [T-Mobile](tmobile.md)
+  * [CNEX](cnex.md)
+* Part 2: Surveilling Tibetan Nationals
+* Part 3: Government Espionage
   * U.S. (Titan Rain, Shady Rat, OPM)
   * U.K.
   * Canada
   * Australia
   * New Zealand
   * Africa
-* Part II: Spying on Non-governmental Organizations
+* Part 4: Spying on Non-governmental Organizations
   * Australian Universities
   * U.S. Universities
   * Institute for Micro-electronics (Shane Todd)
-* Part III: Spying on Dissidents and Refugees
+* Part 5: Spying on Dissidents and Refugees
   * Tibet
   * Xinjiang
-* Part IV: Corporate Espionage and attacks on Private Enterprises
   * Google (Aurora)
+* Part 6: Influence Operations on the Public 
+  * Hong Kong
+  * Taiwan
+  * COVID-19
+* Part 7: Other Intrusions into Private Enterprises
   * RSA
-  * [Nortel](nortel.md)
-  * [Cisco](cisco.md)
-  * [T-Mobile](tmobile.md)
-  * [CNEX](cnex.md)
-  * [Quintel](quintel.md)
   * GitHub 
   * Solarwinds
   * Microsoft Exchange (Hafnium)
   * Oil & Gas (Night Dragon)
-* Part V: Influence Operations on the Public 
-  * Hong Kong
-  * Taiwan
-  * COVID-19
 * Summary
-* Appendix
-  * Chinese Threat Actors
