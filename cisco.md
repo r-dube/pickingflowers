@@ -8,6 +8,7 @@ Huawei acknowledges that it used code from Cisco in its products but pins the bl
 ## Huawei accepts some responsibility
 In January 2003, Cisco filed a lawsuit against Huawei in the U.S. for stealing code from its IOS operating system that ran on its routers and switches \[1\].
 As part of the lawsuit, Cisco alleged that Huawei not only stole code, but that Huawei also copied the IOS command-line interface and the IOS documentation related to the stolen code.
+In some cases, Huawei's product documentation included the same typos as the ones in Cisco's documentation.
 
 In July 2004, Cisco dropped the lawsuit after Huawei acknowledged some Cisco code in its Quidway routers \[2\], \[3\].
 Huawei removed the offending code from its products and changed its user interface and documentation as part of the lawsuit process.

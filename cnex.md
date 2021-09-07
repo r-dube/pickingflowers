@@ -28,7 +28,7 @@ The other academician - Bo Mao - was based at Xiamen University in China \[2\].
 
 Huawei gave the academician in Texas a $100,000 grant to procure equipment from CNEX.
 The academician initiated contact with CNEX but did not follow through.
-However, a different academician at the same university purchased two controllers from CNEX using the Huawei grant. The two Texas academicians knew each other, worked in the same general area of computer science, and had published research papers together.
+However, a different academician at the same university purchased two controllers from CNEX using the Huawei grant. The two Texas academicians knew each other, worked in the same general area of computer science, and had conducted research together \[8\].
 
 Huawei cut a separate deal with Mao to create a project to reverse engineer CNEX's technology.
 Huawei paid Mao for this work and maintained frequent and sustained communication with Mao regarding the project.
@@ -105,3 +105,8 @@ The FBI seems to have dropped the rest of the case (that pertained to the actual
 \[6\]: Chinese professor stole hard drive secrets for Huawei, U.S. government charges. Timothy Lee. Ars Technica. September 9, 2019.
 
 \[7\]: Chinese professor pleads guilty to lying to FBI in Huawei-related case. Karen Freifeld. Reuters. December 4, 2020.
+
+\[8\]: As per \[6\], the first academician at the University of Texas at Arlington appears to be Hong Jiang. 
+The second academician at the same university appears to be Song Jiang. 
+Hong Jiang list his areas of research as "big data and large-scale computing, computer architecture, memory/storage and i/o systems, cloud and edge computing systems, systems support for big data analytics, hpc systems." 
+Song Jiang lists his areas of research as "big data and large-scale computing, file and storage systems, os, hpc, and Management of Big Data."
