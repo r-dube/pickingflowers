@@ -15,7 +15,7 @@ By 2016, CNEX had developed some advanced controllers for SSDs - technology that
 Huawei engaged CNEX by pretending that it was interested in purchasing CNEX's technology.
 In 2015, Huawei invited CNEX to make a presentation in China.
 Huawei portrayed this presentation as "for the headquarter and not for the storage group."
-Subsequently, Huawei pressured CNEX to share a copy of the deck - the pressure came from dangling the possibility of product purchase to CNEX.
+Subsequently, Huawei pressured CNEX to share a copy of the deck - the pressure came from dangling the possibility of product purchases in front of CNEX.
 Huawei assured CNEX that it would not share the presentation with the storage group.
 However, once it had the presentation, Huawei did just that.
 The idea was to understand bits of technology documented in the presentation and use those ideas in Huawei's storage products.

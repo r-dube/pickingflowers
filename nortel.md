@@ -82,6 +82,11 @@ Similarly, in 2008 Huawei undercut Nortel for a 3G wireless equipment deal in Ca
 In both cases, Huawei's offer was significantly cheaper than Nortel's (in one case by up to 40%).
 Given China's extensive infiltration of Nortel, it stands to reason that the Chinese government had passed on the specifics of Nortel's bids for the projects to Huawei.
 
+One may wonder about the extent of the price under-cutting by Huawei - i.e., did Huawei really need to be 40% cheaper than Nortel and other vendors. 
+In 2005 - 2008, Huawei was still attempting to establish its credentials as a major telecom and equipment vendor.
+It likely priced low (perhaps at the cost of the equipment) to notch its first few wins at well-known telecom providers.
+Further, Huawei may not have had the same level of business intelligence from the Chinese military on vendors other than Nortel - i.e., the Chinese military may not have (yet) penetrated other vendors bidding on the same equipment contracts as Huawei.
+
 ### Hiring Nortel ex-employees
 Around 2009, as Nortel plunged deeper into crisis, Huawei hired away some of Nortel's most prominent researchers in Ottawa.
 Subsequently, in 2010, Huawei opened its own research center in Ottawa. 
