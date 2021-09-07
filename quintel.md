@@ -2,7 +2,7 @@
 Quintel Technology Ltd. is a U.S. and U.K.-based supplier of antenna technology.
 This technology improves reception between cell phones and antennas on cell towers.
 Huawei Technologies Co. Ltd. engaged Quintel in 2009 to acquire its antenna technology.
-In reality, Huawei used its engagement with Quintel as a cover to understand Quintel's technology and steal it.
+However, Huawei's engagement with Quintel was just a cover to understand Quintel's technology and steal it.
 
 ## Luring Quintel with the prospect of a business deal
 In 2009, Huawei expressed interest in Quintel's antenna technology \[1\].
@@ -10,14 +10,14 @@ Wanting to know more, Huawei executed a non-disclosure agreement (NDA) with Quin
 This agreement prevented Huawei from using any disclosed technology for its own benefit or to Quintel's disadvantage.
 The NDA enabled Quintel to have technical discussions with Huawei while protecting its intellectual property (at least in principle).
 
-Subsequently, Quintel made a detailed presentation of its technology to Huawei.
+Subsequently, Quintel made a presentation of its technology to Huawei.
 After the presentation, several Huawei engineers requested additional detail from Quintel on its technology.
 Quintel answered these technical questions \[2\], assuming that it was protected by the NDA.
 
 Zhengxiang Ma, a Huawei employee, coordinated the engagement between Huawei and Quintel.
 As the technical exchange progressed, Ma repeatedly urged Quintel to be patient in its dealings with Huawei \[3\].
 
-Ultimately, the technical decisions did not lead to a business arrangement, and Quintel disengaged with Huawei.
+Ultimately, the technical decisions did not lead to a business arrangement, and Quintel disengaged from Huawei.
 
 ## Filing a patent using Quintel's ideas
 On October 30, 2009, while the discussions with Quintel were ongoing, Ma filed a provisional patent using ideas from Quintel's presentation and the subsequent technical exchange with Huawei's engineers.
@@ -33,7 +33,7 @@ The matter came to light only when Quintel's own patent application in Europe wa
 The European Patent Agency cited Huawei's U.S. patent as prior art in rejecting Quintel's application \[4\].
 
 In its Quintel play, first, Huawei dangled a business deal in front of the smaller vendor that had specific advanced technology.
-Second, Huawei tricked Quintel into revealing more about its technology by asking technical questions while elongating the business deal discussions.
+Second, Huawei tricked Quintel into revealing more about its technology by asking technical questions while elongating business discussions.
 Finally, Huawei let the business deal fade away once it knew enough about Quintel's technology - enough to file a provisional patent application based on the technology.
 
 ## References and notes

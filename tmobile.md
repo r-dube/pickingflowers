@@ -4,7 +4,7 @@ In 2012 T-mobile used this robot to test Huawei's cell phones for launch on its 
 As it turned out, Huawei's phones were not doing well at T-mobile's tests.
 Simultaneously, inspired by T-mobile technology, Huawei was developing its own robot.
 However, Huawei was running into technical challenges in the development of its robot.
-To improve performance on T-mobile tests and speed up the development of the Huawei robot, Huawei's management authorized its engineers to steal technology from the T-mobile robot.
+To improve performance on T-mobile's tests and speed up the development of the in-house robot, Huawei's management authorized its engineers to steal robot technology from T-mobile.
 
 ## T-mobile builds a robot
 Since 2006, T-mobile had invested significant effort in building its cell phone testing robot.
@@ -14,7 +14,9 @@ Initially, T-mobile restricted the robot's use to T-mobile employees.
 However, based on feedback from cell phone vendors, T-mobile eventually allowed a pre-approved list of vendor employees to use the robot.
 The vendors' use of the robot was subject to several intellectual property protection rules.
 These rules included prohibitions on taking photographs or videos of the robot and reverse-engineering the robot.
-Huawei's management signed an agreement with T-mobile indicating that its employees would adhere to T-mobile's rules \[2\], \[3\]. 
+
+
+During its engagement with T-mobile, Huawei's management signed an agreement with T-mobile indicating that its employees would adhere to T-mobile's rules \[2\], \[3\]. 
 
 ## Huawei management directs corporate espionage
 In 2012, Huawei was attempting to establish a market for its products on T-mobile's network. Facing poor results in T-mobile's robot-assisted tests and technical difficulties in its internal testing robot development project, Huawei's management first asked T-mobile for a license to the robot technology. 
@@ -25,7 +27,7 @@ T-mobile declined to license the technology, not just to Huawei, but also to oth
 Once Huawei's management realized that T-mobile was not going to license the robot technology, it directed specific employees with access to the T-mobile robot to take photographs, videos, and measurements of various robot parts in an attempt to reverse-engineer the robot.
 At one point in May 2013, a Huawei employee surreptitiously removed a mechanical arm from the robot to take it out of T-mobile's premises for photography and measurement.
 At another point, a Huawei employee with access to the robot lab enabled another Huawei employee to gain unauthorized access to the robot.
-All these actions violated Huawei's agreement with T-mobile that gave Huawei employees access to the robot for testing in exchange for staying away for reverse engineering \[2\].
+All these actions violated Huawei's agreement with T-mobile that gave Huawei employees access to the robot for testing in exchange with the constrain of "no reverse engineering" \[2\].
 
 ## Huawei disavows employees
 After the removal of the robot arm, T-mobile tightened restrictions on Huawei personnel's access to the robot lab.

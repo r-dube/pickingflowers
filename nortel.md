@@ -86,6 +86,7 @@ One may wonder about the extent of the price under-cutting by Huawei - i.e., did
 In 2005 - 2008, Huawei was still attempting to establish its credentials as a major telecom and equipment vendor.
 It likely priced low (perhaps at the cost of the equipment) to notch its first few wins at well-known telecom providers.
 Further, Huawei may not have had the same level of business intelligence from the Chinese military on vendors other than Nortel - i.e., the Chinese military may not have (yet) penetrated other vendors bidding on the same equipment contracts as Huawei.
+Thus, to win the deal, Huawei may have wanted ensure that no other vendor similar to Nortel that had developed its intellectual property in-house (and therefore had higher cost equipment), could underbid Huawei.
 
 ### Hiring Nortel ex-employees
 Around 2009, as Nortel plunged deeper into crisis, Huawei hired away some of Nortel's most prominent researchers in Ottawa.

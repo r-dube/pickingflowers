@@ -14,7 +14,7 @@ Copyright © 2021 r-dube. All Rights Reserved Worldwide.
   * [Cisco](cisco.md)
   * [Motorola](motorola.md)
   * [Quintel](quintel.md)
-  * [T-Mobile](tmobile.md)
+  * [T-mobile](tmobile.md)
   * [CNEX](cnex.md)
 * Part 2: Surveilling Tibetan Nationals
 * Part 3: Government Espionage

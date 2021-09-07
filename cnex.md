@@ -5,10 +5,12 @@ Huawei attempted to catch up by employing two techniques to acquire CNEX's techn
 First, Huawei's management tricked CNEX into disclosing some of its technology by pretending that a business deal for CNEX was on the table.
 Second, and simultaneously, they commissioned an academician to illegally obtain and reverse-engineer CNEX's technology.
 
-## Background on CNEX
+## CNEX background
 CNEX, headquartered in California, was started in 2013 to develop solid-state drives (SSDs) controllers.
+
 One of its co-founders, Yiren Huang, had worked on such controllers and related technology areas for several years.
 This co-founder also worked at Huawei from 2011 to 2013 in Huawei's storage division.
+
 By 2016, CNEX had developed some advanced controllers for SSDs - technology that Huawei did not yet have \[1\], \[2\].
 
 ## Huawei fakes purchase interest
@@ -59,11 +61,11 @@ In June 2017, Huawei contacted the distributor to buy a CNEX controller.
 This contact was odd because CNEX had not previously disclosed its distributor or part numbers to Huawei.
 The only person who had the complete ordering information was Mao.
 
-Huawei had learned the ordering information through Mao - after all, Mao had been providing regular updates to Huawei as he attempted to reverse-engineer the CNEX controller.
+Huawei could only have earned the ordering information from Mao - after all, Mao had been providing regular updates to Huawei as he attempted to reverse-engineer the CNEX controller.
 
 Had Huawei been successful in procuring the part, they could conduct reverse-engineering independently or provide Mao with additional controllers to continue (or accelerate) his work.
 
-In July 2017, when CNEX learned of Huawei's covert attempt to buy the controller, it cut-off technical support to Mao \[2\].
+In July 2017, when CNEX learned of Huawei's covert attempt to buy the controller, it guessed Mao's true intentions (of reverse-engineering CNEX's technology for Huawei) and cut-off technical support to Mao \[2\].
 Mao was now stuck.
 
 ### Mao uses his Texas contacts
@@ -86,8 +88,8 @@ Then it launched an effort to hire these employees from CNEX to create turmoil w
 Huawei and CNEX filed dueling lawsuits against each other in 2017 in the U.S.
 In 2019, a jury found that Huwaei had misappropriated CNEX's technology \[4\].
 
-Subsequently, in a separate 2019 case, Mao admitted to lying to the FBI when the FBI questioned Mao on the CNEX case.
-The lying was provable given the FBI's investigation into the case.
+Subsequently, in a separate 2019 case, Mao admitted to lying to the FBI when the FBI questioned Mao regarding his CNEX project.
+The lying was provable given the FBI's investigation into Huawei vis-a-vis CNEX.
 The FBI seems to have dropped the rest of the case (that pertained to the actual intellectual property theft) after Mao admitted to lying \[5\], \[6\], \[7\].
 
 
