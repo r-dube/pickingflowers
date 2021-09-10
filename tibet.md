@@ -59,10 +59,29 @@ Central Tibetan Administration Website Compromised. Kaspersky Lab Securelist. Au
 New Targeted Attack on Taiwanese Government & Tibetan Activists Open up
 a Can of Warms - GrayPigeon, Hangame & Shiqiang Gang. FireEye. April 18, 2013
 
+### Palo Alto Networks
+Scarlet Mimic: Years-Long Espionage Campaign Targets Minority Activists. Palo Alto Networks Unit 42. January 24, 2016.
+
 ### SANS
 Overview of cyber attacks against Tibetan communities. The SANS Institute. March 24, 2008.
 
 ### Blackberry / Cylance
 Puttering into the Future. Blackberry Threat Vector Blog. January 12, 2016.
 
+### Volexity
+Storm Cloud Unleashed: Tibetan Focus of Highly Targeted Fake Flash Campaign. Volexity Threat Research. March 31, 2020.
+
 ### Other
+How did an NYPD officer from Tibet end up accused of spying for China? Amanda Holpuch. The Guardian. September 29, 2020.
+
+Judge Halts Release of NYPD Officer Accused of Spying for China. NBC New York. October 2, 2020.
+
+Counter-espionage regulations force Tibetans to spy on Tibetans. International Campaign for Tibet. March 15, 2021.
+
+Sweden Charges Tibetan Resident With Spying on Exile Community For China. Radio Free Asia. April 12, 2018.
+
+Tibetan Charged in Sweden Denies Spying For China. Radio Free Asia. April 18, 2018.
+
+Tibetan Man Convicted in Sweden of Spying For China. Radio Free Asia. June 15, 2018.
+
+Sweden to deport Chinese agent arrested for spying on Tibetans. Phayul. October 28, 2020.
