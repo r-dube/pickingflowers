@@ -1,7 +1,7 @@
 
 # Picking Flowers
 
-An accounting of China's electronic intrusions into international governments, non-govermental organizations, commercial companies and the public.
+An accounting of China's electronic intrusions into and surveillance of international governments, non-govermental organizations, commercial companies and the public.
 
 
 Copyright © 2021 r-dube. All Rights Reserved Worldwide.
@@ -16,7 +16,10 @@ Copyright © 2021 r-dube. All Rights Reserved Worldwide.
   * [Quintel](quintel.md)
   * [T-mobile](tmobile.md)
   * [CNEX](cnex.md)
-* Part 2: Surveilling Tibetan Nationals
+* Part 2: Spying on Minority Groups, Refugees and Dissidents
+  * [Tibet](tibet.md)
+  * Xinjiang
+  * Google (Aurora)
 * Part 3: Government Espionage
   * U.S. (Titan Rain, Shady Rat, OPM)
   * U.K.
@@ -28,15 +31,11 @@ Copyright © 2021 r-dube. All Rights Reserved Worldwide.
   * Australian Universities
   * U.S. Universities
   * Institute for Micro-electronics (Shane Todd)
-* Part 5: Spying on Dissidents and Refugees
-  * Tibet
-  * Xinjiang
-  * Google (Aurora)
-* Part 6: Influence Operations on the Public 
+* Part 5: Influence Operations on the Public 
   * Hong Kong
   * Taiwan
   * COVID-19
-* Part 7: Other Intrusions into Private Enterprises
+* Part 6: Other Intrusions into Private Enterprises
   * RSA
   * GitHub 
   * Solarwinds
