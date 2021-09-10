@@ -112,3 +112,4 @@ The FBI seems to have dropped the rest of the case (that pertained to the actual
 The second academician at the same university appears to be Song Jiang. 
 Hong Jiang list his areas of research as "big data and large-scale computing, computer architecture, memory/storage and i/o systems, cloud and edge computing systems, systems support for big data analytics, hpc systems." 
 Song Jiang lists his areas of research as "big data and large-scale computing, file and storage systems, os, hpc, and Management of Big Data."
+None of the reports that we analyzed indicate that these two academicians knowingly passed CNEX intellectual property to Huawei.
