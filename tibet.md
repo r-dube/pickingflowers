@@ -14,7 +14,7 @@
 
 ## References and notes
 
-### The Citizen Lab
+### University of Toronto
 \[TCL1\]: Tracking GhostNet: Investigating a Cyber Espionage Network. Information Warfare Monitor. March 29, 2009.
 
 \[\TCL1a]: Shadows in the Cloud: Investigating Cyber Espionage 2.0. Information Warfare Monitor. April 6, 2010.
@@ -42,7 +42,7 @@ Engineering for the Distribution of LURK Malware. The Citizen Lab. July 26, 2012
 
 \[TCL12\]: Missing Link: Tibetan Groups Targeted with 1-Click Mobile Exploits. The Citizen Lab. September 24, 2019.
 
-### Alien Vault
+### AT&T / Alien Vault
 \[AV1\]: Targeted Attacks Against Tibetan Organizations. Alien Vault. March 13, 2012.
 
 \[AV2\]: AlienVault Tibet Related Research Now Used to Target Tibetan NonGovernmental Organizations. Alient Vault. March 19, 2012.
@@ -77,6 +77,22 @@ a Can of Warms - GrayPigeon, Hangame & Shiqiang Gang. FireEye. April 18, 2013
 
 ### Trend Micro
 \[TM1\]: Trends in Targeted Attacks. Trend Micro. 2011.
+
+### Cisco 
+ \[C1\]:ExileRAT shares C2 with LuckyCat, targets Tibet. Cisco Talos. February 4, 2019.
+
+### The Security Ledger
+\[TSL1\]: Targeted Attacks Follow Tibetans To The Cloud. The Security Ledger. March 10, 2016.
+
+\[TSL2\]: ExileRAT Malware Targets Tibetan Exile Government. The Security Ledger. February 6, 2019.
+
+### ZDnet
+\[ZD1\]: Chinese cyberspies targeted Tibetans with a malicious Firefox add-on. ZDnet. February 25, 2021.
+
+### Proofpoint
+\[PP1\]: Chinese APT TA413 Resumes Targeting of Tibet Following COVID-19 Themed Economic Espionage Campaign Delivering Sepulcher Malware Targeting Europe. Proofpoint. September 1, 2020.
+
+\[PP2\]: TA413 Leverages New FriarFox Browser Extension to Target the Gmail Accounts of Global Tibetan Organizations. Proofpoint. February 25, 2021.
 
 ### Other
 \[O1\]: How did an NYPD officer from Tibet end up accused of spying for China? Amanda Holpuch. The Guardian. September 29, 2020.
