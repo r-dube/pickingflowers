@@ -1,16 +1,33 @@
-# Infiltrating the Tibetan diaspora
+# Infiltrating the Tibetan Diaspora
+After the Chinese invasion of Tibet in the 1950s, may Tibetans left Tibet for a life of exile in India and other countries. 
+Ever since, fearing that the Tibetans would someday muster enough of an organization to demand their country back, China has infiltrated Tibetan organizations. 
+Since the 2000s this infiltration has extended online.
+An analysis of China's efforts shows that China's infiltration of Tibetan organizations is well resourced, persistent and agile.
+In contrast, and for obvious reasons, Tibetan counter measures are incomplete and unable to fend-off the Chinese.
 
 ## Cyber attacks against Tibetans
 
+### Communication logs for Tibetans in Tibet
+
 ### Malware attachments
 
-### Phishing
+### Credential phishing and watering holes
+
+### Cell phone malware
+
+### Social engineering
+
+### Continuous development of malware and attacks 
+
+### Using the same infrastructure against other groups
 
 ## Gathering human intelleigence on Tibetans
 
 ### In Sweden
 
 ### In the U.S.
+
+## Conclusion
 
 ## References and notes
 
@@ -19,7 +36,7 @@
 
 \[TCL1\]: Tracking GhostNet: Investigating a Cyber Espionage Network. Information Warfare Monitor. March 29, 2009.
 
-\[\TCL1a]: Shadows in the Cloud: Investigating Cyber Espionage 2.0. Information Warfare Monitor. April 6, 2010.
+\[TCL1a]: Shadows in the Cloud: Investigating Cyber Espionage 2.0. Information Warfare Monitor. April 6, 2010.
 
 \[TCL2\]: Information Operations and Tibetan Rights in the Wake of Self-Immolations. The Citizen Lab. March 9, 2012,
 
@@ -34,7 +51,7 @@ Engineering for the Distribution of LURK Malware. The Citizen Lab. July 26, 2012
 
 \[TCL7\]: Surtr: Malware Family Targeting the Tibetan Community. The Citizen Lab. August 2, 2013.
 
-\[\TCL8]: Communities @ Risk: Targeted Digital Threats Against Civil Society. The Citizen Lab. November 11, 2014.
+\[TCL8]: Communities @ Risk: Targeted Digital Threats Against Civil Society. The Citizen Lab. November 11, 2014.
 
 \[TCL9\]: Targeted Threat Index: Characterizing and Quantifying Politically-Motivated Targeted Malware. 23rd USENIX Security Symposium. August 2014
 
