@@ -15,6 +15,8 @@
 ## References and notes
 
 ### University of Toronto
+\[TCL0\]: BREACHING TRUST: An analysis of surveillance and security practices on China’s TOM-Skype platform. Information Warfare Monitor. October 1, 2008.
+
 \[TCL1\]: Tracking GhostNet: Investigating a Cyber Espionage Network. Information Warfare Monitor. March 29, 2009.
 
 \[\TCL1a]: Shadows in the Cloud: Investigating Cyber Espionage 2.0. Information Warfare Monitor. April 6, 2010.
@@ -108,3 +110,5 @@ a Can of Warms - GrayPigeon, Hangame & Shiqiang Gang. FireEye. April 18, 2013
 \[O6\]: Tibetan Man Convicted in Sweden of Spying For China. Radio Free Asia. June 15, 2018.
 
 \[O7\]: Sweden to deport Chinese agent arrested for spying on Tibetans. Phayul. October 28, 2020.
+
+\[08\]: Meet the Canadians who busted GhostNet. The Globe and Mail. March 30, 2009.
