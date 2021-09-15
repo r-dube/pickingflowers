@@ -2,12 +2,22 @@
 After the Chinese invasion of Tibet in the 1950s, may Tibetans left Tibet for a life of exile in India and other countries. 
 Ever since, fearing that the Tibetans would someday muster enough of an organization to demand their country back, China has infiltrated Tibetan organizations. 
 Since the 2000s this infiltration has extended online.
-An analysis of China's efforts shows that China's infiltration of Tibetan organizations is well resourced, persistent and agile.
+An analysis of China's efforts shows that China's infiltration of Tibetan organizations, both online and in-person, is well resourced, persistent and agile.
 In contrast, and for obvious reasons, Tibetan counter measures are incomplete and unable to fend-off the Chinese.
 
 ## Cyber attacks against Tibetans
+That China monitors communications into and out of Tibet is well known.
+After all, all current communication into Tibet transits through infrastructure contolled by the Chinese.
+However, multiple studies from non-profits and commercial information security companies show China's stiffling presence in the online lives of Tibetan organizations and activists outside of China.
 
-### Communication logs for Tibetans in Tibet
+### Tibetan communication logs
+\[TCL0\] documents China's logging and monitoring of Skype messages in and and out China and territories currently under Chinese control such as Tibet.
+These logs were likely used to arrest a Tibetan woman (circa 2008) who worked in Dharmasala, and was returning to her village in Tibet.
+The woman was confronted by Chinese officials at Tibet's Nepal border with transcripts of her communication during the time that she away in Dharmasala.
+The Chinese officials claimed that that the transcripts demonstrated that the woman was politically active - sufficient for an arrest in Chinese controlled Tibet \[TCL1\], \[O9\].
+
+Given China's extensive infiltration of Tibetans, it is possible the transcipts referred to above came from direct compromise of the woman's computer or cell phone as we will see below \[O9\].
+Recorded incidents of electronic compromise of Tibetan nationals outside of Tibet by China go atleast as far back as 2007 \[SANS1\].
 
 ### Malware attachments
 
@@ -129,3 +139,5 @@ a Can of Warms - GrayPigeon, Hangame & Shiqiang Gang. FireEye. April 18, 2013
 \[O7\]: Sweden to deport Chinese agent arrested for spying on Tibetans. Phayul. October 28, 2020.
 
 \[08\]: Meet the Canadians who busted GhostNet. The Globe and Mail. March 30, 2009.
+
+\[O9\]: Ghostnet. Wikipedia. (Retrieved) September 15, 2021.
