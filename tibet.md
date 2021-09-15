@@ -10,9 +10,9 @@ That China monitors communications into and out of Tibet is well known.
 After all, all current communication into Tibet transits through infrastructure contolled by the Chinese.
 However, multiple studies from non-profits and commercial information security companies show China's stiffling presence in the online lives of Tibetan organizations and activists outside of China.
 
-### Tibetan communication logs
+### Tibetan communication transcripts
 \[TCL0\] documents China's logging and monitoring of Skype messages in and and out China and territories currently under Chinese control such as Tibet.
-These logs were likely used to arrest a Tibetan woman (circa 2008) who worked in Dharmasala, and was returning to her village in Tibet.
+These logs were likely used to arrest a Tibetan woman (circa 2008) who worked in Dharmasala (India), and was returning to her village in Tibet.
 The woman was confronted by Chinese officials at Tibet's Nepal border with transcripts of her communication during the time that she away in Dharmasala.
 The Chinese officials claimed that that the transcripts demonstrated that the woman was politically active - sufficient for an arrest in Chinese controlled Tibet \[TCL1\], \[O9\].
 
