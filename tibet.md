@@ -95,9 +95,16 @@ Finally, the Chinese attackers have malware families for multiple platforms: Mic
 
 Taken together, the depth and breadth of the endeavor points to a well resourced organization tasked with a time invariant goal of infilitrating Tibetan (and other) organizations and to maintain that infilitration.
 
-## Gathering human intelleigence on Tibetans
+## Gathering human intelligence on Tibetans
+China supplements its electronic surveillance of the Tibetan community with human intelligence.
+Such intelligence is gathered by using the lure of money to turn some Tibetans into spies against their community.
 
 ### In Sweden
+One such Tibetan was Dorjee Gyantsan who spied for China between 2015 and 2017.
+Dorjee, who lived in Sweden, was paid $6,000 by a Chinese intelligence officer in Poland to provide the Chinese government with information about the families, housing situations and travel plans of members of the Tibetan community in exile in Sweden.
+Subsequently, the Chinese government used the information to harass relatives of the exiles still living in Chinese controlled Tibet \[O4\], \[O5\], \[O6\].
+
+Dorjee was caught, prosecuted, sentenced to prison in Sweden and on his release, deported from Sweden \[O7\].
 
 ### In the U.S.
 
