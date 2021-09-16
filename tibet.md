@@ -107,8 +107,24 @@ Subsequently, the Chinese government used the information to harass relatives of
 Dorjee was caught, prosecuted, sentenced to prison in Sweden and on his release, deported from Sweden \[O7\].
 
 ### In the U.S.
+Baimadajie Angwang was another Tibetan who spied for China.
+Baimadajie was New York City policeman of Tibetan origin.
+He was also previously a member of the U.S. Marine Corp \[O1\], \[O2\].
+
+In 2018, Baimadajie was recruited by Chinese officials working out of the Chinese consultate in New York.
+Subsequently, he met with his New York consulate based handlers multiple times.
+He was arrested in 2020 and his crimimal case is pending in the courts as of this writing.
+
+The type of information that Baimadajie gathered for the Chinese government is not know yet.
+However, pressure on Tibetans to spy against other Tibetans has been documented in \[O3\].
+
 
 ## Conclusion
+From the analysis above, it is clear that the Chinese attackers have succeeded in deeply infiltrating the Tibetan diaspora and in maintaining that infiltration.
+Simultaneously, the Chinese government augments what it learns about Tibetans by electronic means with human intelligence by luring Tibetans with money and coercion to spy on other Tibetans.
+
+The Tibetan diaspora is severely under-resourced and does not have the human capital (they exist in small numbers outside of India and Tibet) or the financial capital to prevent the Chinese government from eavesdropping or disrupting their communications.
+The gap in capability between Chinese offense and Tibetan defense seems depressingly large.
 
 ## References and notes
 
