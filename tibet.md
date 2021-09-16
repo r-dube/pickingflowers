@@ -64,6 +64,15 @@ Subsequently, the attacker sent the activist obfuscated links that if clicked wo
 
 Chinese attackers are known to target Tibetans with both Applie IOS and Android malware \[TCL12\].
 
+### Cloud credential phishing with OAuth
+Cloud credential phishing attemps (say for Gmail login ids and passwords) can be effectively thwarted with the use of two-factor authentication.
+Two-factor authentication has only modest penetration in the Tibetan community (similar to the public at large).
+However, some Tibetan activists do use it.
+
+Chinese attackers get around the use of a second factor for authentication by tricking users into giving malicious cloud applications permissions to access their gmail account or other data stored in the cloud.
+In one documented case, a Chinese attacker attempted to get a Tibetan activist to click on a link sent to a Tibetan activist via WhatsApp. 
+Had the link been clicked, and the prompts on the subsequent screens followed, a malicious cloud based application would have been given OAuth permissions (effectively delegated access) to the activists Gmail account \[TCL12\].
+
 ### Exfiltration and maintaining persistence
 
 ### Continuous development of malware and attacks 
