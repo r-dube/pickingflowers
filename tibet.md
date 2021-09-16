@@ -14,7 +14,7 @@ However, multiple studies from non-profits and commercial information security c
 \[TCL0\] documents China's logging and monitoring of Skype messages in and and out China and territories currently under Chinese control such as Tibet.
 These logs were likely used to arrest a Tibetan woman (circa 2008) who worked in Dharmasala (India), and was returning to her village in Tibet.
 The woman was confronted by Chinese officials at Tibet's Nepal border with transcripts of her communication during the time that she away in Dharmasala.
-The Chinese officials claimed that that the transcripts demonstrated that the woman was politically active - sufficient for an arrest in Chinese controlled Tibet \[TCL1\], \[O9\].
+The Chinese officials claimed that that the transcripts demonstrated that the woman was politically active - sufficient for an arrest in Chinese controlled Tibet \[TCL1\], \[O8\], \[O9\].
 
 Given China's extensive infiltration of Tibetans, it is possible that the transcipts referred to above came from a direct compromise of the woman's computer or cell phone (as we will see below \[O9\]).
 Recorded incidents of electronic compromise of Tibetan nationals outside of Tibet by China go atleast as far back as 2007 \[SANS1\].
@@ -32,18 +32,18 @@ Later in 2012, the Chinese attackers used authentic privately-held messages of s
 
 These social engineering attacks demonstrate that by 2012, the Chinese had deeply penetrated communications between prominent Tibetans living outside Tibet.
 These attacks also demonstrate that the attackers were paying close attention to news articles and forum messages relevant to the Tibetan diaspora.
-The depth of penetration and up-to-date information on issues of interest to Tibetans enabled the Chinese attackers to construct credible lures to ensnare additional Tibetans over multiple years \[AV1\], \[AV2\],  \[AV3\], \[AV4\], \[TCL7\], \[TCL8\], \[TCL9\].
+The depth of penetration and up-to-date information on issues of interest to Tibetans enabled the Chinese attackers to construct credible lures to ensnare additional Tibetans over multiple years \[AV1\], \[AV2\],  \[AV3\], \[AV4\], \[K1\], \[TCL7\], \[TCL8\], \[TCL9\].
 
 China continues to use social engineering and attachments containing malware to infilitrate Tibetans \[C1\], \[TSL2\], \[PAN1\], \[TSL1\].
 
 ### Cloud credential phishing and drive-by-downloads 
 Eventually word of malicious attachments in emails spread among the Tibetan community.
 Instead passing documents around, Tibetan groups started storing documents in the public cloud (for example on Google Drive).
-The Chinese attackers noticed the change in Tibetans' behavior and shifted to using cloud credential phishing (putting up a fake login page and asking the user to enter their credentials) and drive-by-downloads (compromising web-sites frequented by Tibetans and download malware to the users' computer when they visit these web-sites) \[K1\], \[TCL10\], \[TCL11\].
+The Chinese attackers noticed the change in Tibetans' behavior and shifted to using cloud credential phishing (putting up a fake login page and asking the user to enter their credentials) and drive-by-downloads (compromising web-sites frequented by Tibetans and download malware to the users' computer when they visit these web-sites) \[K3\], \[TCL10\], \[TCL11\].
 
 In one such attack, the Chinese attackers compromised the website of the Tibetian government in exile (called the Central Tibetan Authority or CTA).
 Chinese speaking visitors to the website had a backdoor dropped onto their computer.
-Once the backdoor is successfully installed, the attackers have access to the computer \[K1\].
+Once the backdoor is successfully installed, the attackers have access to the computer \[K3\].
 
 In another case, a Tibetan activist received an email purporting to be from a division of the CTA.
 The message include several links to attachments that the sender claimed were approved by the Tibetan paliament.
@@ -54,6 +54,15 @@ Meanwhile, the credentials entered by the user are shipped back to the Chinese c
 These new (for the Tibetan community) attacks continue to be used in parallel with older generation email attachment based attacks.
 
 ### Cell phone malware
+Smart cell (mobile) phones are now ubiquitous.
+Similar to the general population, the Tibetan diaspora has also adopted cell phone for their communication needs.
+Noticing the change in their targets' communication habits, Chinese attackers hcreated and used cell phone speficic malware to maintain their infilitration of the Tibetan community \[TCL6\], \[TCL12\], \[K2\].
+
+In one 2018 incident, a Tibetan activist received a WhatsApp message from a Chinese attacker claiming to be an Amnesty Internal employee.
+The attacker engaged the activist in a conversation regarding a recent protest self-immolation incident in Tibet.
+Subsequently, the attacker sent the activist obfuscated links that if clicked would download malware onto the activist's cell phone \[TCL12\].
+
+Chinese attackers are known to target Tibetans with both Applie IOS and Android malware \[TCL12\].
 
 ### Exfiltration and maintaining persistence
 
@@ -87,7 +96,7 @@ Engineering for the Distribution of LURK Malware. The Citizen Lab. July 26, 2012
 
 \[TCL5\]: APT1’s GLASSES—Watching a Human Rights Organization. The Citizen Lab. February 25, 2013.
 
-\[TCL16\]: Permission to Spy: An Analysis of Android Malware Targeting Tibetans. The Citizen Lab. April 18, 2013.
+\[TCL6\]: Permission to Spy: An Analysis of Android Malware Targeting Tibetans. The Citizen Lab. April 18, 2013.
 
 \[TCL7\]: Surtr: Malware Family Targeting the Tibetan Community. The Citizen Lab. August 2, 2013.
 
@@ -168,6 +177,6 @@ a Can of Warms - GrayPigeon, Hangame & Shiqiang Gang. FireEye. April 18, 2013
 
 \[O7\]: Sweden to deport Chinese agent arrested for spying on Tibetans. Phayul. October 28, 2020.
 
-\[08\]: Meet the Canadians who busted GhostNet. The Globe and Mail. March 30, 2009.
+\[O8\]: Meet the Canadians who busted GhostNet. The Globe and Mail. March 30, 2009.
 
 \[O9\]: Ghostnet. Wikipedia. (Retrieved) September 15, 2021.
