@@ -19,7 +19,7 @@ The Chinese officials claimed that that the transcripts demonstrated that the wo
 Given China's extensive infiltration of Tibetans, it is possible that the transcipts referred to above came from a direct compromise of the woman's computer or cell phone (as we will see below \[O9\]).
 Recorded incidents of electronic compromise of Tibetan nationals outside of Tibet by China go atleast as far back as 2007 \[SANS1\].
 
-### Social engineering and emailed attachments with malware
+### Social engineering and email attachments with malware
 Chinese social engineering techniques have evolved alongside newsworthy developments in the Tibetan diaspora.
 In 2007, the Chinese attackers relied on creating cognitive disonance.
 The attackers created email messages and matching document attachments attributed to well known Tibetan personalities.
@@ -32,13 +32,30 @@ Later in 2012, the Chinese attackers used authentic privately-held messages of s
 
 These social engineering attacks demonstrate that by 2012, the Chinese had deeply penetrated communications between prominent Tibetans living outside Tibet.
 These attacks also demonstrate that the attackers were paying close attention to news articles and forum messages relevant to the Tibetan diaspora.
-The depth of penetration and up-to-date information on issues of interest to Tibetans enabled the Chinese attackers to construct credible lures to ensnare additional Tibetans \[AV1\], \[AV2\].
+The depth of penetration and up-to-date information on issues of interest to Tibetans enabled the Chinese attackers to construct credible lures to ensnare additional Tibetans over multiple years \[AV1\], \[AV2\],  \[AV3\], \[AV4\], \[TCL7\], \[TCL8\], \[TCL9\].
 
-### Credential phishing and watering holes
+China continues to use social engineering and attachments containing malware to infilitrate Tibetans \[C1\], \[TSL2\], \[PAN1\], \[TSL1\].
+
+### Cloud credential phishing and drive-by-downloads 
+Eventually word of malicious attachments in emails spread among the Tibetan community.
+Instead passing documents around, Tibetan groups started storing documents in the public cloud (for example on Google Drive).
+The Chinese attackers noticed the change in Tibetans' behavior and shifted to using cloud credential phishing (putting up a fake login page and asking the user to enter their credentials) and drive-by-downloads (compromising web-sites frequented by Tibetans and download malware to the users' computer when they visit these web-sites) \[K1\], \[TCL10\], \[TCL11\].
+
+In one such attack, the Chinese attackers compromised the website of the Tibetian government in exile (called the Central Tibetan Authority or CTA).
+Chinese speaking visitors to the website had a backdoor dropped onto their computer.
+Once the backdoor is successfully installed, the attackers have access to the computer \[K1\].
+
+In another case, a Tibetan activist received an email purporting to be from a division of the CTA.
+The message include several links to attachments that the sender claimed were approved by the Tibetan paliament.
+Clicking on the link opened a fake Google login page.
+Once credentials were entered, a decoy file (that was otherwise genuine) is shown to trick the user into believing that nothing bad has happened.
+Meanwhile, the credentials entered by the user are shipped back to the Chinese command-and-control server \[TCL11\].
+
+These new (for the Tibetan community) attacks continue to be used in parallel with older generation email attachment based attacks.
 
 ### Cell phone malware
 
-### Maintaining persistence
+### Exfiltration and maintaining persistence
 
 ### Continuous development of malware and attacks 
 
@@ -121,7 +138,7 @@ a Can of Warms - GrayPigeon, Hangame & Shiqiang Gang. FireEye. April 18, 2013
 \[TM1\]: Trends in Targeted Attacks. Trend Micro. 2011.
 
 ### Cisco 
- \[C1\]:ExileRAT shares C2 with LuckyCat, targets Tibet. Cisco Talos. February 4, 2019.
+\[C1\]:ExileRAT shares C2 with LuckyCat, targets Tibet. Cisco Talos. February 4, 2019.
 
 ### The Security Ledger
 \[TSL1\]: Targeted Attacks Follow Tibetans To The Cloud. The Security Ledger. March 10, 2016.
