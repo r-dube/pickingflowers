@@ -16,16 +16,29 @@ These logs were likely used to arrest a Tibetan woman (circa 2008) who worked in
 The woman was confronted by Chinese officials at Tibet's Nepal border with transcripts of her communication during the time that she away in Dharmasala.
 The Chinese officials claimed that that the transcripts demonstrated that the woman was politically active - sufficient for an arrest in Chinese controlled Tibet \[TCL1\], \[O9\].
 
-Given China's extensive infiltration of Tibetans, it is possible the transcipts referred to above came from direct compromise of the woman's computer or cell phone as we will see below \[O9\].
+Given China's extensive infiltration of Tibetans, it is possible that the transcipts referred to above came from a direct compromise of the woman's computer or cell phone (as we will see below \[O9\]).
 Recorded incidents of electronic compromise of Tibetan nationals outside of Tibet by China go atleast as far back as 2007 \[SANS1\].
 
-### Malware attachments
+### Social engineering and emailed attachments with malware
+Chinese social engineering techniques have evolved alongside newsworthy developments in the Tibetan diaspora.
+In 2007, the Chinese attackers relied on creating cognitive disonance.
+The attackers created email messages and matching document attachments attributed to well known Tibetan personalities.
+However, the messages and documents contradicted the reader's priot belief about the well known personalites' views.
+The result, in many cases, was that the reader clicked on the attachment out of curiosity, allowing the attacker into their computer \[SANS1\].
+
+In 2012, the Chinese attackers used genuine posts and articles on protest self-immolations among Tibetans in Tibet as the vehicle to deliver malware to Tibetan readers \[TCL2\].
+In the same year, the attackers used genuine articles on the European Parliament's concerns of human rights in Tibet to deliver malware to a targetted list of Tibetan activists \[TCL3\].
+Later in 2012, the Chinese attackers used authentic privately-held messages of some Tibetans as the lure to send malware to other Tibetans \[TCL4\].
+
+These social engineering attacks demonstrate that by 2012, the Chinese had deeply penetrated communications between prominent Tibetans living outside Tibet.
+These attacks also demonstrate that the attackers were paying close attention to news articles and forum messages relevant to the Tibetan diaspora.
+The depth of penetration and up-to-date information on issues of interest to Tibetans enabled the Chinese attackers to construct credible lures to ensnare additional Tibetans \[AV1\], \[AV2\].
 
 ### Credential phishing and watering holes
 
 ### Cell phone malware
 
-### Social engineering
+### Maintaining persistence
 
 ### Continuous development of malware and attacks 
 
