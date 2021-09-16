@@ -62,11 +62,11 @@ In one 2018 incident, a Tibetan activist received a WhatsApp message from a Chin
 The attacker engaged the activist in a conversation regarding a recent protest self-immolation incident in Tibet.
 Subsequently, the attacker sent the activist obfuscated links that if clicked would download malware onto the activist's cell phone \[TCL12\].
 
-Chinese attackers are known to target Tibetans with both Applie IOS and Android malware \[TCL12\].
+Chinese attackers are known to target Tibetans with both Applie iOS and Android malware \[TCL12\].
 
 ### Cloud credential phishing with OAuth
-Cloud credential phishing attemps (say for Gmail login ids and passwords) can be effectively thwarted with the use of two-factor authentication.
-Two-factor authentication has only modest penetration in the Tibetan community (similar to the public at large).
+Cloud credential phishing attempts (say for Gmail login ids and passwords) can be effectively thwarted with the use of two-factor authentication.
+Unfortunately, two-factor authentication has only modest penetration in the Tibetan community (similar to the population at large).
 However, some Tibetan activists do use it.
 
 Chinese attackers get around the use of a second factor for authentication by tricking users into giving malicious cloud applications permissions to access their gmail account or other data stored in the cloud.
@@ -74,6 +74,16 @@ In one documented case, a Chinese attacker attempted to get a Tibetan activist t
 Had the link been clicked, and the prompts on the subsequent screens followed, a malicious cloud based application would have been given OAuth permissions (effectively delegated access) to the activists Gmail account \[TCL12\].
 
 ### Exfiltration and maintaining persistence
+The technical goal of the various intrusions described above is to exfiltrate data from the device of computer (email, documents, contact lists) and to maintain persistence on the breached device to enable future exfiltration.
+
+In the cases where malware is installed on the device or computer, the malware typically connects back to a command-and-control server under the control of the Chinese attackers. 
+Periodically, the command-and-control server instructs the malware to send back new data.
+Persistence is typically maintained by starting up the malware every time the computer is rebooted.
+Such persistence is more challenging for the attacker to engineer for cell phones (in particular those running iOS).
+Even so, once the malware is deployed on a phone, it typically has access to historical information such as call logs and email threads that serve the attackers' purpose.
+
+In the cases where credentials to a cloud resource are phished, the attacker maintains access without being discovered as long as the user does not change the account password or remove delegated access (OAuth permissions) in the case of third-party applications.
+If the user does change the password or remove delegated access to a malicious third-party application, the attackers have to compromise the user all over again (assuming that they remain interested in the user).
 
 ### Continuous development of malware and attacks 
 
