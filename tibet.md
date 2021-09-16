@@ -85,9 +85,15 @@ Even so, once the malware is deployed on a phone, it typically has access to his
 In the cases where credentials to a cloud resource are phished, the attacker maintains access without being discovered as long as the user does not change the account password or remove delegated access (OAuth permissions) in the case of third-party applications.
 If the user does change the password or remove delegated access to a malicious third-party application, the attackers have to compromise the user all over again (assuming that they remain interested in the user).
 
-### Continuous development of malware and attacks 
+### Malware development and reuse 
+Malware developed by Chinese attackers shows clear signs of continuous development: the malware improves in sophistication and in its ability to evade security tools over time \[TCL5\].
 
-### Using the same infrastructure against other groups
+The malware is also reused. 
+There is evidence to show that malware deployed against Tibetans is also used against the Uighur community and in corporate espionage carried out by the Chinese military \[TCL5\], \[TCL12\].
+
+Finally, the Chinese attackers have malware families for multiple platforms: Microsoft Windows, Apple MacOS, Apple iOS, Android and cloud services such as Gmail \[FEYE1\], \[BB1\], \[V1\], \[TM1\], \[ZD1\], \[PP1\], \[PP12\], \[TCL12\].
+
+Taken together, the depth and breadth of the endeavor points to a well resourced organization tasked with a time invariant goal of infilitrating Tibetan (and other) organizations and to maintain that infilitration.
 
 ## Gathering human intelleigence on Tibetans
 
