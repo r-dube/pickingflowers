@@ -12,7 +12,7 @@ However, multiple studies from non-profits and commercial information security c
 
 ### Tibetan communication transcripts
 \[TCL0\] documents China's logging and monitoring of Skype messages in and out of China and territories currently under Chinese control, such as Tibet.
-These logs were likely used to arrest a Tibetan woman (circa 2008) who worked in Dharmasala (India) and returned to her Tibet village.
+This infrastructure was likely used to arrest a Tibetan woman (circa 2008) who worked in Dharmasala (India) and was returning to her Tibet village.
 The woman was confronted by Chinese officials at Tibet's Nepal border with transcripts of her communication while she was away in Dharmasala.
 The Chinese officials claimed that that the transcripts demonstrated that the woman was politically active - sufficient for an arrest in Chinese-controlled Tibet \[TCL1\], \[O8\], \[O9\].
 
@@ -20,20 +20,22 @@ Given China's extensive infiltration of Tibetans, it is possible that the transc
 Recorded incidents of electronic compromise of Tibetan nationals outside of Tibet by China go at least as far back as 2007 \[SANS1\].
 
 ### Social engineering and email attachments with malware
-Chinese social engineering techniques have evolved alongside newsworthy developments in the Tibetan diaspora.
+Chinese attackers use their knowledge of Tibetan's activities to construct lures for Tibetans.
+These lures are used to install malware (spyware) on Tibetan users' computers and cell phones and to harass them.
+
 In 2007, the Chinese attackers created cognitive dissonance to get Tibetan to click on malware-laced attachments.
-The attackers created email messages and matching document attachments attributed to well-known Tibetan personalities.
+The attackers constructed email messages and matching document attachments attributed to well-known Tibetan personalities.
 However, the messages and documents contradicted the reader's prior belief about the well-known personality's views.
 The result was that the reader clicked on the attachment out of curiosity, allowing the attacker into their computer \[SANS1\].
 
-In 2012, Chinese attackers booby-trapped genuine posts and articles on protest self-immolations among Tibetans in Tibet as the vehicle to deliver malware to Tibetan readers \[TCL2\].
+In 2012, Chinese attackers booby-trapped genuine posts and articles on self-immolations among Tibetans as the vehicle to deliver malware to Tibetan readers \[TCL2\].
 In the same year, the attackers also booby-trapped articles on the European parliament's concern for human rights in Tibet to deliver malware to a targetted list of Tibetan activists \[TCL3\].
 Later in 2012, Chinese attackers used authentic privately-held messages of some Tibetans as the lure to send malware to other Tibetans \[TCL4\].
 In all these cases, the attackers' goal was to get a Tibetan of interest to click on a doctored document that silently dropped malware on the users' computer.
 
 These social engineering attacks demonstrate that by 2012, the Chinese had deeply penetrated communications between prominent Tibetans living outside Tibet.
 These attacks also demonstrate that the attackers were paying close attention to news articles and forum messages relevant to the Tibetan diaspora.
-The depth of penetration and up-to-date information on issues of interest to Tibetans enabled the Chinese attackers to construct credible lures to ensnare additional Tibetans over multiple years \[AV1\], \[AV2\],  \[AV3\], \[AV4\], \[K1\], \[TCL7\], \[TCL8\], \[TCL9\].
+The depth of penetration and up-to-date information on issues of interest to Tibetans enabled the Chinese attackers to construct credible lures to ensnare additional Tibetans \[AV1\], \[AV2\],  \[AV3\], \[AV4\], \[K1\], \[TCL7\], \[TCL8\], \[TCL9\].
 
 The Chinese attackers continues to use social engineering and attachments containing malware to infilitrate Tibetans \[C1\], \[TSL2\], \[PAN1\], \[TSL1\].
 
@@ -44,13 +46,13 @@ The Chinese attackers noticed the change in Tibetans' behavior. They shifted to 
 
 In one such attack, the Chinese attackers compromised the website of the Tibetan government in exile (called the Central Tibetan Authority or CTA).
 Chinese-speaking visitors to the website had a backdoor dropped onto their computer.
-Once the backdoor is successfully installed, the attackers access the computer \[K3\].
+Once the backdoor was successfully installed, the attackers accessed the computer \[K3\].
 
 In another case, a Tibetan activist received an email purporting to be from a division of the CTA.
-The message includes several links to attachments that the sender claimed were approved by the Tibetan parliament.
+The message included several links to attachments that the sender claimed were approved by the Tibetan parliament.
 Clicking on the link opened a fake Google login page.
 Once credentials were entered, a decoy file (otherwise genuine) was shown to trick the user into believing that nothing terrible had happened.
-Meanwhile, the credentials entered by the user were shipped back to the Chinese command-and-control server \[TCL11\].
+Meanwhile, the credentials entered by the user were shipped back to a Chinese command-and-control server \[TCL11\].
 
 These new (for the Tibetan community) attacks continue to be used in parallel with older generation email attachment-based attacks.
 
@@ -77,7 +79,7 @@ Had the link been clicked and the prompts on the subsequent screens followed, a 
 ### Exfiltration and maintaining persistence
 The various intrusions described above aim to exfiltrate data from the device/computer (emails, documents, contact lists) and maintain persistence on the breached device/computer to enable future exfiltration.
 
-In the cases where malware is installed on the device or computer, the malware typically connects back to a command-and-control server under the control of the Chinese attackers. 
+In the cases where malware is installed on a computer or cell-phone, the malware typically connects back to a command-and-control server under the control of the Chinese attackers. 
 Periodically, the command-and-control server instructs the malware to send back new data.
 Persistence is typically maintained by starting up the malware every time the computer is rebooted.
 Such persistence is more challenging for the attacker to engineer for cell phones (particularly those running iOS).
@@ -117,15 +119,15 @@ Subsequently, he met with his New York consulate-based handlers multiple times.
 He was arrested in 2020, and his criminal case is pending in the courts as of this writing.
 
 The type of information that Baimadajie gathered for the Chinese government is not known yet.
-Baimadajie likely faced some pressure to spy against other Tibetans \[O3\].
+Baimadajie was likely blackmailed to spy against other Tibetans \[O3\].
 
 
 ## Conclusion
 From the analysis above, it is clear that the Chinese attackers have succeeded in deeply infiltrating the Tibetan diaspora and maintaining that infiltration.
-Simultaneously, the Chinese government augments what it learns about Tibetans by electronic means with human intelligence by luring Tibetans with money or blackmail to spy on other Tibetans.
+Simultaneously, the Chinese government augments what it learns about Tibetans by electronic means with human intelligence gathered using money as a lure or blackmail.
 
 The Tibetan diaspora is severely under-resourced and does not have the human capital (their numbers outside of India and Tibet are small) or the financial means to prevent the Chinese government from eavesdropping or disrupting their communications.
-The gap in capability between the Chinese offense and Tibetan defense seems depressingly large.
+The gap in capability between the Chinese offense and Tibetan defense is depressingly large.
 
 ## References and notes
 
