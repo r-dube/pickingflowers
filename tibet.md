@@ -49,13 +49,13 @@ Chinese-speaking visitors to the website had a backdoor dropped onto their compu
 Once the backdoor was successfully installed, the attackers accessed the computer \[K3\].
 
 \[V1\] describes another case where two dozen Tibetan websites were compromised by Chinese attackers.
-These attackers installed code (javsascript) on the websites that looked for visitors from specific network (IP) addresses.
-Visitors from these IP addresses were shown a fake message asking the visitors to update their "flash" installation. 
+These attackers installed code (javascript) on the websites that looked for visitors from specific network (IP) addresses.
+Visitors from these IP addresses were shown a fake message asking them to update their "flash" installation. 
 If the visitors agreed to update flash, a backdoor was installed on the visitors' computer.
 
 \[PP2\], \[ZD1\] reports a similar case where Chinese attackers first used email to lure Tibetans to a compromised website.
 Then, the attackers enticed the visitors to update flash.
-When the visitors did so, a backdoor was dropped onto the vistors' computers.
+When the visitors did so, a backdoor was dropped onto the visitors' computers.
 Simultaneously the attackers stole browser data from the visitors' computers.
 
 In another case, a Tibetan activist received an email purporting to be from a division of the CTA.
@@ -89,7 +89,7 @@ Had the link been clicked and the prompts on the subsequent screens followed, a 
 ### Exfiltration and maintaining persistence
 The various intrusions described above aim to exfiltrate data from the device/computer (emails, documents, contact lists) and maintain persistence on the breached device/computer to enable future exfiltration.
 
-In the cases where malware is installed on a computer or cell-phone, the malware typically connects back to a command-and-control server under the control of the Chinese attackers. 
+In the cases where malware is installed on a computer or cell phone, the malware typically connects back to a command-and-control server under the control of the Chinese attackers. 
 Periodically, the command-and-control server instructs the malware to send back new data.
 Persistence is typically maintained by starting up the malware every time the computer is rebooted.
 Such persistence is more challenging for the attacker to engineer for cell phones (particularly those running iOS).
@@ -102,11 +102,11 @@ Suppose the user does change the password or remove delegated access to a malici
 Malware developed by Chinese attackers shows clear signs of continuous development: the malware improves in sophistication and its ability to evade security tools over time \[TCL5\].
 
 The malware is also reused. 
-Evidence shows that malware deployed against Tibetans is also used against the Uighur community and in corporate espionage carried out by the Chinese military \[TCL5\], \[TCL12\].
+Evidence shows that malware deployed against Tibetans is also used against the Uighur community and in corporate espionage by the Chinese military \[TCL5\], \[TCL12\].
 
 Finally, the Chinese attackers have malware families for multiple platforms: Microsoft Windows, Apple MacOS, Apple iOS, Android and cloud services such as Gmail \[FEYE1\], \[BB1\], \[V1\], \[TM1\], \[ZD1\], \[PP1\], \[PP12\], \[TCL12\].
 
-Taken together, the depth and breadth of the endeavor point to a well-resourced organization tasked with a time invariant goal of infiltrating Tibetan (and other) organizations and maintaining that infiltration.
+Taken together, the depth and breadth of the endeavor point to a well-resourced organization tasked with a time-invariant goal of infiltrating Tibetan (and other) organizations and maintaining that infiltration.
 
 ## Gathering human intelligence on Tibetans
 China supplements its electronic surveillance of the Tibetan community with human intelligence.
@@ -129,7 +129,7 @@ Subsequently, he met with his New York consulate-based handlers multiple times.
 He was arrested in 2020, and his criminal case is pending in the courts as of this writing.
 
 The type of information that Baimadajie gathered for the Chinese government is not known yet.
-Baimadajie was likely blackmailed to spy against other Tibetans \[O3\].
+Baimadajie was likely blackmailed into spying against other Tibetans \[O3\].
 
 
 ## Conclusion
