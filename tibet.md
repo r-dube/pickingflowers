@@ -48,6 +48,16 @@ In one such attack, the Chinese attackers compromised the website of the Tibetan
 Chinese-speaking visitors to the website had a backdoor dropped onto their computer.
 Once the backdoor was successfully installed, the attackers accessed the computer \[K3\].
 
+\[V1\] describes another case where two dozen Tibetan websites were compromised by Chinese attackers.
+These attackers installed code (javsascript) on the websites that looked for visitors from specific network (IP) addresses.
+Visitors from these IP addresses were shown a fake message asking the visitors to update their "flash" installation. 
+If the visitors agreed to update flash, a backdoor was installed on the visitors' computer.
+
+\[PP2\], \[ZD1\] reports a similar case where Chinese attackers first used email to lure Tibetans to a compromised website.
+Then, the attackers enticed the visitors to update flash.
+When the visitors did so, a backdoor was dropped onto the vistors' computers.
+Simultaneously the attackers stole browser data from the visitors' computers.
+
 In another case, a Tibetan activist received an email purporting to be from a division of the CTA.
 The message included several links to attachments that the sender claimed were approved by the Tibetan parliament.
 Clicking on the link opened a fake Google login page.
@@ -67,14 +77,14 @@ Subsequently, the attacker sent the activist obfuscated links that, if clicked, 
 
 Chinese attackers target Tibetans with both Apple iOS and Android malware \[TCL12\].
 
-### Cloud credential phishing with OAuth
+### Cloud credential phishing with delegated access
 Cloud credential phishing attempts (say for Gmail login ids and passwords) can be effectively thwarted using two-factor authentication.
 Unfortunately, two-factor authentication has only modest penetration in the Tibetan community (similar to the general population).
 However, some Tibetan activists do use it.
 
 Chinese attackers get around the use of a second factor for authentication by tricking users into giving malicious cloud applications permissions to access their Gmail account or other data stored in the cloud.
 In one documented case, a Chinese attacker attempted to get a Tibetan activist to click on a link sent to a Tibetan activist via WhatsApp. 
-Had the link been clicked and the prompts on the subsequent screens followed, a malicious cloud-based application would have been given OAuth permissions (effectively delegated access) to the activist's Gmail account \[TCL12\].
+Had the link been clicked and the prompts on the subsequent screens followed, a malicious cloud-based application would have been given delegated access (OAuth permissions) to the activist's Gmail account \[TCL12\].
 
 ### Exfiltration and maintaining persistence
 The various intrusions described above aim to exfiltrate data from the device/computer (emails, documents, contact lists) and maintain persistence on the breached device/computer to enable future exfiltration.
