@@ -1,30 +1,30 @@
 # Infiltrating the Tibetan Diaspora
-After the Chinese invasion of Tibet in the 1950s, may Tibetans left Tibet for a life of exile in India and other countries. 
+After the Chinese invasion of Tibet in the 1950s, many Tibetans left Tibet for a life of exile in India and other countries. 
 Ever since, fearing that the Tibetans would someday muster enough of an organization to demand their country back, China has infiltrated Tibetan organizations. 
-Since the 2000s this infiltration has extended online.
-An analysis of China's efforts shows that China's infiltration of Tibetan organizations, both online and in-person, is well resourced, persistent and agile.
-In contrast, and for obvious reasons, Tibetan counter measures are incomplete and unable to fend-off the Chinese.
+Since the 2000s, this infiltration has extended online.
+An analysis of China's efforts shows that China's infiltration of Tibetan organizations, both online and in-person, is well resourced, persistent, and agile.
+In contrast, and for obvious reasons, Tibetan countermeasures are incomplete and unable to fend off the Chinese.
 
 ## Cyber attacks against Tibetans
 That China monitors communications into and out of Tibet is well known.
 After all, all current communication into Tibet transits through infrastructure controlled by the Chinese.
-However, multiple studies from non-profits and commercial information security companies show China's stiffling presence in the online lives of Tibetan organizations and activists outside of China.
+However, multiple studies from non-profits and commercial information security companies show China's stifling presence in the online lives of Tibetan organizations and activists outside of China.
 
 ### Tibetan communication transcripts
-\[TCL0\] documents China's logging and monitoring of Skype messages in and and out China and territories currently under Chinese control such as Tibet.
-These logs were likely used to arrest a Tibetan woman (circa 2008) who worked in Dharmasala (India), and was returning to her village in Tibet.
-The woman was confronted by Chinese officials at Tibet's Nepal border with transcripts of her communication during the time that she away in Dharmasala.
-The Chinese officials claimed that that the transcripts demonstrated that the woman was politically active - sufficient for an arrest in Chinese controlled Tibet \[TCL1\], \[O8\], \[O9\].
+\[TCL0\] documents China's logging and monitoring of Skype messages in and out of China and territories currently under Chinese control, such as Tibet.
+These logs were likely used to arrest a Tibetan woman (circa 2008) who worked in Dharmasala (India) and returned to her Tibet village.
+The woman was confronted by Chinese officials at Tibet's Nepal border with transcripts of her communication while she was away in Dharmasala.
+The Chinese officials claimed that that the transcripts demonstrated that the woman was politically active - sufficient for an arrest in Chinese-controlled Tibet \[TCL1\], \[O8\], \[O9\].
 
-Given China's extensive infiltration of Tibetans, it is possible that the transcipts referred to above came from a direct compromise of the woman's computer or cell phone (as we will see below \[O9\]).
-Recorded incidents of electronic compromise of Tibetan nationals outside of Tibet by China go atleast as far back as 2007 \[SANS1\].
+Given China's extensive infiltration of Tibetans, it is possible that the transcripts came from a direct compromise of the woman's computer or cell phone (as we will see below \[O9\]).
+Recorded incidents of electronic compromise of Tibetan nationals outside of Tibet by China go at least as far back as 2007 \[SANS1\].
 
 ### Social engineering and email attachments with malware
 Chinese social engineering techniques have evolved alongside newsworthy developments in the Tibetan diaspora.
-In 2007, the Chinese attackers relied on creating cognitive disonance to get Tibetan to click on malware-laced attachments.
-The attackers created email messages and matching document attachments attributed to well known Tibetan personalities.
-However, the messages and documents contradicted the reader's prior belief about the well known personalites' views.
-The result, in many cases, was that the reader clicked on the attachment out of curiosity, allowing the attacker into their computer \[SANS1\].
+In 2007, the Chinese attackers created cognitive dissonance to get Tibetan to click on malware-laced attachments.
+The attackers created email messages and matching document attachments attributed to well-known Tibetan personalities.
+However, the messages and documents contradicted the reader's prior belief about the well-known personality's views.
+The result was that the reader clicked on the attachment out of curiosity, allowing the attacker into their computer \[SANS1\].
 
 In 2012, Chinese attackers booby-trapped genuine posts and articles on protest self-immolations among Tibetans in Tibet as the vehicle to deliver malware to Tibetan readers \[TCL2\].
 In the same year, the attackers also booby-trapped articles on the European parliament's concern for human rights in Tibet to deliver malware to a targetted list of Tibetan activists \[TCL3\].
@@ -38,99 +38,99 @@ The depth of penetration and up-to-date information on issues of interest to Tib
 The Chinese attackers continues to use social engineering and attachments containing malware to infilitrate Tibetans \[C1\], \[TSL2\], \[PAN1\], \[TSL1\].
 
 ### Cloud credential phishing and drive-by-downloads 
-Eventually word of malicious attachments in emails spread among the Tibetan community.
-Instead of passing documents around, Tibetan groups started storing documents in the public cloud (for example on Google Drive).
-The Chinese attackers noticed the change in Tibetans' behavior and shifted to using cloud credential phishing (for example, by putting up a fake login page and asking the user to enter their credentials) and drive-by-downloads (for example, by compromising web-sites frequented by Tibetans and downloading malware to the users' computer during the visit) \[K3\], \[TCL10\], \[TCL11\].
+Eventually, word of malicious attachments in emails spread among the Tibetan community.
+Instead of passing documents around, Tibetan groups started storing documents in the public cloud (for example, on Google Drive).
+The Chinese attackers noticed the change in Tibetans' behavior. They shifted to using cloud credential phishing (for example, by putting up a fake login page and asking the user to enter their credentials) and drive-by-downloads (for example, by compromising websites frequented by Tibetans and downloading malware to the users' computer during the visit) \[K3\], \[TCL10\], \[TCL11\].
 
 In one such attack, the Chinese attackers compromised the website of the Tibetan government in exile (called the Central Tibetan Authority or CTA).
-Chinese speaking visitors to the website had a backdoor dropped onto their computer.
-Once the backdoor was successfully installed, the attackers have access to the computer \[K3\].
+Chinese-speaking visitors to the website had a backdoor dropped onto their computer.
+Once the backdoor is successfully installed, the attackers access the computer \[K3\].
 
 In another case, a Tibetan activist received an email purporting to be from a division of the CTA.
-The message include several links to attachments that the sender claimed were approved by the Tibetan paliament.
+The message includes several links to attachments that the sender claimed were approved by the Tibetan parliament.
 Clicking on the link opened a fake Google login page.
-Once credentials were entered, a decoy file (that was otherwise genuine) was shown to trick the user into believing that nothing bad had happened.
+Once credentials were entered, a decoy file (otherwise genuine) was shown to trick the user into believing that nothing terrible had happened.
 Meanwhile, the credentials entered by the user were shipped back to the Chinese command-and-control server \[TCL11\].
 
-These new (for the Tibetan community) attacks continue to be used in parallel with older generation email attachment based attacks.
+These new (for the Tibetan community) attacks continue to be used in parallel with older generation email attachment-based attacks.
 
 ### Cell phone malware
 Smart cell (mobile) phones are now ubiquitous.
 Similar to the general population, the Tibetan diaspora has also adopted cell phones for their communication needs.
-Noticing the change in their targets' communication habits, Chinese attackers created and used cell phone specific malware to maintain their infilitration of the Tibetan community \[TCL6\], \[TCL12\], \[K2\].
+Noticing the change in their targets' communication habits, Chinese attackers created and used cell phone-specific malware to maintain their infiltration of the Tibetan community \[TCL6\], \[TCL12\], \[K2\].
 
 In one 2018 incident, a Tibetan activist received a WhatsApp message from a Chinese attacker claiming to be an Amnesty Internal employee.
 The attacker engaged the activist in a conversation regarding a recent protest self-immolation incident in Tibet.
-Subsequently, the attacker sent the activist obfuscated links that if clicked would download malware onto the activist's cell phone \[TCL12\].
+Subsequently, the attacker sent the activist obfuscated links that, if clicked, would download malware onto the activist's cell phone \[TCL12\].
 
-Chinese attackers are known to target Tibetans with both Applie iOS and Android malware \[TCL12\].
+Chinese attackers target Tibetans with both Apple iOS and Android malware \[TCL12\].
 
 ### Cloud credential phishing with OAuth
-Cloud credential phishing attempts (say for Gmail login ids and passwords) can be effectively thwarted with the use of two-factor authentication.
+Cloud credential phishing attempts (say for Gmail login ids and passwords) can be effectively thwarted using two-factor authentication.
 Unfortunately, two-factor authentication has only modest penetration in the Tibetan community (similar to the general population).
 However, some Tibetan activists do use it.
 
-Chinese attackers get around the use of a second factor for authentication by tricking users into giving malicious cloud applications permissions to access their gmail account or other data stored in the cloud.
+Chinese attackers get around the use of a second factor for authentication by tricking users into giving malicious cloud applications permissions to access their Gmail account or other data stored in the cloud.
 In one documented case, a Chinese attacker attempted to get a Tibetan activist to click on a link sent to a Tibetan activist via WhatsApp. 
-Had the link been clicked, and the prompts on the subsequent screens followed, a malicious cloud based application would have been given OAuth permissions (effectively delegated access) to the activists Gmail account \[TCL12\].
+Had the link been clicked and the prompts on the subsequent screens followed, a malicious cloud-based application would have been given OAuth permissions (effectively delegated access) to the activist's Gmail account \[TCL12\].
 
 ### Exfiltration and maintaining persistence
-The technical goal of the various intrusions described above is to exfiltrate data from the device or computer (emails, documents, contact lists) and to maintain persistence on the breached device to enable future exfiltration.
+The various intrusions described above aim to exfiltrate data from the device/computer (emails, documents, contact lists) and maintain persistence on the breached device/computer to enable future exfiltration.
 
 In the cases where malware is installed on the device or computer, the malware typically connects back to a command-and-control server under the control of the Chinese attackers. 
 Periodically, the command-and-control server instructs the malware to send back new data.
 Persistence is typically maintained by starting up the malware every time the computer is rebooted.
-Such persistence is more challenging for the attacker to engineer for cell phones (in particular those running iOS).
-Even so, once the malware is deployed on a phone, it typically has access to historical information such as call logs and email threads that serve the attackers' purpose, even if the malware disappears at the next phone reboot.
+Such persistence is more challenging for the attacker to engineer for cell phones (particularly those running iOS).
+Even so, once the malware is deployed on the phone, it typically has access to historical information such as call logs and email threads that serve the attackers' purpose, even if the malware disappears at the next phone reboot.
 
 In the cases where credentials to a cloud resource are phished, the attacker maintains access without being discovered as long as the user does not change the account password (in the case of stolen IDs/passwords) or remove delegated access (in the case of third-party applications).
-If the user does change the password or remove delegated access to a malicious third-party application, the attackers have to compromise the user all over again (assuming that they remain interested in the user).
+Suppose the user does change the password or remove delegated access to a malicious third-party application. In that case, the attackers have to compromise the user repeatedly (assuming that they remain interested in the user).
 
 ### Malware development and reuse 
-Malware developed by Chinese attackers shows clear signs of continuous development: the malware improves in sophistication and in its ability to evade security tools over time \[TCL5\].
+Malware developed by Chinese attackers shows clear signs of continuous development: the malware improves in sophistication and its ability to evade security tools over time \[TCL5\].
 
 The malware is also reused. 
-There is evidence that malware deployed against Tibetans is also used against the Uighur community and in corporate espionage carried out by the Chinese military \[TCL5\], \[TCL12\].
+Evidence shows that malware deployed against Tibetans is also used against the Uighur community and in corporate espionage carried out by the Chinese military \[TCL5\], \[TCL12\].
 
 Finally, the Chinese attackers have malware families for multiple platforms: Microsoft Windows, Apple MacOS, Apple iOS, Android and cloud services such as Gmail \[FEYE1\], \[BB1\], \[V1\], \[TM1\], \[ZD1\], \[PP1\], \[PP12\], \[TCL12\].
 
-Taken together, the depth and breadth of the endeavor points to a well resourced organization tasked with a time invariant goal of infilitrating Tibetan (and other) organizations and to maintain that infilitration.
+Taken together, the depth and breadth of the endeavor point to a well-resourced organization tasked with a time invariant goal of infiltrating Tibetan (and other) organizations and maintaining that infiltration.
 
 ## Gathering human intelligence on Tibetans
 China supplements its electronic surveillance of the Tibetan community with human intelligence.
-Such intelligence is gathered by using the money as a lure or the well-being of extended family in Tibet as blackmail to turn some Tibetans into spies against their community.
+Such intelligence is gathered by using lures (such as money) or blackmail (the well-being of the extended family in Tibet) to turn some Tibetans into spies against their community.
 
 ### In Sweden
-One such Tibetan was Dorjee Gyantsan who spied for China between 2015 and 2017.
-Dorjee, who lived in Sweden, was paid $6,000 by a Chinese intelligence officer in Poland to provide the Chinese government with information about the families, housing situations and travel plans of members of the Tibetan community in exile in Sweden.
-Subsequently, the Chinese government used the information to harass relatives of the exiles still living in Chinese controlled Tibet \[O4\], \[O5\], \[O6\].
+One such Tibetan was Dorjee Gyantsan, who spied for China between 2015 and 2017.
+Dorjee, who lived in Sweden, was paid $6,000 by a Chinese intelligence officer in Poland to provide the Chinese government with information about the families, housing situations, and travel plans of members of the Tibetan community in exile in Sweden.
+Subsequently, the Chinese government used the information to harass relatives of the exiles still living in Chinese-controlled Tibet \[O4\], \[O5\], \[O6\].
 
-Dorjee was caught, prosecuted, sentenced to prison in Sweden and on his release, deported from Sweden \[O7\].
+Dorjee was caught, prosecuted, sentenced to prison in Sweden, and on his release, deported from Sweden \[O7\].
 
 ### In the U.S.
 Baimadajie Angwang was another Tibetan who spied for China.
 Baimadajie was a New York City policeman of Tibetan origin.
-He was also previously a member of the U.S. Marine Corp \[O1\], \[O2\].
+He was also a former member of the U.S. Marine Corp \[O1\], \[O2\].
 
-In 2018, Baimadajie was recruited by Chinese officials working out of the Chinese consultate in New York.
-Subsequently, he met with his New York consulate based handlers multiple times.
-He was arrested in 2020 and his crimimal case is pending in the courts as of this writing.
+In 2018, Baimadajie was recruited by Chinese officials working out of the Chinese consulate in New York.
+Subsequently, he met with his New York consulate-based handlers multiple times.
+He was arrested in 2020, and his criminal case is pending in the courts as of this writing.
 
-The type of information that Baimadajie gathered for the Chinese government is not know yet.
-It is likely that Baimadajie faced some pressure to spy against other Tibetans \[O3\].
+The type of information that Baimadajie gathered for the Chinese government is not known yet.
+Baimadajie likely faced some pressure to spy against other Tibetans \[O3\].
 
 
 ## Conclusion
-From the analysis above, it is clear that the Chinese attackers have succeeded in deeply infiltrating the Tibetan diaspora and in maintaining that infiltration.
+From the analysis above, it is clear that the Chinese attackers have succeeded in deeply infiltrating the Tibetan diaspora and maintaining that infiltration.
 Simultaneously, the Chinese government augments what it learns about Tibetans by electronic means with human intelligence by luring Tibetans with money or blackmail to spy on other Tibetans.
 
-The Tibetan diaspora is severely under-resourced and does not have the human capital (they exist in small numbers outside of India and Tibet) or the financial capital to prevent the Chinese government from eavesdropping or disrupting their communications.
-The gap in capability between Chinese offense and Tibetan defense seems depressingly large.
+The Tibetan diaspora is severely under-resourced and does not have the human capital (their numbers outside of India and Tibet are small) or the financial means to prevent the Chinese government from eavesdropping or disrupting their communications.
+The gap in capability between the Chinese offense and Tibetan defense seems depressingly large.
 
 ## References and notes
 
 ### University of Toronto
-\[TCL0\]: BREACHING TRUST: An analysis of surveillance and security practices on China’s TOM-Skype platform. Information Warfare Monitor. October 1, 2008.
+\[TCL0\]: BREACHING TRUST: An analysis of surveillance and security practices on China's TOM-Skype platform. Information Warfare Monitor. October 1, 2008.
 
 \[TCL1\]: Tracking GhostNet: Investigating a Cyber Espionage Network. Information Warfare Monitor. March 29, 2009.
 
@@ -140,10 +140,10 @@ The gap in capability between Chinese offense and Tibetan defense seems depressi
 
 \[TCL3\]: Spoofing the European Parliament. The Citizen Lab. June 20, 2012.
 
-\[TCL4\]: Recent Observations in Tibet-Related Information Operations: Advanced Social
+\[TCL4\]: Recent Observations in Tibet-related Information Operations: Advanced Social
 Engineering for the Distribution of LURK Malware. The Citizen Lab. July 26, 2012
 
-\[TCL5\]: APT1’s GLASSES—Watching a Human Rights Organization. The Citizen Lab. February 25, 2013.
+\[TCL5\]: APT1's GLASSES—Watching a Human Rights Organization. The Citizen Lab. February 25, 2013.
 
 \[TCL6\]: Permission to Spy: An Analysis of Android Malware Targeting Tibetans. The Citizen Lab. April 18, 2013.
 
@@ -162,15 +162,15 @@ Engineering for the Distribution of LURK Malware. The Citizen Lab. July 26, 2012
 ### AT&T / Alien Vault
 \[AV1\]: Targeted Attacks Against Tibetan Organizations. Alien Vault. March 13, 2012.
 
-\[AV2\]: AlienVault Tibet Related Research Now Used to Target Tibetan NonGovernmental Organizations. Alient Vault. March 19, 2012.
+\[AV2\]: AlienVault Tibet Related Research Now Used to Target Tibetan NonGovernmental Organizations. Alien Vault. March 19, 2012.
 
-\[AV3\]: CVE-2012-0158, Tibet, Targeted Attacks and so on. Alien Vault. April 18,
+\[AV3\]: CVE-2012-0158, Tibet, Targeted Attacks, and so on. Alien Vault. April 18,
 2012.
 
-\[AV4\]: Latest Adobe PDF Exploit Used to Target Uyghur and Tibetan Activists. Alient Vault. March 14, 2013.
+\[AV4\]: Latest Adobe PDF Exploit Used to Target Uyghur and Tibetan Activists. Alien Vault. March 14, 2013.
 
 ### Kaspersky
-\[K1\]: A Gift for Dalai Lama’s Birthday. Kaspersky Lab Securelist. July 4, 2012.
+\[K1\]: A Gift for Dalai Lama's Birthday. Kaspersky Lab Securelist. July 4, 2012.
 
 \[K2\]: Android Trojan Found in Targeted Attack. Kaspersky Lab Securelist. March 26, 2013.
 
@@ -184,7 +184,7 @@ a Can of Warms - GrayPigeon, Hangame & Shiqiang Gang. FireEye. April 18, 2013
 \[PAN1\]: Scarlet Mimic: Years-Long Espionage Campaign Targets Minority Activists. Palo Alto Networks Unit 42. January 24, 2016.
 
 ### SANS
-\[SANS1\]: Overview of cyber attacks against Tibetan communities. The SANS Institute. March 24, 2008.
+\[SANS1\]: Overview of cyberattacks against Tibetan communities. The SANS Institute. March 24, 2008.
 
 ### Blackberry / Cylance
 \[BB1\]: Puttering into the Future. Blackberry Threat Vector Blog. January 12, 2016.
@@ -196,15 +196,15 @@ a Can of Warms - GrayPigeon, Hangame & Shiqiang Gang. FireEye. April 18, 2013
 \[TM1\]: Trends in Targeted Attacks. Trend Micro. 2011.
 
 ### Cisco 
-\[C1\]:ExileRAT shares C2 with LuckyCat, targets Tibet. Cisco Talos. February 4, 2019.
+\[C1\]: ExileRAT shares C2 with LuckyCat, targets Tibet. Cisco Talos. February 4, 2019.
 
 ### The Security Ledger
 \[TSL1\]: Targeted Attacks Follow Tibetans To The Cloud. The Security Ledger. March 10, 2016.
 
 \[TSL2\]: ExileRAT Malware Targets Tibetan Exile Government. The Security Ledger. February 6, 2019.
 
-### ZDnet
-\[ZD1\]: Chinese cyberspies targeted Tibetans with a malicious Firefox add-on. ZDnet. February 25, 2021.
+### ZDNet
+\[ZD1\]: Chinese cyberspies targeted Tibetans with a malicious Firefox add-on. ZDNet. February 25, 2021.
 
 ### Proofpoint
 \[PP1\]: Chinese APT TA413 Resumes Targeting of Tibet Following COVID-19 Themed Economic Espionage Campaign Delivering Sepulcher Malware Targeting Europe. Proofpoint. September 1, 2020.
