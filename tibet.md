@@ -79,7 +79,7 @@ As a result, Tibetans attached the entire application to emails to send it to ot
 Chinese attackers masquerading as Tibetans used the contact information of prominent Tibetans via prior intercepts and sent the malware version of Kaokao to other Tibetans.
 When installed, the malware sent back information to the Chinese command-and-control server.
 This information included contacts, call logs, SMS messages, geo-location, and phone data (phone number, OS version, phone model, SDK version).
-The geo-location data was not easily usable by itself unless the cell phone carrier was under Chinese governance or had been compromised by Chinese attackers (for example, via compromised Huawei equipment used by the carriers).
+The geo-location data was not easily usable by itself unless the cell phone carrier was under Chinese governance or had been compromised by Chinese attackers (for example, via compromised Huawei equipment used by the carriers) \[TCL6\].
 
 In one 2018 incident, a Tibetan activist received a WhatsApp message from a Chinese attacker claiming to be an Amnesty International employee.
 The attacker engaged the activist in a conversation regarding a recent protest self-immolation incident in Tibet.
