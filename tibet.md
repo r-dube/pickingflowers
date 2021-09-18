@@ -37,7 +37,7 @@ These social engineering attacks demonstrate that by 2012, the Chinese had deepl
 These attacks also demonstrate that the attackers were paying close attention to news articles and forum messages relevant to the Tibetan diaspora.
 The depth of penetration and up-to-date information on issues of interest to Tibetans enabled the Chinese attackers to construct credible lures to ensnare additional Tibetans \[AV1\], \[AV2\],  \[AV3\], \[AV4\], \[K1\], \[TCL7\], \[TCL8\], \[TCL9\].
 
-The Chinese attackers continues to use social engineering and attachments containing malware to infilitrate Tibetans \[C1\], \[TSL2\], \[PAN1\], \[TSL1\].
+The Chinese attackers continue to use social engineering and attachments containing malware to infilitrate Tibetans \[C1\], \[TSL2\], \[PAN1\], \[TSL1\].
 
 ### Cloud credential phishing and drive-by-downloads 
 Eventually, word of malicious attachments in emails spread among the Tibetan community.
@@ -71,7 +71,7 @@ Smart cell (mobile) phones are now ubiquitous.
 Similar to the general population, the Tibetan diaspora has also adopted cell phones for their communication needs.
 Noticing the change in their targets' communication habits, Chinese attackers created and used cell phone-specific malware to maintain their infiltration of the Tibetan community \[TCL6\], \[TCL12\], \[K2\].
 
-In one 2018 incident, a Tibetan activist received a WhatsApp message from a Chinese attacker claiming to be an Amnesty Internal employee.
+In one 2018 incident, a Tibetan activist received a WhatsApp message from a Chinese attacker claiming to be an Amnesty International employee.
 The attacker engaged the activist in a conversation regarding a recent protest self-immolation incident in Tibet.
 Subsequently, the attacker sent the activist obfuscated links that, if clicked, would download malware onto the activist's cell phone \[TCL12\].
 
