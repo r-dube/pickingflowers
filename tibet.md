@@ -71,6 +71,16 @@ Smart cell (mobile) phones are now ubiquitous.
 Similar to the general population, the Tibetan diaspora has also adopted cell phones for their communication needs.
 Noticing the change in their targets' communication habits, Chinese attackers created and used cell phone-specific malware to maintain their infiltration of the Tibetan community \[TCL6\], \[TCL12\], \[K2\].
 
+In 2013, Chinese attackers created a malware version of Kaokao, an Android messaging application.
+Kaokao was used by Tibetans inside Tibet to communicate with Tibetans outside.
+This application is capable of sending encrypted messages, thus preserving the users' privacy.
+However, the Android app store accessible in China-controlled Tibet did not present Kaokao as a messaging option (because the Chinese government could not easily intercept messages on Kaokao, they did not allow Kaokao to be used).
+As a result, Tibetans attached the entire application to emails to send it to other Tibetans to install and use.
+Chinese attackers masquerading as Tibetans used the contact information of prominent Tibetans via prior intercepts and sent the malware version of Kaokao to other Tibetans.
+When installed, the malware sent back information to the Chinese command-and-control server.
+This information included contacts, call logs, SMS messages, geo-location, and phone data (phone number, OS version, phone model, SDK version).
+The geo-location data was not easily usable by itself unless the cell phone carrier was under Chinese governance or had been compromised by Chinese attackers (for example, via compromised Huawei equipment used by the carriers).
+
 In one 2018 incident, a Tibetan activist received a WhatsApp message from a Chinese attacker claiming to be an Amnesty International employee.
 The attacker engaged the activist in a conversation regarding a recent protest self-immolation incident in Tibet.
 Subsequently, the attacker sent the activist obfuscated links that, if clicked, would download malware onto the activist's cell phone \[TCL12\].
@@ -94,6 +104,7 @@ Periodically, the command-and-control server instructs the malware to send back 
 Persistence is typically maintained by starting up the malware every time the computer is rebooted.
 Such persistence is more challenging for the attacker to engineer for cell phones (particularly those running iOS).
 Even so, once the malware is deployed on the phone, it typically has access to historical information such as call logs and email threads that serve the attackers' purpose, even if the malware disappears at the next phone reboot.
+Note that in the case of a compromised mobile application such as Kaokao (referred to above), persistence is maintained as long as the user has the compromised application installed on his/her cell phone.
 
 In the cases where credentials to a cloud resource are phished, the attacker maintains access without being discovered as long as the user does not change the account password (in the case of stolen IDs/passwords) or remove delegated access (in the case of third-party applications).
 Suppose the user does change the password or remove delegated access to a malicious third-party application. In that case, the attackers have to compromise the user repeatedly (assuming that they remain interested in the user).
