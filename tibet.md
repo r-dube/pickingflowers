@@ -10,14 +10,16 @@ That China monitors communications into and out of Tibet is well known.
 After all, all current communication into Tibet transits through infrastructure controlled by the Chinese.
 However, multiple studies from non-profits and commercial information security companies show China's stifling presence in the online lives of Tibetan organizations and activists outside of China.
 
+Note that recorded incidents of electronic compromise of Tibetan nationals outside of Tibet by China go as far back as 2002 \[ML1\].
+However, systematic public analysis of China's cyber attacks is only available starting 2008 \[TCL0\], \[SANS1\].
+
 ### Tibetan communication transcripts
 \[TCL0\] documents China's logging and monitoring of Skype messages in and out of China and territories currently under Chinese control, such as Tibet.
 This infrastructure was likely used to arrest a Tibetan woman (circa 2008) who worked in Dharmasala (India) and was returning to her Tibet village.
 The woman was confronted by Chinese officials at Tibet's Nepal border with transcripts of her communication while she was away in Dharmasala.
 The Chinese officials claimed that that the transcripts demonstrated that the woman was politically active - sufficient for an arrest in Chinese-controlled Tibet \[TCL1\], \[O8\], \[O9\].
 
-Given China's extensive infiltration of Tibetans, it is possible that the transcripts came from a direct compromise of the woman's computer or cell phone (as we will see below \[O9\]).
-Recorded incidents of electronic compromise of Tibetan nationals outside of Tibet by China go at least as far back as 2007 \[SANS1\].
+Given China's extensive infiltration of Tibetans, it is possible that the transcripts came from a direct compromise of the woman's computer or cell phone \[O9\], \[ML1\].
 
 ### Social engineering and email attachments with malware
 Chinese attackers use their knowledge of Tibetan's activities to construct lures for Tibetans.
@@ -35,7 +37,7 @@ In all these cases, the attackers' goal was to get a Tibetan of interest to clic
 
 These social engineering attacks demonstrate that by 2012, the Chinese had deeply penetrated communications between prominent Tibetans living outside Tibet.
 These attacks also demonstrate that the attackers were paying close attention to news articles and forum messages relevant to the Tibetan diaspora.
-The depth of penetration and up-to-date information on issues of interest to Tibetans enabled the Chinese attackers to construct credible lures to ensnare additional Tibetans \[AV1\], \[AV2\],  \[AV3\], \[AV4\], \[K1\], \[TCL7\], \[TCL8\], \[TCL9\].
+The depth of penetration and up-to-date information on issues of interest to Tibetans enabled the Chinese attackers to construct credible lures to ensnare additional Tibetans \[AV1\], \[AV2\],  \[AV3\], \[AV4\], \[K1\], \[TCL7\], \[TCL8\], \[TCL9\], \[TCL9a\], \[O10\].
 
 The Chinese attackers continue to use social engineering and attachments containing malware to infilitrate Tibetans \[C1\], \[TSL2\], \[PAN1\], \[TSL1\].
 
@@ -176,6 +178,8 @@ Engineering for the Distribution of LURK Malware. The Citizen Lab. July 26, 2012
 
 \[TCL9\]: Targeted Threat Index: Characterizing and Quantifying Politically-Motivated Targeted Malware. 23rd USENIX Security Symposium. August 2014
 
+\[TCL9a\]: Tibetan Uprising Day Malware Attacks. The Citizen Lab. March 10, 2015.
+
 \[TCL10\]: Shifting Tactics: Tracking changes in years-long espionage campaign against Tibetans. The Citizen Lab. March 10, 2016
 
 \[TCL11\]: Spying on a Budget: Inside a Phishing Operation with Targets in the Tibetan Community. The Citizen Lab. January 30, 2018.
@@ -234,6 +238,9 @@ a Can of Warms - GrayPigeon, Hangame & Shiqiang Gang. FireEye. April 18, 2013
 
 \[PP2\]: TA413 Leverages New FriarFox Browser Extension to Target the Gmail Accounts of Global Tibetan Organizations. Proofpoint. February 25, 2021.
 
+### Malicious Life
+\[ML1\]: Ghostnet: Season 3, Episode 25. Malicious Life. May 29, 2018.
+
 ### Other
 \[O1\]: How did an NYPD officer from Tibet end up accused of spying for China? Amanda Holpuch. The Guardian. September 29, 2020.
 
@@ -252,3 +259,5 @@ a Can of Warms - GrayPigeon, Hangame & Shiqiang Gang. FireEye. April 18, 2013
 \[O8\]: Meet the Canadians who busted GhostNet. The Globe and Mail. March 30, 2009.
 
 \[O9\]: Ghostnet. Wikipedia. (Retrieved) September 15, 2021.
+
+\[O10\]: The Cyber War Against Tibet. The Diplomat. February 20, 2019.
