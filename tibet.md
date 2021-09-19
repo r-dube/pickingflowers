@@ -17,7 +17,7 @@ However, systematic public analysis of China's cyber attacks is only available s
 \[TCL0\] documents China's logging and monitoring of Skype messages in and out of China and territories currently under Chinese control, such as Tibet.
 This infrastructure was likely used to arrest a Tibetan woman (circa 2008) who worked in Dharmasala (India) and was returning to her Tibet village.
 The woman was confronted by Chinese officials at Tibet's Nepal border with transcripts of her communication while she was away in Dharmasala.
-The Chinese officials claimed that that the transcripts demonstrated that the woman was politically active - sufficient for an arrest in Chinese-controlled Tibet \[TCL1\], \[O8\], \[O9\].
+The Chinese officials claimed that that the transcripts demonstrated that the woman was politically active - sufficient grounds for an arrest in Chinese-controlled Tibet \[TCL1\], \[O8\], \[O9\], \[ML1\].
 
 Given China's extensive infiltration of Tibetans, it is possible that the transcripts came from a direct compromise of the woman's computer or cell phone \[O9\], \[ML1\].
 
@@ -151,6 +151,9 @@ Simultaneously, the Chinese government augments what it learns about Tibetans by
 
 The Tibetan diaspora is severely under-resourced and does not have the human capital (their numbers outside of India and Tibet are small) or the financial means to prevent the Chinese government from eavesdropping or disrupting their communications.
 The gap in capability between the Chinese offense and Tibetan defense is depressingly large.
+
+China uses the information it gains from infiltration of the Tibetan diaspora to understand and counter Tibetans' outreach to non-Tibetans for help and support. 
+China has also used the information gathered to intimidate non-Tibetans sympathetic to the Tibetan cause from meeting with Tibetan officials, including the Dalai Lama \[ML1\].
 
 ## References and notes
 
