@@ -16,6 +16,7 @@ Copyright © 2021 r-dube. All Rights Reserved Worldwide.
   * [Quintel](quintel.md)
   * [T-mobile](tmobile.md)
   * [CNEX](cnex.md)
+  * [IME](ime.md)
 * Part 2: Spying on Minority Groups, Refugees and Dissidents
   * [Tibet](tibet.md)
   * Xinjiang
@@ -30,7 +31,6 @@ Copyright © 2021 r-dube. All Rights Reserved Worldwide.
 * Part 4: Spying on Non-governmental Organizations
   * Australian Universities
   * U.S. Universities
-  * Institute for Micro-electronics (Shane Todd)
 * Part 5: Influence Operations on the Public 
   * Hong Kong
   * Taiwan
