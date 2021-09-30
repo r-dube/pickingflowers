@@ -1,15 +1,15 @@
 # Death of a research scientist on the eve of a Huawei project
-In 2012, Shane Todd - an electrical engineer and research scientist - worked on a project proposal targetted at Huawei. 
+In 2012, Shane Todd - a U.S. citizen, electrical engineer and research scientist - worked on a project proposal targetted at Huawei. 
 The project involved obtaining dual military/civilian use technology for the Institute of Microelectronics (IME) in Singapore from a U.S. based company.
 Shane felt uncomfortable with his role in acquiring this dual-use technology.
-Partly as a result of this discomfort, Shane decided to leave his job and return to his home country - the U.S.
+Partly as a result of this discomfort, Shane decided to leave his job and return to the U.S.
 On the eve of his departure from Singapore, Shane was found dead in his apartment.
 
 ## IME
 IME is a semiconductor research insititute funded by an agency of the government of Singapore \[1\].
 IME functions as a bridge between academia and the industry.
 As part of its mission, IME employs researchers and takes on research projects from commercial corporations that create or use semiconductors.
-In 2021, IME runs its own cleanrooms and fabs.
+In 2021, IME ran its own cleanrooms and fabs.
 
 ## Huawei's relationship with IME
 By 2012, IME had successfully conducted multiple projects for Huawei.
@@ -17,16 +17,17 @@ During 2012, Shane was actively involved in a new IME project proposal for Huawe
 
 ## Acquiring Gallium Nitride technology
 The IME-Huawei project proposal involved dual-use (military/civilian) Gallium Nitride equipment for semiconductor development from U.S. based Veeco \[4\].
-Shane had previously travelled to the U.S. on behalf of IME to be trained on Veeco's equipment.
 Were the Huawei project to go ahead, the Veeco equipment would have to be used for the project.
+
 In January 2012, IME had acquired Veeco equipment under a U.S. export license that prohibited the use of the equipment for military applications \[3\].
+Also in January 2012, Shane travelled to the U.S. on behalf of IME to be trained on Veeco's equipment.
 
 ## Pressure perceived by Shane
 Shane perceived the use of Veeco's equipment for the Huawei project as beyond the limits imposed by the U.S. export license \[5\].
 Shane believed that by engaging in the Huawei project he was working against the U.S. and may be breaking U.S. law.
-He expressed his anxious to his family back in the U.S. and appeared to be fearful for his life.
+He expressed his anxiousness to his family back in the U.S. and appeared to be fearful for his life.
 
-Even outside of the Huawei project, Shane was dissatisfied with his work and life at IME. 
+Outside of the Huawei project, Shane was dissatisfied with his work at IME. 
 He decided to leave IME and return to the U.S.
 
 ## Shane's death
@@ -37,10 +38,32 @@ By June 22, 2012 Shane had wrapped up his work with IME.
 He had had a farewell get-together with his colleagues and was in the process of cleaning out his apartment.
 
 On June 24, 2012, Shane was discovered hanging in his apartment.
-He was dead when by the time he was found.
+He was dead by the time he was found.
 A subsequent coroner's report indicated that he died on the night of June 22 \[2\], \[3\], \[5\].
 
 ## Sloppy handling by Singapore Police
+Singapore Police made several mistakes in investigating Shane's death \[5\]. 
+
+First, Singapore Police appear to have improperly handled several of Shane's electronic devices (computers, external hard-drives, cell phones). 
+They accessed the devices without preserving the devices' content, in the process breaching international investigation norms.
+
+Second, Singapore Police appear not to have taken systematic professional photographs of the scene.
+The police officers incharge appears to have taken only a couple of photographs of the area where Shane died, with a personal cell phone.
+Even these photographs were subsequently deleted.
+
+Third, Singapore Police appear to have made no effort to take Fingerpints or DNA samples from Shane's appartment.
+
+It appears that Singapore Police concluded at the outset that Shane's death was  a suicide.
+They appear to have made no serious attempt to put forth or pursue another explanation for Shane's death.
+Shane's family has contested for years that there was some evidence of foul-play and that Singapore Police should have seriously pursued alternate explanations for Shane's death.
+
+## What does this mean for Huawei?
+Huawei does not appear to have direct involvement in the case.
+However, it does appear that Shane believed that Huawei was using IME to skirt U.S. export control rules.
+
+Shane's belief would not be surprising - by 2012 there were several cases of Huawei directed corporate espionage conducted discussed in mainstream English-language media.
+Some of these cases garnered extensive public attention.
+Shane was likely aware of these cases.
 
 ## References and notes
 \[1\]: Institute of Microelectronics, Singapore. www.a-star.edu.sg/ime. (Retrieved) September 28, 2021.
