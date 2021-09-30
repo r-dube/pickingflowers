@@ -5,8 +5,8 @@ Shane felt uncomfortable with his role in acquiring this dual-use technology.
 Partly due to this discomfort, Shane decided to leave his job and return to the U.S.
 On the eve of his departure from Singapore, Shane was found dead in his apartment.
 
-## IME
-IME is a semiconductor research institute funded by an agency of the government of Singapore \[1\].
+## About IME
+IME is a Singaporean semiconductor research institute funded by an agency of the government of Singapore \[1\].
 IME functions as a bridge between academia and the industry.
 IME employs researchers and takes on research projects from commercial corporations that create or use semiconductors as part of its mission.
 In 2021, IME ran its own cleanrooms and fabs.
@@ -17,21 +17,21 @@ During 2012, Shane was actively involved in a new IME project proposal for Huawe
 
 ## Acquiring Gallium Nitride technology
 The IME-Huawei project proposal involved dual-use (military/civilian) Gallium Nitride equipment for developing semiconductors from Veeco - a U.S.-based company \[4\].
-Veeco's equipment would have to be used if the Huawei project went ahead.
+This Veeco equipment would have to be used if the Huawei project went ahead.
 
 In January 2012, IME had acquired Veeco equipment under a U.S. export license that prohibited the use of the equipment for military applications \[3\].
 Also, in January 2012, Shane traveled to the U.S. on behalf of IME to be trained on Veeco's equipment.
 
 ## Pressure perceived by Shane
 Shane perceived the use of Veeco's equipment for the Huawei project as beyond the limits imposed by the U.S. export license \[5\].
-Shane believed that by engaging in the Huawei project, he was working against the U.S. and maybe breaking U.S. law.
+Shane believed that by engaging in the Huawei project, he was working against the U.S. and may also be breaking U.S. law.
 He expressed his anxiousness to his family back in the U.S. and appeared to be fearful for his life.
 
-Outside of the Huawei project, Shane was dissatisfied with his work at IME. 
-He decided to leave IME and return to the U.S.
+Outside of the Huawei project, Shane was dissatisfied with his work at IME.
+Adding the export license related anxiety to his pre-existing dissatisfaction with IME convinced Shane to leave IME and return to the U.S.
 
 ## Shane's death
-In March 2012, Shane gave notice to IME to leave the institute.
+In March 2012, Shane gave notice to IME and prepared.
 Shortly after that, Shane purchased a plane ticket for the U.S. - he planned to leave Singapore on July 1.
 
 By June 22, 2012, Shane had wrapped up his work with IME.
@@ -47,7 +47,7 @@ Singapore Police made several mistakes in investigating Shane's death \[5\].
 First, Singapore Police appear to have improperly handled several of Shane's electronic devices (e.g., computers, external hard-drive and cell phone). 
 They accessed the devices without preserving the devices' content, in the process breaching international investigation norms.
 
-Second, Singapore Police appear not to have taken systematic professional photographs of the scene.
+Second, Singapore Police appear not to have taken systematic professional photographs of Shane's apartment.
 The police officers in charge appear to have taken only a couple of photographs of the area where Shane died, with a personal cell phone.
 Even these photographs were subsequently deleted.
 
@@ -61,7 +61,7 @@ Shane's family has contested for years that there was some evidence of foul-play
 Huawei does not appear to have direct involvement in the case.
 However, it does appear that Shane believed that Huawei was using IME to skirt U.S. export control rules.
 
-Shane's belief would not be surprising - by 2012, several cases of Huawei-directed corporate espionage were discussed in mainstream English-language media.
+Shane's belief was not surprising - by 2012, several cases of Huawei-directed corporate espionage had been discussed in mainstream English-language media.
 Some of these cases garnered extensive public attention.
 Shane was likely aware of these cases.
 
