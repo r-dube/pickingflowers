@@ -15,11 +15,11 @@ However, systematic public analysis of China's cyber attacks is only available s
 
 ### Tibetan communication transcripts
 \[TCL0\] documents China's logging and monitoring of Skype messages in and out of China and territories currently under Chinese control, such as Tibet.
-This infrastructure was likely used to arrest a Tibetan woman (circa 2008) who worked in Dharmshala (India) and was returning to her Tibet village.
+This infrastructure was likely used to arrest a Tibetan woman (circa 2008) who worked in Dharmshala (India) and was returning to her Tibetan village.
 The woman was confronted by Chinese officials at Tibet's Nepal border with transcripts of her communication while she was away in Dharmshala.
 The Chinese officials claimed that that the transcripts demonstrated that the woman was politically active - sufficient grounds for an arrest in Chinese-controlled Tibet \[TCL1\], \[O8\], \[O9\], \[ML1\].
 
-Given China's extensive infiltration of Tibetans, it is possible that the transcripts came from a direct compromise of the woman's computer or cell phone \[O9\], \[ML1\].
+Given China's extensive infiltration of Tibetans, it is possible that the transcripts came from a direct compromise of the woman's computer or cell phone rather than a Skype intercept\[O9\], \[ML1\].
 
 ### Social engineering and email attachments with malware
 Chinese attackers use their knowledge of Tibetan's activities to construct lures for Tibetans.
@@ -87,7 +87,7 @@ In one 2018 incident, a Tibetan activist received a WhatsApp message from a Chin
 The attacker engaged the activist in a conversation regarding a recent protest self-immolation incident in Tibet.
 Subsequently, the attacker sent the activist obfuscated links that, if clicked, would download malware onto the activist's cell phone \[TCL12\].
 
-Chinese attackers target Tibetans with both Apple iOS and Android malware \[TCL12\].
+Chinese attackers continue to target Tibetans with both Apple iOS and Android malware \[TCL12\].
 
 ### Cloud credential phishing with delegated access
 Cloud credential phishing attempts (say for Gmail login ids and passwords) can be effectively thwarted using two-factor authentication.
@@ -109,7 +109,7 @@ Even so, once the malware is deployed on the phone, it typically has access to h
 Note that in the case of a compromised mobile application such as Kaokao (referred to above), persistence is maintained as long as the user has the compromised application installed on his/her cell phone.
 
 In the cases where credentials to a cloud resource are phished, the attacker maintains access without being discovered as long as the user does not change the account password (in the case of stolen IDs/passwords) or remove delegated access (in the case of third-party applications).
-Suppose the user does change the password or remove delegated access to a malicious third-party application. In that case, the attackers have to compromise the user repeatedly (assuming that they remain interested in the user).
+Suppose that the user does change the password or remove delegated access to a malicious third-party application. In that case, the attackers have to compromise the user again (assuming that they remain interested in the user).
 
 ### Malware development and reuse 
 Malware developed by Chinese attackers shows clear signs of continuous development: the malware improves in sophistication and its ability to evade security tools over time \[TCL5\].
