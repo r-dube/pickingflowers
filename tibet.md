@@ -153,7 +153,7 @@ The Tibetan diaspora is severely under-resourced and does not have the human cap
 The gap in capability between the Chinese offense and Tibetan defense is depressingly large.
 
 China uses the information it gains from infiltration of the Tibetan diaspora to understand and counter Tibetans' outreach to non-Tibetans for help and support. 
-China has also used the information gathered to intimidate non-Tibetans sympathetic to the Tibetan cause from meeting with Tibetan officials, including the Dalai Lama \[ML1\].
+China has also used the information gathered to intimidate non-Tibetans sympathetic to the Tibetan cause from meeting with Tibetan officials, including the Dalai Lama \[O9\], \[ML1\].
 
 ## References and notes
 
