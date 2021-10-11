@@ -115,7 +115,7 @@ Suppose that the user does change the password or remove delegated access to a m
 Malware developed by Chinese attackers shows clear signs of continuous development: the malware improves in sophistication and its ability to evade security tools over time \[TCL5\].
 
 The malware is also reused. 
-Evidence shows that malware deployed against Tibetans is also used against the Uighur community and in corporate espionage by the Chinese military \[TCL5\], \[TCL12\].
+Evidence shows that malware deployed against Tibetans is also used against the Uyghur community and in corporate espionage by the Chinese military \[TCL5\], \[TCL12\].
 
 Finally, the Chinese attackers have malware families for multiple platforms: Microsoft Windows, Apple MacOS, Apple iOS, Android and cloud services such as Gmail \[FEYE1\], \[BB1\], \[V1\], \[TM1\], \[ZD1\], \[PP1\], \[PP12\], \[TCL12\].
 

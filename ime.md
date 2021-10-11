@@ -41,21 +41,21 @@ On June 24, 2012, Shane was discovered hanging in his apartment.
 He was dead by the time he was found.
 A subsequent coroner's report indicated that he died on the night of June 22 \[2\], \[3\], \[5\].
 
-## Sloppy handling by Singapore Police
-Singapore Police made several mistakes in investigating Shane's death \[5\]. 
+## Sloppy handling by Singapore police
+Singapore police made several mistakes in investigating Shane's death \[5\]. 
 
-First, Singapore Police appear to have improperly handled several of Shane's electronic devices (e.g., computers, external hard-drive and cell phone). 
+First, Singapore police appear to have improperly handled several of Shane's electronic devices (e.g., computers, external hard-drive and cell phone). 
 They accessed the devices without preserving the devices' content, in the process breaching international investigation norms.
 
-Second, Singapore Police appear not to have taken systematic professional photographs of Shane's apartment.
+Second, Singapore police appear not to have taken systematic professional photographs of Shane's apartment.
 The police officers in charge appear to have taken only a couple of photographs of the area where Shane died, with a personal cell phone.
 Even these photographs were subsequently deleted.
 
-Third, Singapore Police appear to have made no effort to take Fingerprints or DNA samples from Shane's apartment.
+Third, Singapore police appear to have made no effort to take fingerprints or DNA samples from Shane's apartment.
 
-It appears that Singapore Police concluded at the outset that Shane's death was a suicide.
+It appears that Singapore police concluded at the outset that Shane's death was a suicide.
 They appear to have made no serious attempt to put forth or pursue another explanation for Shane's death.
-Shane's family has contested for years that there was some evidence of foul-play and that Singapore Police should have seriously pursued alternate explanations for Shane's death.
+Shane's family has contested for years that there was some evidence of foul-play and that Singapore police should have seriously pursued alternate explanations for Shane's death.
 
 ## What does this mean for Huawei?
 Huawei does not appear to have direct involvement in the case.
