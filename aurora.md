@@ -1,5 +1,15 @@
 # First large scale intrusion into private U.S. corporations
 
+## Initial attack vector
+
+## Surveilling Chinese dissidents
+
+## Chinese counter-espionage using U.S. corporations
+
+## Stealing source code
+
+## Stealing (other) intellectual property
+
 ## References and notes
 \[\]: Operation Aurora, Part 1: Season 3, Episode 55. Malicious Life. September 12, 2019.
 
