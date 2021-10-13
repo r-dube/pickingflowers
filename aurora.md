@@ -40,8 +40,21 @@ Then in 2011 Ai was jailed and his passport seized.
 Worn down by the Chinese government, Ai left China in 2015 - a result that the Chinese goverment wanted as it would be far more difficult for Ai to challenge the government from outside China.
 
 ## Stealing source code
+At the time of the Aurora attacks, most companies that developed software configured their source control managament (SCM) systems for ease of use by their software developers.
+Typically, there was no extra security protecting the SCM system and often source code was transmitted un-encrypted between the developers computer and the SCM system.
+Google was one of these companies.
 
-## Stealing (other) intellectual property
+The Chinese attackers stole Google's source code.
+However, Google has not disclosed how much source code was stolen and for which products.
+
+The attackers could use the source code in at least three ways.
+First, they could examing the source code to aid future attacks on Google or Google's users.
+Second, they could inject their own code into Google's to create a vulnerability in Google's services that would not otherwise exist.
+Third, they could share the source code with Google's Chinese competitors such as Baidu.
+Note that Baidu is know to have collaborated with the Chinese government on attacks on companies such as Github.
+Further, the Chinese government is also known to routinely share trade secrets and Intellectual property with Chinese corporations.
+
+## Stealing intellectual property from other U.S. corporations
 
 ## References and notes
 \[1\]: Ghostnet. Wikipedia. (Retrieved) September 15, 2021.
