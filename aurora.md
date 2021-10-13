@@ -1,4 +1,4 @@
-# Large scale intrusion into private U.S. corporations
+# Large scale intrusion into U.S. corporations
 In 2009, Chinese government hackers already had a large scale cyber espionage operation underway in multiple countries with targets such as the Tibetan government in exile \[1\]. 
 However, penetrating U.S. intelligence operations was likely proving harder.
 As an alternative, the Chinese hackers penetrated multiple private (non-state) U.S. corporations to aid their espionage and counter-espionage efforts.
@@ -22,7 +22,7 @@ The attackers had prepared a Windows exploit that used an as yet unknown vulnera
 This exploit would download spyware onto a user's computer if the user clicked a malicious link using Internet Explorer.
 The Chinese attackers used the compromised friends and family accounts to send the malicious link inside phishing messages to Google's Chinese employees.
 
-Those employees that clicked on the malicious links using their work computers had their computers compromised.
+Those employees that clicked on the malicious links using their work computers had their computers compromised with malware that gave the attackers remote access to the computers.
 The attackers used these computers to access the rest of Google's network.
 In particular, the Chinese attackers accessed the Google internal portal to identify the Chinese spies on U.S. intelligence agencies' radar.
 
@@ -55,10 +55,26 @@ Note that Baidu is know to have collaborated with the Chinese government on atta
 Further, the Chinese government is also known to routinely share trade secrets and Intellectual property with Chinese corporations.
 
 ## Infiltrating Adobe
+Adobe was also infiltrated by the Chinese attackers at roughly the same time as Google and using similar techniques - the attackers compromised friends and family of Adobe employees, sent them a malicious link that when clicked installed malware on the employees computers.
+The malware gave the attackers remote access to the compromised machines.
 
-## Stealing sourc code from other U.S. corporations
+Similar to Google, the attackers obtained access to Adobe's source code. 
 
-## Summary
+## Stealing source code from other U.S. corporations
+Besides, Google and Adobe, the Chinese attackers inflitrated 32 other U.S. corporations and stole source code.
+Not all the corporations that have been breached have been identified.
+However we know that the breached corporations include Intel, Juniper Networks, Northrop Grumman, Dow Chemical and Morgan Stanley.
+
+In some cases the zero-day in Internet Explorer was used to compromised a user's computer. 
+In other cases, another zero-day in Adobe's pdf reader was used in the attack - employees were sent a malicious pdf attachment that once opened would download the remote access malware onto the computer.
+
+It appears that in all the breached corporations, the SCM system was accessed and source code stolen.
+
+## Connections to China
+Security researchers traced back Operation Aurora, after jumping through several intemediary hops in multiple countries, to two colleges in China: Shanhai Jiao Tong University and Lanxiang Vocational School.
+Further, encryption algorithms used in portion of the malware were found to have been developned in China and almost exclusively used in China.
+Finally, the Google attack was tracked in real-time by Google's IT staff and commercial security companies.
+Attack activity was most prolific during work hours in China.
 
 ## References and notes
 \[1\]: Ghostnet. Wikipedia. (Retrieved) September 15, 2021.
