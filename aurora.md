@@ -1,4 +1,4 @@
-# First large scale intrusion into private U.S. corporations
+# Large scale intrusion into private U.S. corporations
 In 2009, Chinese government hackers already had a large scale cyber espionage operation underway in multiple countries with targets such as the Tibetan government in exile \[1\]. 
 However, penetrating U.S. intelligence operations was likely proving harder.
 As an alternative, the Chinese hackers penetrated multiple private (non-state) U.S. corporations to aid their espionage and counter-espionage efforts.
@@ -54,7 +54,11 @@ Third, they could share the source code with Google's Chinese competitors such a
 Note that Baidu is know to have collaborated with the Chinese government on attacks on companies such as Github.
 Further, the Chinese government is also known to routinely share trade secrets and Intellectual property with Chinese corporations.
 
-## Stealing intellectual property from other U.S. corporations
+## Infiltrating Adobe
+
+## Stealing sourc code from other U.S. corporations
+
+## Summary
 
 ## References and notes
 \[1\]: Ghostnet. Wikipedia. (Retrieved) September 15, 2021.
@@ -74,6 +78,10 @@ Further, the Chinese government is also known to routinely share trade secrets a
 \[\]: Google attacks "traced to Chinese schools." Bobbie Johnson and Tania Branigan. The Guardian. February 19, 2010.
 
 \[\]: Google Hack Attack Was Ultra Sophisticated, New Details Show. Kim Zetter. Wired. January 14, 2010.
+
+\[\]: Hack of Google, Adobe Conducted Through Zero-Day IE Flaw. Kim Zetter. Wired. January 14, 2010.
+
+\[\]: Google Hackers Targeted Source Code of More Than 30 Companies. Kim Zetter. Wired. January 13, 2010.
 
 \[\]: In-depth Analysis of Hydraq. Zarestel Ferrer and Methusela Cebrian Ferrer. CA Internet Security Intelligence. 2010.
 
