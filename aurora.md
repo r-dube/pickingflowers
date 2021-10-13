@@ -63,7 +63,7 @@ Similar to Google, the attackers obtained access to Adobe's source code.
 ## Stealing source code from other U.S. corporations
 Besides, Google and Adobe, the Chinese attackers inflitrated 32 other U.S. corporations and stole source code.
 Not all the corporations that have been breached have been identified.
-However we know that the breached corporations include Intel, Juniper Networks, Northrop Grumman, Dow Chemical and Morgan Stanley.
+However we know that the breached corporations include Intel, Juniper Networks, Akamai, Northrop Grumman, Dow Chemical and Morgan Stanley.
 
 In some cases the zero-day in Internet Explorer was used to compromised a user's computer. 
 In other cases, another zero-day in Adobe's pdf reader was used in the attack - employees were sent a malicious pdf attachment that once opened would download the remote access malware onto the computer.
@@ -105,9 +105,13 @@ Attack activity was most prolific during work hours in China.
 
 \[\]: Google Aurora Hack Was Chinese Counterespionage Operation. Mathew Schwartz. Dark Reading. May 21, 2013.
 
+\[\]: 9 Years After: From Operation Aurora to Zero Trust. Andy Ellis. Dark Reading. February 20, 2019.
+
 \[\]: U.S. enables Chinese hacking of Google. Bruce Schneier. CNN. January 23, 2010.
 
 \[\]: Google China cyberattack part of vast espionage campaign, experts say. Ariana Cha and Ellen Nakashima. January 14, 2010.
+
+\[\]: Rackspace Response to Cyber Attacks. Fran Stephenson. The Official Rackspace Blog. January 13, 2010.
 
 \[\]: The Perfect Weapon. David Sanger. Broadway Books. 2019.
 
