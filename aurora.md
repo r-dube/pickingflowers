@@ -15,12 +15,12 @@ The Chinese government wanted to know which Gmail accounts were under surveillan
 Obviously, such information could be gotten by breaking into the U.S. intelligence services.
 However, at the time, it was easier to break into a company such as Google to obtain this information.
 
-The Chinese attackers orchestrated their break into Google by first identifying and then breaking into the accounts of Chinese nationals who communicated with Google's Chinese employees.
+The Chinese attackers orchestrated their break into Google by first identifying and then breaking into the accounts of Chinese nationals who communicated with Google China's employees.
 That is, the attackers first broke into the lightly defended accounts of Google China's employees' friends and family \[FT1\], \[NP1\].
 
 The attackers had prepared a Windows exploit that used an as yet unknown vulnerability (zero-day) in Microsoft's Internet Explorer \[WI3\].
 This exploit would download spyware onto a user's computer if the user clicked a malicious link using Internet Explorer.
-The Chinese attackers used the compromised friends and family accounts to send the malicious link inside phishing messages to Google's Chinese employees.
+The Chinese attackers used the compromised friends and family accounts to send the malicious link inside phishing messages to Google China's employees.
 
 Employees who clicked on the malicious links using their work computers had their computers compromised with malware that gave the attackers remote access.
 The attackers used these computers to access the rest of Google's network.
@@ -42,7 +42,7 @@ Worn down by the Chinese government, Ai left China in 2015 - a result that the C
 ## Stealing source code
 At the time of the Aurora attacks, most companies that developed software configured their source control management (SCM) systems for ease of use.
 Typically, there was no extra security protecting the SCM system, and often source code was transmitted un-encrypted between the developers' computer and the SCM system.
-Google was one of these companies \[\ML1\], \[ML2\], \[DS1\].
+Google was one of these companies \[ML1\], \[ML2\], \[DS1\].
 
 The Chinese attackers stole Google's source code.
 However, Google has not disclosed how much source code was stolen and the affected products \[WI1\], \[WI2\].
@@ -52,7 +52,7 @@ First, they could examine the source code to aid future attacks on Google or Goo
 Second, they could inject their own code into Google's to create a vulnerability in Google's services that would not otherwise exist.
 Third, they could share the source code with Google's Chinese competitors, such as Baidu.
 Note that Baidu has collaborated with the Chinese government on attacks on companies such as Github.
-Further, the Chinese government is also known to routinely share trade secrets and Intellectual property with Chinese corporations \[CNA1\], \[NP1\], \[DS1\].
+Further, the Chinese government is also known to routinely share trade secrets and foreign intellectual property with Chinese corporations \[CNA1\], \[NP1\], \[DS1\].
 
 ## Infiltrating Adobe
 Adobe was also infiltrated by the Chinese attackers at roughly the same time as Google and using similar techniques - the attackers compromised friends and family of Adobe employees, sent them a malicious link that, when clicked, installed malware on the employees' computers.
@@ -72,6 +72,7 @@ It appears that in all the breached corporations, the SCM system was accessed an
 
 ## Connections to China
 After jumping through several intermediary hops in multiple countries, security researchers traced Operation Aurora to two colleges in China: Shanghai Jiao Tong University and Lanxiang Vocational School.
+It is possible that the college networks were being used by the Chinese hackers to hide their exact locations inside China.
 Further, encryption algorithms used in a portion of the malware were found to have been developed in China and almost exclusively used in China.
 Finally, the Google attack was tracked in real-time by Google's IT staff and commercial security companies.
 Attack activity was most prolific during work hours in China \[NP1\], \[DR3\], \[TG1\].
