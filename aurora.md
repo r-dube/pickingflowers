@@ -1,4 +1,4 @@
-# Large scale intrusion into non-defense U.S. corporations
+# Large scale intrusion into U.S. corporations
 In 2009, Chinese government hackers already had a large-scale cyber-espionage operation underway in multiple countries with targets such as the Tibetan government in exile \[W1\]. 
 However, penetrating U.S. intelligence operations was likely proving harder.
 As an alternative, the Chinese hackers penetrated multiple private (non-state) U.S. corporations to aid their espionage and counter-espionage efforts.
