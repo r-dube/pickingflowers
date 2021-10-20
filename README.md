@@ -9,14 +9,18 @@ Copyright © 2021 r-dube. All Rights Reserved Worldwide.
 
 ## Table of Contents
 * [About this book](about.md)
-* Part 1: Huawei's corporate espionage
-  * [Nortel](nortel.md)
-  * [Cisco](cisco.md)
-  * [Motorola](motorola.md)
-  * [Quintel](quintel.md)
-  * [T-mobile](tmobile.md)
-  * [CNEX](cnex.md)
-  * [IME](ime.md)
+* Part 1: Huawei
+  * Part 1.1: Corporate espionage
+    * [Cisco](cisco.md)
+    * [Motorola](motorola.md)
+    * [Quintel](quintel.md)
+    * [T-mobile](tmobile.md)
+    * [CNEX](cnex.md)
+    * [IME](ime.md)
+  * Part 1.2: Partnership with Chinese intelligence agencies
+    * [Nortel](nortel.md)
+    * [Lithuania](lithuania.md)
+  * Part 1.3: Coopting decision makers in foreign countries
 * Part 2: State directed intrusions into private enterprises
   * [Aurora](aurora.md)
   * RSA
