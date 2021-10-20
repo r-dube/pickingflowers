@@ -1,4 +1,16 @@
 # Communication products in Lithuania
+For several years, Telecom service providers have used Huawei equipment in their networks. 
+However, in 2019, the Lithuanian government implicated China in espionage operations in Lithuania.
+Further, the Lithuanian government accused Huawei of assisting China's espionage.
+Subsequently, Lithuania banned Huawei from 5G networks in Lithuania and asked its citizens to refrain from using Huawei phones.
+
+## 4G network
+
+## Huawei banned from 5G infrastructure
+
+## Government asks citizens to stop using Huawei mobile phones
+
+## Huawei's defense is not credible
 
 ## References and notes
 \[\]: Four European countries have only Chinese gear in 4G networks, researcher says. Reuters. June 30, 2020.
