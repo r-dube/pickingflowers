@@ -6,7 +6,7 @@ Subsequently, Lithuania banned Huawei from 5G networks in Lithuania and asked it
 
 ## 4G network
 Lithuania has three mobile operators: Tele2, Telia and Bite \[1\].
-As per \[2\], all three mobiles operators had exclusively installed Huawei's telecom equipment during their 4G network buildout.
+As per \[2\], all three mobiles operators had exclusively installed telecom equipment from China during their 4G network buildout.
 
 ## Huawei banned from 5G infrastructure
 In 2019, the Lithuanian government's "National Threat Assessment" highlighted Chinese espionage activity in Lithuania \[3\].
@@ -15,12 +15,12 @@ Further, the assessment indicated that "Chinese intelligence may seek to obtain 
 Finally, the assessment described how Chinese intelligence operatives co-opt Lithuanian citizens in political decision-making roles: "They seek to influence such individuals by giving gifts, paying for trips to China, covering expenses of training and courses organized there."
 
 Separate from the national threat assessment, a Lithuanian government official indicated that Lithuania was in the process of assessing Huawei's role in aiding Chinese espionage \[4\].
-While the results of the government's analysis of Huawei have not been made public, the Lithuanian government banned Huawei from its (future) 5G network \[5\].
-
+While the results of the government's analysis of Huawei have not been made public, the Lithuanian parliament effectively banned Huawei from its (future) 5G network \[5\].
+Telecom operators are also required to replace deployed equipment from banned vendors (including Huwawei) by 2025.
 
 ## Government asks citizens to stop using Huawei mobile phones
 
-## Huawei's defense is not credible
+## Huawei's defense not credible
 
 ## References and notes
 \[1\]: List of mobile network operators of Europe. Wikipedia. Retrieved on October 20, 2021 (en.wikipedia.org/wiki/List_of_mobile_network_operators_of_Europe#Lithuania).
