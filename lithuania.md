@@ -16,11 +16,22 @@ Finally, the assessment described how Chinese intelligence operatives co-opt Lit
 
 Separate from the national threat assessment, a Lithuanian government official indicated that Lithuania was in the process of assessing Huawei's role in aiding Chinese espionage \[4\].
 While the results of the government's analysis of Huawei have not been made public, the Lithuanian parliament effectively banned Huawei from its (future) 5G network \[5\].
-Telecom operators are also required to replace deployed equipment from banned vendors (including Huwawei) by 2025.
+Telecom operators are also required to replace deployed equipment from banned vendors by 2025.
+Consequently, Telia is removing all Huawei equipment from its current 4G network and will not use Huawei in its 5G network \[6\], \[7\].
 
 ## Government asks citizens to stop using Huawei mobile phones
+In 2021, a Lithuanian government agency carried out some tests on mobile phones designed and manufactured in China \[8\].
+The agency found that one of Huawei's phones allowed users easy access to third-party app-stores known to host malicious applications.
+As a result, the agency recommended that Lithuanian citizens refrain from using Huawei phones \[9\].
 
 ## Huawei's defense not credible
+Prior to banning "unreliable technologies" (including those from Huawei) from Lithuania's 5G network, the Lithuanian parliament considered the affect of a 2017 Chinese National Intelligence Law on Huawei.
+This law "obliges all Chinese citizens and organizations to support the national intelligence services as requested without allowing for any possibility to refuse handing over data" \[10\].
+
+Huawei has stated that it would shutdown its operations rather than handover customer data to the Chinese government.
+However, there is no legal way (in China) for Huawei to refuse cooperation with the Chinese govenment \[11\].
+
+Finally, given that there is no real separation between the Chinese government and the Chinese judiciary and the close relationship between Huawei and the Communist party of China (that controls the Chinese government), it is difficult to take Huawei's assurances seriously.
 
 ## References and notes
 \[1\]: List of mobile network operators of Europe. Wikipedia. Retrieved on October 20, 2021 (en.wikipedia.org/wiki/List_of_mobile_network_operators_of_Europe#Lithuania).
@@ -35,12 +46,12 @@ Telecom operators are also required to replace deployed equipment from banned ve
 
 \[6\]: Telia to remove all Huawei equipment in Lithuania. Reuters. November 30, 2020.
 
-\[\]: Huawei in Central and Eastern Europe: Trends and Forecast. Ivana Karaskova, Konstantinas Andrijauskas et. al. AMO (Association for Intrernational Affairs). January 2021.
+\[7\]: Huawei in Central and Eastern Europe: Trends and Forecast. Ivana Karaskova, Konstantinas Andrijauskas et. al. AMO (Association for Intrernational Affairs). January 2021.
 
-\[\]: How Can the Baltic States Support 5G Security through Transatlantic Cooperation? Agne Rakstyte. CEPA (Center for European Policy Analysis). August 26, 2021.
+\[8\]: Assessment of cybersecurity of mobile devices supporting 5G technology sold in Lithuania: Analysis of Products Made by Huawei, Xiaomi and OnePlus. National Cyber Security Center (Lithuania). August 23, 2021.
 
-\[\]: Assessment of cybersecurity of mobile devices supporting 5G technology sold in Lithuania: Analysis of Products Made by Huawei, Xiaomi and OnePlus. National Cyber Security Center (Lithuania). August 23, 2021.
+\[9\]: Don't use these Chinese smartphones, European government warns. Paul Wagenseil. Tom's Guide. September 2021. 
 
-\[\]: Don't use these Chinese smartphones, European government warns. Paul Wagenseil. Tom's Guide. September 2021. 
+\[10\]: How Can the Baltic States Support 5G Security through Transatlantic Cooperation? Agne Rakstyte. CEPA (Center for European Policy Analysis). August 26, 2021.
 
-\[\]: Huawei says it would never hand data to China’s government. Experts say it wouldn’t have a choice. Arjun Kharpal. CNBC. March 5, 2019.
+\[11\]: Huawei says it would never hand data to China’s government. Experts say it wouldn’t have a choice. Arjun Kharpal. CNBC. March 5, 2019.
