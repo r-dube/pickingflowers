@@ -38,7 +38,7 @@ In its own defense, Huawei has stated that it would shut down its operations rat
 However, there is no legal way (in China) for Huawei to refuse cooperation with the Chinese government \[11\].
 
 There is also no real separation between the Chinese government and the Chinese judiciary.
-That is no independent judiciary would stands in the way of the Chinese government's demands for data from Huawei.
+That is, no independent judiciary would stand in the way of the Chinese government's demands for data from Huawei.
 Since, Huawei officials also have a close relationship with the Communist Party of China (which controls the Chinese government) it is difficult to take Huawei's statements on customer data protection seriously.
 
 ## References and notes
