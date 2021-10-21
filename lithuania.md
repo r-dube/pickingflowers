@@ -5,14 +5,15 @@ Further, the Lithuanian government accused Huawei of assisting China's espionage
 Subsequently, Lithuania banned Huawei from 5G networks in Lithuania and asked its citizens to refrain from using Huawei phones.
 
 ## 4G network
-Lithuania has three mobile operators: Tele2, Telia and Bite \[1\].
+Lithuania has three mobile operators: Tele2, Telia, and Bite \[1\].
 As per \[2\], all three mobiles operators had exclusively installed telecom equipment from China during their 4G network buildout.
 
 ## Huawei banned from 5G infrastructure
 In 2019, the Lithuanian government's "National Threat Assessment" highlighted Chinese espionage activity in Lithuania \[3\].
-This assessment stated that China's intelligence "...  utilises state-funded Confucius Institutes, Chinese companies and news agencies, use Chinese students studying abroad."
+This assessment stated that China's intelligence "... utilizes state-funded Confucius Institutes, Chinese companies, and news agencies, use Chinese students studying abroad."
 Further, the assessment indicated that "Chinese intelligence may seek to obtain sensitive or classified national or NATO and EU information." from Lithuanian citizens.
-Finally, the assessment described how Chinese intelligence operatives co-opt Lithuanian citizens in political decision-making roles: "They seek to influence such individuals by giving gifts, paying for trips to China, covering expenses of training and courses organized there."
+Finally, the assessment described how Chinese intelligence operatives co-opt Lithuanian citizens in political decision-making roles.
+It said, "... they seek to influence such individuals by giving gifts, paying for trips to China, covering expenses of training and courses organized there."
 
 Separate from the national threat assessment, a Lithuanian government official indicated that Lithuania was in the process of assessing Huawei's role in aiding Chinese espionage \[4\].
 While the results of the government's analysis of Huawei have not been made public, the Lithuanian parliament effectively banned Huawei from its (future) 5G network \[5\].
@@ -20,18 +21,20 @@ Telecom operators are also required to replace deployed equipment from banned ve
 Consequently, Telia is removing all Huawei equipment from its current 4G network and will not use Huawei in its 5G network \[6\], \[7\].
 
 ## Government asks citizens to stop using Huawei mobile phones
-In 2021, a Lithuanian government agency carried out some tests on mobile phones designed and manufactured in China \[8\].
-The agency found that one of Huawei's phones allowed users easy access to third-party app-stores known to host malicious applications.
+In 2021, a Lithuanian government agency conducted tests on mobile phones designed and manufactured in China \[8\].
+The agency found that one of Huawei's phones allowed users easy access to third-party app stores known to host malicious applications.
 As a result, the agency recommended that Lithuanian citizens refrain from using Huawei phones \[9\].
 
 ## Huawei's defense not credible
-Prior to banning "unreliable technologies" (including those from Huawei) from Lithuania's 5G network, the Lithuanian parliament considered the affect of a 2017 Chinese National Intelligence Law on Huawei.
+Before banning "unreliable technologies" (including those from Huawei) from Lithuania's 5G network, the Lithuanian parliament considered the effect of a 2017 Chinese National Intelligence Law on Huawei.
 This law "obliges all Chinese citizens and organizations to support the national intelligence services as requested without allowing for any possibility to refuse handing over data" \[10\].
 
-Huawei has stated that it would shutdown its operations rather than handover customer data to the Chinese government.
-However, there is no legal way (in China) for Huawei to refuse cooperation with the Chinese govenment \[11\].
+Huawei has stated that it would shut down its operations rather than hand over customer data to the Chinese government.
+However, there is no legal way (in China) for Huawei to refuse cooperation with the Chinese government \[11\].
 
-Finally, given that there is no real separation between the Chinese government and the Chinese judiciary and the close relationship between Huawei and the Communist party of China (that controls the Chinese government), it is difficult to take Huawei's assurances seriously.
+There is no real separation between the Chinese government and the Chinese judiciary.
+In addition, Huawei officials have a close relationship with the Communist Party of China (which controls the Chinese government).
+Thus, it is difficult to take Huawei's assurances on customer data seriously.
 
 ## References and notes
 \[1\]: List of mobile network operators of Europe. Wikipedia. Retrieved on October 20, 2021 (en.wikipedia.org/wiki/List_of_mobile_network_operators_of_Europe#Lithuania).
@@ -42,7 +45,7 @@ Finally, given that there is no real separation between the Chinese government a
 
 \[4\]: Brussels teeming with Russian and Chinese spies, EU officials claim. Samuel Stolton. Euractiv. February 10, 2019.
 
-\[5\]: Lithuania bans ‘unreliable’ technologies from its 5G network. LRT (Lithuanian Radio and Television). May 25, 2021.
+\[5\]: Lithuania bans 'unreliable' technologies from its 5G network. LRT (Lithuanian Radio and Television). May 25, 2021.
 
 \[6\]: Telia to remove all Huawei equipment in Lithuania. Reuters. November 30, 2020.
 
@@ -54,4 +57,4 @@ Finally, given that there is no real separation between the Chinese government a
 
 \[10\]: How Can the Baltic States Support 5G Security through Transatlantic Cooperation? Agne Rakstyte. CEPA (Center for European Policy Analysis). August 26, 2021.
 
-\[11\]: Huawei says it would never hand data to China’s government. Experts say it wouldn’t have a choice. Arjun Kharpal. CNBC. March 5, 2019.
+\[11\]: Huawei says it would never hand data to China's government. Experts say it wouldn't have a choice. Arjun Kharpal. CNBC. March 5, 2019.
