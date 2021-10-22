@@ -22,8 +22,8 @@ Even so, the Lithuanian parliament effectively banned Huawei from its (future) 5
 The parliament perpetuated the ban by using a new law that required telecom operators to shun suppliers from undemocratic countries \[5\].
 Both Huawei and ZTE (another Chinese vendor) fall under this ban as they are headquartered in China. 
 
-Swedish telecom operators were also required to replace deployed equipment from banned vendors by 2025.
-Consequently, Telia is removing all Huawei equipment from its current 4G network and will not use Huawei in its 5G network \[6\], \[7\].
+Lithuanian telecom operators were also required to replace deployed equipment from banned vendors by 2025.
+Consequently, Telia is removing all Huawei equipment from its current 4G network in Lithuania and will not use Huawei in its 5G network \[6\], \[7\].
 Tele2 and Bite will (likely) need to follow Telia's lead.
 
 ## Government asks citizens to stop using Huawei mobile phones
