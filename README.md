@@ -20,7 +20,10 @@ Copyright © 2021 r-dube. All Rights Reserved Worldwide.
   * Part 1.2: Partnership with Chinese intelligence agencies
     * [Nortel](nortel.md)
     * [Lithuania](lithuania.md)
-  * Part 1.3: Coopting decision makers in foreign countries
+  * Part 1.3: Exploiting the legal system in foreign countries
+    * [Sweden](sweden.md)
+  * Part 1.4: Coopting decision makers in foreign countries
+    * Canada
 * Part 2: State directed intrusions into private enterprises
   * [Aurora](aurora.md)
   * RSA
