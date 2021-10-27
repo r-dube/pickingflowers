@@ -1,4 +1,7 @@
 # Exploiting Sweden's legal system
+As in many functioning democracies, Sweden separates its legislative, judicial and executive branches of government.
+Following a 2019 law that allows a security-based exclusion of vendors from Swedish national infrastructure, Sweden's telecom regulator barred Huawei from Sweden's 5G network.
+Exploiting Sweden's separation of the branches of government, Huawei is using the legal system to preserve its penetration of Telecom operators in Sweden.
 
 ## Gui Minhai and Sweden-China governmental relations
 
@@ -21,6 +24,8 @@
 \[\]: Säpo: Suspected spies found working in Swedish agencies. Radio Sweden. March 16, 2017.
 
 \[\]: Säpo chief: Russia, China and Iran biggest threats. MSN.com. April 24, 2021.
+
+\[\]: Gui Minhai. Wikipedia. (Retrieved from https://en.wikipedia.org/wiki/Gui_Minhai) October 27, 2021.
 
 \[\]: Gui Minhai’s last days in Thailand. Safeguard Defenders. December 16, 2020.
 
