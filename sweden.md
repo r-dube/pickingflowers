@@ -4,6 +4,20 @@ Following a 2019 law that allows a security-based exclusion of vendors from Swed
 Exploiting Sweden's separation of the branches of government, Huawei is using the legal system to preserve its penetration of Telecom operators in Sweden.
 
 ## Gui Minhai and Sweden-China governmental relations
+Starting around 2015 Sweden-China governmental relations had been on a down swing.
+These relationships deteriorated when Chinese agents kidnapped Gui Minhai - a naturalized Swedish Citizen - in Thailand and forced him to confess to vague crimes in mainland China.
+
+Gui was born in mainland China and obtained Swedish citizenship after the Tiananmen Square massacre.
+In the process Gui renounced his Chinese citizenship.
+Subsequently, Gui set up a bookshop in Hong Kong with four other partners.
+He also published several books on characters in the Communist Party of China (CCP).
+Over time, all five of the partners in the bookshop were arrested and charged with (seemingly) made up crimes.
+
+Since Gui's kidnapping, Swedish officials have been advocating on his behalf to the Chinese government with little success.
+For most of the time since the kidnapping, he has been detained, denied access to a lawyer and not allowed to meet the Swedish consular officials in China.
+Since the kudiciary in China is not independent of the legislative or executive branches of government, there is no mechanism internal to the Chinese government that would bring him to a fair trial or secure his release.
+
+As a result of the coverage of the affair in Sweden, Swedish public opinion of China has declined and governmental relations have become strained.
 
 ## 2019 electronic communications law
 
