@@ -20,10 +20,22 @@ Since the kudiciary in China is not independent of the legislative or executive 
 As a result of the coverage of the affair in Sweden, Swedish public opinion of China has declined and governmental relations have become strained.
 
 ## 2019 electronic communications law
+In 2019, Sweden adopted an electronic communications law that enabled the country to exclude vendors from national infrastructure based on security considerations.
+This law came into effect on January 1, 2020.
+The law gave the Swedish Armed Forces and Swedish Intelligence (Sapo) a say in the selection of vendors for 5G infrastructure.
+
+While the law was likely inspired by concerns about Huawei in other democratic countries (most notable in the U.S. and Australia), China's poor relationship with Sweden was likely a factor as well.
 
 ## Huawei Ban
+In October 2020, the Swedish Post and Telecom Authority - the telecom regulator - barred Huawei and ZTE from participating in Sweden's 5G infrastructure.
+The ban was based on the 2019 law and on the recommendation of the Swedish Armed Forces and Sapo.
+
+Sapo's stance on Huawei was unsurprising.
+Sapo had long highlighted Chinese espionage activities in Sweden.
 
 ## Huawei's use of Sweden's legal system
+In November 2020, immediately after the telecom regulator's decision, Huawei filed a complaint with a Swedish court in an effort to overturn the regulator's decision.
+The appeal prevented the regulator from proceeding with a 5G spectrum auction to telecom operators - an early step in the process of deploying 5G infrastructure.
 
 ## Impact on Ericsson's business in China
 
