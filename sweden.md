@@ -72,7 +72,22 @@ Nor does Ericsson's CEO address the asymmetry in the application of rules and la
 In similar vein, Ericsson has stayed silent when other democratic countries such as the U.K. and the U.S. banned Huawei and ZTE - Ericsson stood to gain from those bans as the bans increased Ericsson's odds of being selected for the 5G buildout in those countries.
 Only when Sweden banned the two Chinese companies did Ericsson speak out to attempt to preserve its revenue in China.
 
-## Conclusion
+## An obvious asymmetry
+There is obvious asymmetry between Sweden and Ericsson on the one hand and China and Huawei on the other.
+Sweden separates its judicial, legislative and executive branches of government. 
+Ericsson by virtue of being headquartered in Sweden is regulated by the government, but only loosely. 
+Regulations and laws that apply to Ericsson typically also apply to other Swedish, European and U.S. companies doing business in Sweden.
+
+In contrast, the CCP directs the judicial, legislative and executive branches of government in China.
+By extension, the CCP directs the activities of Huawei and Chinese telecom operators such as China Mobile.
+
+For years Huawei has benefitted from being treated as a private enterprise in Sweden and other democratic countries.
+Huawei has been able to access the market in Sweden as well as the legal system to protect its business interests.
+Ericsson in China has no such recourse and is at the mercy of the CCP for its business interests.
+
+Now that Sweden has begun treating Huawei as a CCP directed enterprise and its access to the Swedish market is about to be cut-off, Huawei is trying to protect its (and the CCP's) interests by using Sweden's legal system.
+One wonders if the Swedish (and other countries') legal system should be reformed to treat foreign state directed enterprises differently from foreign private enterprises.
+
 
 ## References and notes
 

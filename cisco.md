@@ -38,12 +38,10 @@ In the case of Cisco, Huawei attempted to recruit Cisco's engineers that worked 
 Further, Huawei erased software on the Quidway routers in its possession and attemped to remotely erase the software from devices deployed by third-parties in the US \[8\]. 
 Finally, Huawei sent back Quidway routers from the US to China so that the devices could not be examined as part of Cisco's lawsuit \[8\]. 
 
-## Huawei is owned by the Communist Party of China
+## Huawei is directed by the Communist Party of China
 Huawei has an opaque ownership structure. 
-Researchers who have peeled back the structure find that the company is effectively a state-owned enterprise (SOE) \[9\].
-Obviously, SOEs are heavily influenced by the Communist Party of China (CCP).
-In a sense, the CCP owns Huawei.
-Given CCP's ownership of Huawei, it stands to reason that the CCP bears responsibility for Huawei's intellectual property theft from corporations such as Cisco.
+Researchers who have peeled back the structure find that the company is effectively a Communist Party of China (CCP) directed enterprise - the only political party allowed in the country \[9\].
+Given CCP's direction of Huawei, it stands to reason that the CCP bears responsibility for Huawei's intellectual property theft from corporations such as Cisco.
 
 ## References and notes
 \[1\]: Cisco Sues Huawei. Light Reading. January 23, 2003.
