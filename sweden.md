@@ -35,11 +35,22 @@ Sapo had long highlighted Chinese espionage activities in Sweden.
 
 ## Huawei's use of Sweden's legal system
 In November 2020, immediately after the telecom regulator's decision, Huawei filed a complaint with a Swedish court in an effort to overturn the regulator's decision.
-The appeal prevented the regulator from proceeding with a 5G spectrum auction to telecom operators - an early step in the process of deploying 5G infrastructure.
+The complaint prevented the regulator from proceeding with a 5G spectrum auction to telecom operators - an early step in the process of deploying 5G infrastructure.
+
+The court ultimately allowed the auction to continue but also allowed Huawei to continue the legal process.
+However, in January 2021, the court upheld the regulators ban from the 5G network.
+
+In April 2021, Huawei filed additional papers to continue its use of the legal system in Sweden to preseve its market position.
+In June of the same year, the court again upheld the regulators ban.
+
+In October 2021, Huawei filed yet another appeal against its ban.
+This appeal is pending review at the time of this writing.
 
 ## Impact on Ericsson's business in China
 
 ## Ericsson's defense of Huawei
+
+## Conclusion
 
 ## References and notes
 
