@@ -1,7 +1,7 @@
 # Exploiting Sweden's legal system
 As in many functioning democracies, Sweden separates its legislative, judicial and executive branches of government.
 Following a 2019 law that allows a security-based exclusion of vendors from Swedish national infrastructure, Sweden's telecom regulator barred Huawei from Sweden's 5G network.
-Exploiting Sweden's separation of the branches of government, Huawei is using the legal system to preserve its penetration of Telecom operators in Sweden.
+Exploiting Sweden's separation of the branches of government, Huawei is using the legal system to preserve its operations in Sweden.
 
 ## Gui Minhai and Sweden-China governmental relations
 Starting around 2015 Sweden-China governmental relations had been on a down swing.
@@ -47,8 +47,30 @@ In October 2021, Huawei filed yet another appeal against its ban.
 This appeal is pending review at the time of this writing.
 
 ## Impact on Ericsson's business in China
+Ericsson is a Sweden headquartered telecom equipment vendor that competes directly with Huawei and ZTE.
+Two other telecom endors, Nokia (headquartered in Finland) and Samsung (headquartered in South Korea), make up the remaining well-known vendors for 5G infrastructure.
+All three of Ericsson, Nokia and Samsung are headquartered in democratic countries.
+While they have to adhere to national laws imposed by their respective governments, they also have the freedom to challenge governmental actions in the courts or in the press.
+
+In China, the telecom companies building out 5G networks are state directed.
+Companies such as China Mobile do not operate independently and hand out market share to competing companies, partially based on the Chinese government's direction.
+The market shares allocated to various companies are not subject to independent regulator review and cannot be challenged via an independent judiciary.
+
+In 2020, China Mobile allocated Ericsson an 11% share of its 5G equipment spend. 
+However, following the ban on Huawei in Sweden, a 2021 buildout allocated 2% of spend to Ericsson.
+Finally, another buildout initiated in October 2021 allocated 0% to Ericsson.
+
+Another 5G network being jointly built by China Telecom and China Unicom shows a similar trajectory.
+Ericsson was allocated 3% of the spend in Phase 2 buildout.
 
 ## Ericsson's defense of Huawei
+Ericsson's CEO has come to Huawei's defense and urged the Swedish government not to ban Huawei in Sweden's 5G network.
+Ericsson's defense of Huawei is based purely on its own interest of preserving market access in China.
+In his defense of Huawei, Ericsson's CEO does not provide a method for Sweden to safeguard national infrastructure.
+Nor does Ericsson's CEO address the asymmetry in the application of rules and laws - Huawei can and does openly challenge the Swedish regulator's ban but Ericsson has no opportunity to challenge the market share handed out by China Mobile at the Chinese government's direction.
+
+In similar vein, Ericsson has stayed silent when other democratic countries such as the U.K. and the U.S. banned Huawei and ZTE - Ericsson stood to gain from those bans as the bans increased Ericsson's odds of being selected for the 5G buildout in those countries.
+Only when Sweden banned the two Chinese companies did Ericsson speak out to attempt to preserve its revenue in China.
 
 ## Conclusion
 
