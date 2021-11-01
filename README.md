@@ -16,14 +16,14 @@ Copyright © 2021 r-dube. All Rights Reserved Worldwide.
     * [Quintel](quintel.md)
     * [T-mobile](tmobile.md)
     * [CNEX](cnex.md)
-    * [IME](ime.md)
+    * [IME Singapore](ime.md)
   * Part 1.2: Partnership with Chinese intelligence agencies
     * [Nortel](nortel.md)
     * [Lithuania](lithuania.md)
   * Part 1.3: Exploiting the legal system in foreign countries
     * [Sweden](sweden.md)
   * Part 1.4: Coopting decision makers in foreign countries
-    * Canada
+    * [Canadian Universities](canada-univ.md)
 * Part 2: State directed intrusions into private enterprises
   * [Aurora](aurora.md)
   * RSA
