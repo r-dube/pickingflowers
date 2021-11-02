@@ -1,5 +1,15 @@
 # "Elite Capture" at Canadian universities
 
+## Feed-Capture-Use
+
+## Canadian universities as a target
+
+## Huawei feeds research funding to Canadian universities
+
+## University researchers captured by Huawei
+
+## Captured academicians speak of use to Huawei
+
 ## References and notes
 \[\]: Poll shows hardening position on China among Canadians. Steven Chase. The Globe and Mail. October 11, 2021.
 
@@ -21,6 +31,14 @@
 
 \[\]: New Huawei and University of British Columbia Partnership Agreement to Advance Next Gen Communications. PR Newswire. October 13, 2017.
 
+\[\]: China's top judge warns courts on judicial independence. Reuters. January 15, 2017.
+
 \[\]: In Plain Sight: Beijing's unrestricted network of foreign influence in Canada. Alliance CanadaHK. May 2021.
 
 \[\]: Examining Huawei's Growth & Global Reach. China Institute, University of Alberta. August 2019.
+
+\[\]:  Huawei & 5G: Clarifying the Canadian Equities and Charting a Strategic Path Forward. Christopher Parsons. University of Toronto. December 8, 2020.
+
+\[\]: Faculty question moratorium on Huawei research funding as U.S.-China tensions intensify. Berber Jin and Hannah Knowles. The Stanford Daily. May 28, 2019
+
+\[\]: Canadian university must thread needle between the US and Huawei. Ian Young. South China Morning Post. January 10, 2020.
