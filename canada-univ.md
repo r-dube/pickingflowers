@@ -1,4 +1,11 @@
 # "Elite Capture" at Canadian universities
+Academicians at Canadian universities, like academecians anywhere else, need funding to build and maintain research groups and publish research papers for career advancement.
+Conflicts arise when the funding is provided by a state directed company of a foreign autocratic state.
+Academicians that take funding from such a company, wittingly or unwittingly become "captured" by the stated direct company.
+Over time these academicians become available to speak on the behalf of the foreign state and the state directed company.
+
+This process of decision makers becoming obligated to a foreign state or the foreign state's proxies is called "elite capture".
+In the case of Canada, academicians at several universities appear to be in the process of being captured by Huawei.
 
 ## Feed-Capture-Use
 
@@ -6,11 +13,15 @@
 
 ## Huawei feeds research funding to Canadian universities
 
-## University researchers captured by Huawei
+## Academicians captured by Huawei
 
-## Captured academicians speak of use to Huawei
+## Captured academicians speak on Huawei's behalf
+
+## Conclusion
 
 ## References and notes
+\[1\]: In Plain Sight: Beijing's unrestricted network of foreign influence in Canada. Alliance CanadaHK. May 2021.
+
 \[\]: Poll shows hardening position on China among Canadians. Steven Chase. The Globe and Mail. October 11, 2021.
 
 \[\]: Why CSIS believes Canada is a ‘permissive target’ for China’s interference. Sam Cooper. Global News. June 24, 2020.
@@ -32,8 +43,6 @@
 \[\]: New Huawei and University of British Columbia Partnership Agreement to Advance Next Gen Communications. PR Newswire. October 13, 2017.
 
 \[\]: China's top judge warns courts on judicial independence. Reuters. January 15, 2017.
-
-\[\]: In Plain Sight: Beijing's unrestricted network of foreign influence in Canada. Alliance CanadaHK. May 2021.
 
 \[\]: Examining Huawei's Growth & Global Reach. China Institute, University of Alberta. August 2019.
 
