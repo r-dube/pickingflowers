@@ -8,6 +8,24 @@ This process of decision makers becoming obligated to a foreign state or the for
 In the case of Canada, academicians at several universities appear to be in the process of being captured by Huawei.
 
 ## Feed-Capture-Use
+The general process of elite capture as used by China follows a feed-capture-use pattern.
+First, an agent working on behalf of the Chinese government supplies the target with resources that they want or need.
+Examples include money, jobs and business deals.
+Second, the agent makes the target dependent on China some way. 
+For example, the agent may provide continued facilitation to progress a business deal or assist the target in maintaining a job
+Finally, the agent calls in a favor from the target.
+Example favors include speaking in favor of the Chinese government or its policies in a public forum, writing a favorable editorial (opinion) column and providing access to privileged resources under the control of the target.
+
+\[1\] describes Huawei's attempt to recruit a computer science (artificial intelligence) academician that follows the above mentioned template.
+Huawei first attempted to recruit the academician into a research project in China with lax privacy and data protection guidelines.
+When the academician declined, Huawei's subsidiary in Canada offered to hire the academician as a consultant at three times his university salary.
+Huawei Canada also offered to provide research grants and allow the academician to maintain his job at the university.
+
+The academician sensed that taking the Huawei offer would make him dependent on Huawei.
+Once he accepted the funds and hired PhD students to conduct research, the academician would be beholden to Huawei for continued research funding for his PhD students.
+Such "capture" would reduce the academician's ability to steer his research away from ethically problematic data or to speak out against Huawei in case of an ethics violation.
+
+The academician declined Huawei's offer to prevent himself from being captured.
 
 ## Canadian universities as a target
 
