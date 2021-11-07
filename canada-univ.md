@@ -1,7 +1,7 @@
 # "Elite Capture" at Canadian universities
-Like academicians anywhere else, academics at Canadian universities need funding to build and maintain research groups and publish research papers for career advancement.
+Like academicians anywhere else, academicians at Canadian universities need funding to build and maintain research groups and publish research papers for career advancement.
 Conflicts arise when the funding is provided by a state-directed company of an autocratic foreign state.
-Academicians that take funding from such a company wittingly or unwittingly become "captured" by the stated direct company.
+Academicians that take funding from such a company wittingly or unwittingly become "captured" by the state-directed company.
 Over time these academicians become available to speak on behalf of the foreign state and the state-directed company.
 
 This process of decision-makers becoming obligated to a foreign state or the foreign state's proxies is called "elite capture."
