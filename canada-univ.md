@@ -41,8 +41,14 @@ This list includes the top-10 Candian computer science research programs \[5\].
 As of 2019, Huawei had funnelled more than 56 million Canadian dollars to these 17 programs \[6\].
 
 ## Academicians captured by Huawei
+The list of universities that received Huawei's research funds include the University of Waterloo, the University of British Columbia and the University of Toronto.
+Public statements from these universities touting their research funds from Huawei point to an element of "capture" \[7\], \[8\], \[9\].
 
-## Captured academicians speak on Huawei's behalf
+Since the Canadian government hasn't clearly specified the boundaries of foreign research, semi-autonmous agencies of the Canadian government amplify Huawei's influence by matching Huawei's research funding with Canadian government funding \[10\], \[11\].
+
+## Captured British Columbia academician on Huawei
+
+## Captured Toronto academician on Huawei
 
 ## Conclusion
 
@@ -59,17 +65,17 @@ As of 2019, Huawei had funnelled more than 56 million Canadian dollars to these 
 
 \[6\]: Huawei funds $56M in academic research in Canada. That has some experts concerned. Peter Armstrong. CBC News. November 29, 2019.
 
-\[\]: Huawei and University of Waterloo Partner for World-class Research and Innovation. Huawei. November 11, 2016.
+\[7\]: Huawei and University of Waterloo Partner for World-class Research and Innovation. Huawei. November 11, 2016.
 
-\[\]: New Huawei and University of British Columbia Partnership Agreement to Advance Next Gen Communications. PR Newswire. October 13, 2017.
+\[8\]: New Huawei and University of British Columbia Partnership Agreement to Advance Next Gen Communications. PR Newswire. October 13, 2017.
 
-\[\]: The ethics of science research: reviewing U of T’s funding from Huawei. Elisha Kelman. The Varsity. March 28, 2021.
+\[9\]: The ethics of science research: reviewing U of T’s funding from Huawei. Elisha Kelman. The Varsity. March 28, 2021.
+
+\[10\]: Canadian government pairs universities with Huawei research funding despite security concerns. David Schwartz. Tech Transfer Central. February 23, 2021. 
+
+\[11\]: Canadian Government Partners with Huawei for High Tech Research at Universities. Neil Campbell. Vision Times. February 16, 2021.
 
 \[\]: How Canadian money and research are helping China become a global telecom superpower. The Globe and Mail. May 26, 201.
-
-\[\]: Canadian government pairs universities with Huawei research funding despite security concerns. David Schwartz. Tech Transfer Central. February 23, 2021. 
-
-\[\]: Canadian Government Partners with Huawei for High Tech Research at Universities. Neil Campbell. Vision Times. February 16, 2021.
 
 \[\]: Examining Huawei's Growth & Global Reach. China Institute, University of Alberta. August 2019.
 
