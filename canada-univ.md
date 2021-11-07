@@ -10,11 +10,11 @@ In the case of Canada, academicians at several universities appear to be in the 
 ## Feed-Capture-Use
 The general process of elite capture as used by China follows a feed-capture-use pattern.
 First, an agent working on behalf of the Chinese government supplies the target with resources that they want or need.
-Examples include money, jobs and business deals.
+Examples include all expenses paid trips to China, job offers, consulting contracts and business deals.
 Second, the agent makes the target dependent on China some way. 
-For example, the agent may provide continued facilitation to progress a business deal or assist the target in maintaining a job
+For example, the agent may provide continued facilitation to progress a business deal or assist the target in maintaining a job or a consulting arrangement.
 Finally, the agent calls in a favor from the target.
-Example favors include speaking in favor of the Chinese government or its policies in a public forum, writing a favorable editorial (opinion) column and providing access to privileged resources under the control of the target.
+Examples include speaking in favor of the Chinese government or its policies in a public forum, writing a favorable editorial (opinion) column, giving media outliets China-favorable interviews and providing access to privileged resources under the control of the target.
 
 \[1\] describes Huawei's attempt to recruit a computer science (artificial intelligence) academician that follows the above mentioned template.
 Huawei first attempted to recruit the academician into a research project in China with lax privacy and data protection guidelines.
@@ -28,6 +28,11 @@ Such "capture" would reduce the academician's ability to steer his research away
 The academician declined Huawei's offer to prevent himself from being captured.
 
 ## Canadian universities as a target
+As of this writing, Canada, unlike the U.S. and Australia, lacks laws to identify the extent of Chinese operations in Canada.
+Even though Canadian intelligence services have been warning the Canadian goverment of escalating Chinese operations in Canada, the Canadian government has not reponded with new laws or regulations.
+It is possible, that the non-response is partly due to "elite capture" among the lawmakers \[2\].
+
+Separately, Canadian intelligence services have highlighted Chinese operations on Canadian universities \[3\].
 
 ## Huawei feeds research funding to Canadian universities
 
@@ -40,9 +45,12 @@ The academician declined Huawei's offer to prevent himself from being captured.
 ## References and notes
 \[1\]: In Plain Sight: Beijing's unrestricted network of foreign influence in Canada. Alliance CanadaHK. May 2021.
 
-\[\]: Poll shows hardening position on China among Canadians. Steven Chase. The Globe and Mail. October 11, 2021.
+\[2\]: Why CSIS believes Canada is a ‘permissive target’ for China’s interference. Sam Cooper. Global News. June 24, 2020.
 
-\[\]: Why CSIS believes Canada is a ‘permissive target’ for China’s interference. Sam Cooper. Global News. June 24, 2020.
+\[3\]: Annual Report 2019, National Security and Intelligence Committee of Parliamentarians. Canada. 2020
+
+
+\[\]: Poll shows hardening position on China among Canadians. Steven Chase. The Globe and Mail. October 11, 2021.
 
 \[\]: The ethics of science research: reviewing U of T’s funding from Huawei. Elisha Kelman. The Varsity. March 28, 2021.
 
