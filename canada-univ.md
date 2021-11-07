@@ -49,7 +49,7 @@ Since the Canadian government hasn't clearly specified the boundaries of foreign
 ## Captured British Columbia academician on Huawei
 We reproduce a University of British Columbia academician's remarks to a Chinese state directed news outlet below.
 The academician in question received research funding from Huawei.
-The academcian's remarks provide an example of the "use" to Huawei of a "capture" \[12\], \[13\].
+The academcian's remarks provide an example of the "use" to Huawei of a "capture" \[12\], \[13\], \[14\].
 
 First the academician complains that the U.S. government disallows mixing U.S. technology with research funded bu Huawei:
 *“Last summer the US imposed restrictions on who is able to work, and under what circumstances, with Huawei … so now we have restrictions where we can’t use US technology in the research we do with Huawei.”* 
@@ -66,8 +66,6 @@ Third, the academician repeats Huawei's assurance (not an independent study or r
 
 It is unclear if the academician fully understannds that he has been captured by Huawei and is being used.
 Regardless, the propaganda value of the academician's statements to Huawei and the Chinese government is clear.
-
-## Captured Toronto academician on Huawei
 
 ## Conclusion
 
@@ -96,7 +94,12 @@ Regardless, the propaganda value of the academician's statements to Huawei and t
 
 \[12\]: Canadian university must thread needle between the US and Huawei. Ian Young. South China Morning Post. January 10, 2020.
 
-\[13\]: \[12\] identifies the academcian as Lukas Chrostowski.
+\[13\]: South China Morning Post. Wikipedia. (Rerrived on) November 7, 2021.
+
+\[14\]: \[12\] identifies the academcian as Lukas Chrostowski. South China Morning Post used to be an independent news organization based in Hong Kong. 
+It is currently owned by the Chinese company Alibaba. Like all China based companies, Alibaba is subject to direction by the Chinese government. 
+Similarly, all China based news outlets, the South China Morning Post is subject to direction by the Chinese government. 
+As of this writing, the South China Morning Post is no longer considered an independent news organization \[13\]. 
 
 \[\]: How Canadian money and research are helping China become a global telecom superpower. The Globe and Mail. May 26, 201.
 
