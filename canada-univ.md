@@ -65,7 +65,7 @@ In the process, the academician ignores U.S. interests in the intellectual prope
 
 Second, the academician propagates a Huawei assertion that there is a distinction between a Huawei subsidiary in Canada and the company's base in China concerning data and intellectual property:
 *"The funding comes from Huawei Canada, not Huawei China. That's an important distinction because Huawei Canada operates under the laws of Canada. Any time we share information they have to ask us if it's OK to share it with China. The information stays in Canada unless we agree to have it exported."*
-Independent researchers and government agencies have documented multiple cases where Huawei subsidiaries outside of China have acted on behalf of the parent company in stealing intellectual property.
+Independent researchers, Canadian observers and U.S. government agencies have documented multiple cases where Huawei subsidiaries outside of China have acted on behalf of the parent company in stealing intellectual property.
 
 Third, the academician repeats Huawei's assurance (not an independent study or reports from Canadian intelligence) that Huawei does not steal:
 *"I have been given assurances [by Huawei] that Huawei is not stealing information and data from Canadian users. I don't have any reason to doubt that."*
