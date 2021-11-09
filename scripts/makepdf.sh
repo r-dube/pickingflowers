@@ -1,4 +1,17 @@
 pandoc \
 ../README.md \
 ../about.md \
+../about-1.md \
+../cisco.md \
+../motorola.md \
+../quintel.md \
+../tmobile.md \
+../cnex.md \
+../ime.md \
+../nortel.md \
+../lithuania.md \
+../sweden.md \
+../canada-univ.md \
+../aurora.md \
+../tibet.md \
 -o ../scratch/pickingflowers.pdf
