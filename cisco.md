@@ -61,3 +61,5 @@ Given CCP's direction of Huawei, it stands to reason that the CCP bears responsi
 \[8\]: Superseding Indictment. Case 1:18-cr-00457-AMD. United States Eastern District Court. February 23, 2020.
 
 \[9\]: Who Owns Huawei? Christopher Balding and Donald Clarke. SSRN. May 8, 2019.
+
+**Copyright © 2021 r-dube. All Rights Reserved Worldwide.**

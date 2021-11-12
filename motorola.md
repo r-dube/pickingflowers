@@ -13,3 +13,5 @@ The cover page of the document stated, "This document and the information contai
 
 ## References and notes
 \[1\]: Superseding Indictment. Case 1:18-cr-00457-AMD. The United States Eastern District Court. February 23, 2020.
+
+**Copyright © 2021 r-dube. All Rights Reserved Worldwide.**

@@ -264,3 +264,5 @@ a Can of Warms - GrayPigeon, Hangame & Shiqiang Gang. FireEye. April 18, 2013
 \[O9\]: Ghostnet. Wikipedia. (Retrieved) September 15, 2021.
 
 \[O10\]: The Cyber War Against Tibet. The Diplomat. February 20, 2019.
+
+**Copyright © 2021 r-dube. All Rights Reserved Worldwide.**

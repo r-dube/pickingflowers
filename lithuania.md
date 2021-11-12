@@ -66,3 +66,5 @@ Since, Huawei officials also have a close relationship with the Communist Party 
 \[10\]: How Can the Baltic States Support 5G Security through Transatlantic Cooperation? Agne Rakstyte. CEPA (Center for European Policy Analysis). August 26, 2021.
 
 \[11\]: Huawei says it would never hand data to China's government. Experts say it wouldn't have a choice. Arjun Kharpal. CNBC. March 5, 2019.
+
+**Copyright © 2021 r-dube. All Rights Reserved Worldwide.**

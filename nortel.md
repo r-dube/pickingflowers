@@ -116,3 +116,5 @@ Now, Huawei had not just the stolen intellectual property, but also some of the 
 
 \[11\]: An Overview of the Demise of Nortel Networks and Key Lessons Learned:
 Systemic effects in environment, resilience and black-cloud formation. The University of Ottawa. 2014.
+
+**Copyright © 2021 r-dube. All Rights Reserved Worldwide.**

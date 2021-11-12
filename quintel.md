@@ -44,3 +44,5 @@ Finally, Huawei let the business deal fade away once it knew enough about Quinte
 \[3\]: Quintel Technology Ltd. v. Huawei Technologies USA, Inc. et al., No 4:2015cv00307 - Document 42. United States District Court for the Eastern District of Texas. September 27, 2016.
 
 \[4\]: United States Patent No. 8,891,647. Zhengxiang Ma (Huawei). November 18, 2014.
+
+**Copyright © 2021 r-dube. All Rights Reserved Worldwide.**

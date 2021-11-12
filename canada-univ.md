@@ -124,3 +124,6 @@ Unfortunately, the academician makes a claim about his Canadian research being e
 \[17\]:  Huawei & 5G: Clarifying the Canadian Equities and Charting a Strategic Path Forward. Christopher Parsons. The University of Toronto. December 8, 2020.
 
 \[18\]: Poll shows hardening position on China among Canadians. Steven Chase. The Globe and Mail. October 11, 2021.
+
+
+**Copyright © 2021 r-dube. All Rights Reserved Worldwide.**

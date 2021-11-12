@@ -121,3 +121,5 @@ In 2012, three years after Operation Aurora, the Chinese attackers were conducti
 \[NP1\]: This Is How They Tell Me The World Ends. Nicole Perlroth. Bloomsbury. 2021.
 
 \[CNA1\]: How China Acquires Foreign Technology. CNA. November 11, 2020.
+
+**Copyright © 2021 r-dube. All Rights Reserved Worldwide.**

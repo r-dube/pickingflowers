@@ -75,3 +75,6 @@ Shane was likely aware of these cases.
 \[4\]: Veeco. www.veeco.com. (Retrieved) September 28, 2021.
 
 \[5\]: Analysis of the Shane Todd Coroner's Report. Michael Dee. July 23, 2013.
+
+
+**Copyright © 2021 r-dube. All Rights Reserved Worldwide.**

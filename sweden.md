@@ -134,3 +134,5 @@ One wonders if Sweden's (and other countries') legal system should be reformed t
 \[19\]: Who Controls Huawei? Implications for Europe. Tim Ruhlig. The Swedish Institute of International Affairs. May 2020.
 
 \[20\]: What to Make of the Huawei Debate? 5G Network Security and Technology Dependency in Europe. Tim Ruhlig and Maja Bjork. The Swedish Institute of International Affairs. January 2020.
+
+**Copyright © 2021 r-dube. All Rights Reserved Worldwide.**
