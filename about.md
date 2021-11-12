@@ -13,3 +13,5 @@ The title of the report - *Picking Flowers Making Honey* - comes from a phrase (
 
 ## References and notes
 \[1\]: Picking Flowers Making Honey. Alex Joske. Australian Strategic Policy Institute. October 30, 2018.
+
+**Copyright © 2021 r-dube. All Rights Reserved Worldwide.**

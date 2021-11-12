@@ -7,3 +7,5 @@ Huawei has a special role in building an understanding of Chinese operations bec
 (c) Intelligence agencies in some countries such as the U.S. and Canada have tracked and followed Huawei operations for several years, leaving behind some public documentation.
 
 The idea is to understand the nature and extent of China's operations using Huawei as an example.
+
+**Copyright © 2021 r-dube. All Rights Reserved Worldwide.**
