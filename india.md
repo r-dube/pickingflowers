@@ -1,10 +1,16 @@
 # New military tensions add to prior mistrust in India
+Chinese vendors Huawei and ZTE have long supplied leading Indian mobile operators with telecom equipment.
+Over the period of Huawei's deployment in Indian mobile networks, government officials documented at least two Huawei espionage operations.
+Publicly reported espionage cases against Huawei in other countries added fuel to Indian officials' suspicions of Huawei.
+With increasing Chinese military activity by China on the border with India and a declining opinion of China in the broader public, the Indian government appears to have signalled its telecom operators to build 5G networks without equipment from either Chinese vendor.
 
 ## Mobile operators in India
 
 ## Huawei's espionage operations
 
 ## Chinese military operations in the Himalayas
+
+## Post-COVID public opinion of China 
 
 ## Soft ban
 
