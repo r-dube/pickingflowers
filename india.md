@@ -16,6 +16,21 @@ The intent of the hack - wheter it was to collect information on ZTE or to frame
 However, the incident does make clear Huawei's willingness to go beyond legal avenues in India.
 
 ## Chinese military operations in the Himalayas
+Indian government officials have long been suspicious of Chinese companies, given tension along the long Himalayan border between India and China.
+In 2009, the Indian government temporarily disallowed BSNL from deploying equipment from Chinese vendors in some Indian states.
+The government did not trust the Chinese vendors to stay out of Indian affairs or to keep information generated in India out of the hands of the Chinese goverment.
+The restriction on BSNL was eventually removed in 2010 \[5\].
+
+While the Himalayan border had been largely quite for several decades, China's expansionism in the area led to several clashes between the Indian and Chinese army starting 2017 and leading into 2021.
+Some of these clashes involved loss of life.
+In one incident, 20 Indian soldiers died in a Chinese ambush in the Ladakh region of India \[3\], \[6\].
+
+The Himalayan clashes changed Indian public opinion on China and forced the Indian government to re-evaluate its relationship with the Chinese government and Chinese companies.
+
+In 2020, the Indian banned 59 Chinese mobile applications from operating in India. 
+The list included TikTok and WeChat.
+The general idea of the ban was to prevent Chinese propaganda from spreading in India.
+The ban also served to signal India's intention to take a harder line on its Chinese policies.
 
 ## Post-COVID public opinion of China 
 
@@ -31,8 +46,9 @@ However, the incident does make clear Huawei's willingness to go beyond legal av
 
 \[4\]: Chinese telecom equipment maker Huawei allegedly hacked BSNL network: Govt. The Indian Express. February 5, 2014.
 
+\[5\]: BSNL can buy equipment from Chinese vendors: Govt. The Economic Times. August 19, 2010.
 
-\[\]: BSNL can buy equipment from Chinese vendors: Govt. The Economic Times. August 19, 2010.
+\[6\]: A 3D deep dive into the India–China border dispute. Baani Grewal and Nathan Ruser. Australian Strategic Policy Institute. October 21, 2021.
 
 \[\]: India moves to cut Huawei gear from telecoms network. Amy Kazmin and Stephanie Findlay. The Financial Times. August 24, 2020.
 
