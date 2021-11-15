@@ -10,6 +10,10 @@ Jio does not use telecom equipment from Huawei or ZTE but the other three compan
 BSNL uses equipment from both Huawei and ZTE, whereas Airtel and Vi use equipment from Huawei for their 2G/3G/4G networks \[2\], \[3\].
 
 ## Huawei's espionage operations
+In 2014, Huawei infiltrated BSNL's network impacting the operations of a small number of cell towers.
+As per \[4\], Huawei carried out the operation in retaliation for BSNL selecting ZTE as a supplier. 
+The intent of the hack - wheter it was to collect information on ZTE or to frame ZTE as an unreliable supplier - is unclear.
+However, the incident does make clear Huawei's willingness to go beyond legal avenues in India.
 
 ## Chinese military operations in the Himalayas
 
@@ -24,9 +28,11 @@ BSNL uses equipment from both Huawei and ZTE, whereas Airtel and Vi use equipmen
 
 \[3\]: The 5G Question and India's Conundrum. Harsh Pant and Aarshi Tirkey. Orbis. September 25, 2020.
 
-\[\]: BSNL can buy equipment from Chinese vendors: Govt. The Economic Times. August 19, 2010.
 
-\[\]: Chinese telecom equipment maker Huawei allegedly hacked BSNL network: Govt. The Indian Express. February 5, 2014.
+\[4\]: Chinese telecom equipment maker Huawei allegedly hacked BSNL network: Govt. The Indian Express. February 5, 2014.
+
+
+\[\]: BSNL can buy equipment from Chinese vendors: Govt. The Economic Times. August 19, 2010.
 
 \[\]: India moves to cut Huawei gear from telecoms network. Amy Kazmin and Stephanie Findlay. The Financial Times. August 24, 2020.
 
