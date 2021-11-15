@@ -15,6 +15,9 @@ As per \[4\], Huawei carried out the operation in retaliation for BSNL selecting
 The intent of the hack - wheter it was to collect information on ZTE or to frame ZTE as an unreliable supplier - is unclear.
 However, the incident does make clear Huawei's willingness to go beyond legal avenues in India.
 
+In more recent years, several other countries have publicly attributed espionage activities to Huawei \[4a\].
+Indian regulators and decision makers have likely taken notice of news on Huawei in these countries. 
+
 ## Chinese military operations in the Himalayas
 Indian government officials have long been suspicious of Chinese companies, given tension along the long Himalayan border between India and China.
 In 2009, the Indian government temporarily disallowed BSNL from deploying equipment from Chinese vendors in some Indian states.
@@ -39,6 +42,11 @@ Separately, public opinion on China shifted in India as people realized that Chi
 As a result, the vast majority of the Indian population agreed with the ban on Chinese mobile applications and contracts to Chinese companies operating in India \[9\].
 
 ## Soft ban
+As of this writing, India has not banned Huawei or ZTE from operating in India.
+However, the government has signalled its displeasure with the Chinese government, Chinese state directed companies such as Huawei and Chinese state owned enterprises such as ZTE on several occassions. 
+As a result, all four of the major mobile operators in India have distanced themselves from Huawei and ZTE.
+
+
 
 ## References and notes
 \[1\]: List of Telecom Companies in India. Wikipedia. (Retrieved from https://en.wikipedia.org/wiki/List_of_telecom_companies_in_India#Mobile_operators on) November 12, 2021.
@@ -47,8 +55,9 @@ As a result, the vast majority of the Indian population agreed with the ban on C
 
 \[3\]: The 5G Question and India's Conundrum. Harsh Pant and Aarshi Tirkey. Orbis. September 25, 2020.
 
-
 \[4\]: Chinese telecom equipment maker Huawei allegedly hacked BSNL network: Govt. The Indian Express. February 5, 2014.
+
+\[4a\]: India’s decision on Huawei, ZTE may have been shaped by “espionage acts” globally. Dipanjan Roy. The Economic Times. May 22, 2021.
 
 \[5\]: BSNL can buy equipment from Chinese vendors: Govt. The Economic Times. August 19, 2010.
 
@@ -72,6 +81,6 @@ As a result, the vast majority of the Indian population agreed with the ban on C
 
 \[\]: India is reportedly phasing out Huawei equipment from its networks. Corinne Reichert. CNET. August 24, 2020.
 
-\[\]: India’s decision on Huawei, ZTE may have been shaped by “espionage acts” globally. Dipanjan Roy. The Economic Times. May 22, 2021.
+\[\]: Nokia, Ericsson, Tejas and Cisco get trusted sources nod; Huawei, ZTE yet to complete documentation. Danish Khan. The Economic Times. November 11, 2021.
 
 **Copyright © 2021 r-dube. All Rights Reserved Worldwide.**
