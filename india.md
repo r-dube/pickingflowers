@@ -23,16 +23,20 @@ The restriction on BSNL was eventually removed in 2010 \[5\].
 
 While the Himalayan border had been largely quite for several decades, China's expansionism in the area led to several clashes between the Indian and Chinese army starting 2017 and leading into 2021.
 Some of these clashes involved loss of life.
-In one incident, 20 Indian soldiers died in a Chinese ambush in the Ladakh region of India \[3\], \[6\].
+In one incident in June 2020, 20 Indian soldiers died in a Chinese ambush in the Ladakh region of India \[3\], \[6\].
 
-The Himalayan clashes changed Indian public opinion on China and forced the Indian government to re-evaluate its relationship with the Chinese government and Chinese companies.
-
+The Himalayan clashes forced the Indian government to re-evaluate its relationship with the Chinese government and Chinese companies.
 In 2020, the Indian banned 59 Chinese mobile applications from operating in India. 
 The list included TikTok and WeChat.
 The general idea of the ban was to prevent Chinese propaganda from spreading in India.
-The ban also served to signal India's intention to take a harder line on its Chinese policies.
+The ban also served to signal India's intention to take a harder line on its Chinese policies \[3\].
 
 ## Post-COVID public opinion of China 
+Some of China's border intrusions in the Himalayas seem to have been timed to take advantage of the spread of COVID-19 in India.
+That is, the infilitration was initiated at a time when the Indian government was attempting to contain the spread of COVID-19.
+
+Separately, public opinion on China shifted in India as people realized that China had suppressed information on COVID-19 when the pandemic was in its early phases \[7\], \[8\].
+As a result, the vast majority of the Indian population agreed with the ban on Chinese mobile applications and contracts to Chinese companies operating in India \[9\].
 
 ## Soft ban
 
@@ -50,9 +54,13 @@ The ban also served to signal India's intention to take a harder line on its Chi
 
 \[6\]: A 3D deep dive into the India–China border dispute. Baani Grewal and Nathan Ruser. Australian Strategic Policy Institute. October 21, 2021.
 
-\[\]: India moves to cut Huawei gear from telecoms network. Amy Kazmin and Stephanie Findlay. The Financial Times. August 24, 2020.
+\[7\]: China’s Covid Secrets. Frontline. Public Broadcasting Service. February 2, 2021.
 
-\[\]: Indians Aren’t Buying China’s Narrative. Yasmeem Serhan. The Atlantic. April 20, 2020.
+\[8\]: Indians Aren’t Buying China’s Narrative. Yasmeem Serhan. The Atlantic. April 20, 2020.
+
+\[9\]: Enemy number one. India Today. August 8, 2020.
+
+\[\]: India moves to cut Huawei gear from telecoms network. Amy Kazmin and Stephanie Findlay. The Financial Times. August 24, 2020.
 
 \[\]: India likely to block China's Huawei over security fears: officials. Aftab Ahmed and Sankalp Phartiyal. Reuters. March 11, 2021.
 
@@ -63,8 +71,6 @@ The ban also served to signal India's intention to take a harder line on its Chi
 \[\]: The Huawei Factor in US-India Relations. Arindrajit Basu and Justin Sherman. The Diplomat. March 22, 2021.
 
 \[\]: India is reportedly phasing out Huawei equipment from its networks. Corinne Reichert. CNET. August 24, 2020.
-
-\[\]: Enemy number one. India Today. August 8, 2020.
 
 \[\]: India’s decision on Huawei, ZTE may have been shaped by “espionage acts” globally. Dipanjan Roy. The Economic Times. May 22, 2021.
 
