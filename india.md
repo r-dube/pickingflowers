@@ -44,8 +44,19 @@ As a result, the vast majority of the Indian population agreed with the ban on C
 ## Soft ban
 As of this writing, India has not banned Huawei or ZTE from operating in India.
 However, the government has signalled its displeasure with the Chinese government, Chinese state directed companies such as Huawei and Chinese state owned enterprises such as ZTE on several occassions. 
-As a result, all four of the major mobile operators in India have distanced themselves from Huawei and ZTE.
+As a result, all four of the major mobile operators in India distanced themselves from Huawei and ZTE, at least up to a point \[10\], \[11\], \[12\], \[13\], \[14\].
 
+In May 2021, the Indian government gave permission to four companies - Jio, Airtel, Vi and MTNL (another state owned enterprise with a smaller footprint than BSNL) - to initiate 5G trials.
+These four companies could use telecom equipment from Nokia, Ericsson and Samsung along with some other companies.
+However, Huawei and ZTE were not named as allowed vendors for the trial.
+They were not banned explicitly either.
+Regardless, ongoing 5G trials without Huawei and ZTE's participation constitues a de-facto ban on the two companies with Indian mobile operators \[15\].
+
+## Ongoing formalization
+The Indian government is in the process of formalizing equipment vendors allowed to provide equipment to Indian telecom operators \[15\].
+Thus far, 5G vendors Nokia and Ericsson have been approved via this process.
+Cisco and India-based Tejas have also been approved.
+Huawei and ZTE appear to have engaged with the India approval process (at least up to a point), but have not been formally approved as allowed vendors \[16\].
 
 
 ## References and notes
@@ -69,18 +80,18 @@ As a result, all four of the major mobile operators in India have distanced them
 
 \[9\]: Enemy number one. India Today. August 8, 2020.
 
-\[\]: India moves to cut Huawei gear from telecoms network. Amy Kazmin and Stephanie Findlay. The Financial Times. August 24, 2020.
+\[10\]: India moves to cut Huawei gear from telecoms network. Amy Kazmin and Stephanie Findlay. The Financial Times. August 24, 2020.
 
-\[\]: India likely to block China's Huawei over security fears: officials. Aftab Ahmed and Sankalp Phartiyal. Reuters. March 11, 2021.
+\[11\]: India is reportedly phasing out Huawei equipment from its networks. Corinne Reichert. CNET. August 24, 2020.
 
-\[\]: Huawei and ZTE left out of India's 5G trials. BBC. May 5, 2021.
+\[12\]: India likely to block China's Huawei over security fears: officials. Aftab Ahmed and Sankalp Phartiyal. Reuters. March 11, 2021.
 
-\[\]: Don’t Underestimate India’s Sidelining of Huawei. Justin Sherman. The Diplomat. September 17, 2020.
+\[13\]: Don’t Underestimate India’s Sidelining of Huawei. Justin Sherman. The Diplomat. September 17, 2020.
 
-\[\]: The Huawei Factor in US-India Relations. Arindrajit Basu and Justin Sherman. The Diplomat. March 22, 2021.
+\[14\]: The Huawei Factor in US-India Relations. Arindrajit Basu and Justin Sherman. The Diplomat. March 22, 2021.
 
-\[\]: India is reportedly phasing out Huawei equipment from its networks. Corinne Reichert. CNET. August 24, 2020.
+\[15\]: Huawei and ZTE left out of India's 5G trials. BBC. May 5, 2021.
 
-\[\]: Nokia, Ericsson, Tejas and Cisco get trusted sources nod; Huawei, ZTE yet to complete documentation. Danish Khan. The Economic Times. November 11, 2021.
+\[16\]: Nokia, Ericsson, Tejas and Cisco get trusted sources nod; Huawei, ZTE yet to complete documentation. Danish Khan. The Economic Times. November 11, 2021.
 
 **Copyright © 2021 r-dube. All Rights Reserved Worldwide.**
