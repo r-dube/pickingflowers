@@ -36,9 +36,11 @@ The ban also signals India's intention to take a harder line on its Chinese poli
 
 ## Post-COVID public opinion of China 
 China's 2020 border intrusions in the Himalayas seem to have been timed to take advantage of the spread of COVID-19 in India.
-The infiltration was initiated when the Indian government was attempting to contain COVID-19.
+The infiltration was initiated in June 2020 as the Indian government was attempting to contain COVID-19.
+News outlets in India covered the forced splitting of Indian resources between defending the border and fighting COVID-19 \[6a\].
 
 Separately, public opinion on China shifted in India as people realized China had suppressed information on COVID-19 when the pandemic was in its early phases \[7\], \[8\].
+
 As a result, the vast majority of the Indian population agreed with the ban on Chinese mobile applications and contracts to Chinese companies operating in India \[9\].
 
 ## Soft ban
@@ -74,6 +76,8 @@ Still, they have not been formally approved as allowed vendors \[16\].
 \[5\]: BSNL can buy equipment from Chinese vendors: Govt. The Economic Times. August 19, 2010.
 
 \[6\]: A 3D deep dive into the India–China border dispute. Baani Grewal and Nathan Ruser. Australian Strategic Policy Institute. October 21, 2021.
+
+\[6a\]: Galwan clash ‘huge mistake’ by China, world already fighting Covid-19: Experts. The Hindustan Times. June 27, 2020.
 
 \[7\]: China’s Covid Secrets. Frontline. Public Broadcasting Service. February 2, 2021.
 
