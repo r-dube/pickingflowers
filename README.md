@@ -11,6 +11,7 @@
     * [Huawei steals T-mobile's robot](tmobile.md)
     * [Huawei uses an academician to steal from a startup](cnex.md)
     * [Death of a research scientist on the eve of a Huawei project](ime.md)
+    * [New military tensions add to prior mistrust in India](india.md)
   * Part 2: Partnership with Chinese intelligence agencies
     * [Chinese military infiltrates Nortel](nortel.md)
     * [Communication products in Lithuania](lithuania.md)

@@ -1,22 +1,22 @@
 # New military tensions add to prior mistrust in India
 Chinese vendors Huawei and ZTE have long supplied leading Indian mobile operators with telecom equipment.
 During Huawei's deployment in Indian mobile networks, government officials documented at least one Huawei espionage operation.
-Publicly reported espionage cases against Huawei in other countries added fuel to Indian officials' suspicions of Huawei.
+Recent publicly reported espionage cases against Huawei in other countries added fuel to Indian officials' suspicions of Huawei.
 With increasing Chinese military activity on the border with India and declining public opinion of China, the Indian government has signaled telecom operators to avoid Chinese vendors.
 
 ## Mobile operators in India
 India has four major mobile operators - Jio (Reliance), Airtel (Bharti), Vi (Vodaphone Idea), and BSNL (Bharat Sanchar Nigam Limited - a state-owned enterprise) \[1\].
-Jio does not use Huawei or ZTE, but the other three companies do.
+Jio does not use Huawei or ZTE.
 BSNL uses equipment from both Huawei and ZTE, whereas Airtel and Vi use equipment from Huawei for their 2G/3G/4G networks \[2\], \[3\].
 
 ## Huawei's espionage operations
 In 2014, Huawei infiltrated BSNL's network, impacting a small number of cell towers.
 As per \[4\], Huawei carried out the operation in retaliation for BSNL selecting ZTE as a supplier. 
 The hack's intent - whether to collect information on ZTE or to frame ZTE as an unreliable supplier - is unclear.
-However, the incident underlines Huawei's willingness to go beyond legal avenues in India.
+However, the incident underlines Huawei's willingness to go beyond legal avenues to further its goals.
 
 Several other countries have publicly attributed espionage activities to Huawei \[4a\].
-Indian regulators and decision-makers have likely taken notice of news on Huawei in these countries. 
+Indian regulators, decision-makers, and thought-leaders have taken notice of news on Huawei in these countries. 
 
 ## Chinese military operations in the Himalayas
 Indian government officials have long been suspicious of Chinese companies, given tension along the long Himalayan border between India and China.
@@ -44,7 +44,7 @@ Separately, public opinion on China shifted in India as people realized China ha
 As a result, the vast majority of the Indian population agreed with the ban on Chinese mobile applications and contracts to Chinese companies operating in India \[9\].
 
 ## Soft ban
-As of this writing, India has not banned Huawei or ZTE from operating in India.
+As of this writing, India has not banned Huawei or ZTE outright from operating in India.
 However, the government has signaled its displeasure with the Chinese government, Chinese state-directed companies such as Huawei, and Chinese state-owned enterprises such as ZTE. 
 As a result, all four of the major mobile operators in India distanced themselves from Huawei and ZTE, at least up to a point \[10\], \[11\], \[12\], \[13\], \[14\].
 
@@ -58,7 +58,7 @@ Regardless, ongoing 5G trials without Huawei and ZTE's participation constitutes
 The Indian government is formalizing equipment vendors allowed to provide equipment to Indian telecom operators \[15\].
 Thus far, 5G vendors Nokia and Ericsson, have been approved via this process.
 Cisco and India-based Tejas have also been approved.
-Huawei and ZTE appear to have engaged with the India approval process (at least up to a point). 
+Huawei and ZTE appear to have partially engaged with the India approval process. 
 Still, they have not been formally approved as allowed vendors \[16\].
 
 
@@ -71,17 +71,17 @@ Still, they have not been formally approved as allowed vendors \[16\].
 
 \[4\]: Chinese telecom equipment maker Huawei allegedly hacked BSNL network: Govt. The Indian Express. February 5, 2014.
 
-\[4a\]: India’s decision on Huawei, ZTE may have been shaped by “espionage acts” globally. Dipanjan Roy. The Economic Times. May 22, 2021.
+\[4a\]: India's decision on Huawei, ZTE may have been shaped by "espionage acts" globally. Dipanjan Roy. The Economic Times. May 22, 2021.
 
 \[5\]: BSNL can buy equipment from Chinese vendors: Govt. The Economic Times. August 19, 2010.
 
 \[6\]: A 3D deep dive into the India–China border dispute. Baani Grewal and Nathan Ruser. Australian Strategic Policy Institute. October 21, 2021.
 
-\[6a\]: Galwan clash ‘huge mistake’ by China, world already fighting Covid-19: Experts. The Hindustan Times. June 27, 2020.
+\[6a\]: Galwan clash 'huge mistake' by China, world already fighting Covid-19: Experts. The Hindustan Times. June 27, 2020.
 
-\[7\]: China’s Covid Secrets. Frontline. Public Broadcasting Service. February 2, 2021.
+\[7\]: China's Covid Secrets. Frontline. Public Broadcasting Service. February 2, 2021.
 
-\[8\]: Indians Aren’t Buying China’s Narrative. Yasmeem Serhan. The Atlantic. April 20, 2020.
+\[8\]: Indians Aren't Buying China's Narrative. Yasmeen Serhan. The Atlantic. April 20, 2020.
 
 \[9\]: Enemy number one. India Today. August 8, 2020.
 
@@ -91,7 +91,7 @@ Still, they have not been formally approved as allowed vendors \[16\].
 
 \[12\]: India likely to block China's Huawei over security fears: officials. Aftab Ahmed and Sankalp Phartiyal. Reuters. March 11, 2021.
 
-\[13\]: Don’t Underestimate India’s Sidelining of Huawei. Justin Sherman. The Diplomat. September 17, 2020.
+\[13\]: Don't Underestimate India's Sidelining of Huawei. Justin Sherman. The Diplomat. September 17, 2020.
 
 \[14\]: The Huawei Factor in US-India Relations. Arindrajit Basu and Justin Sherman. The Diplomat. March 22, 2021.
 
