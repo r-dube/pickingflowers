@@ -1,4 +1,4 @@
-# Huawei misinformation in New Zealand
+# Spreading misinformation in New Zealand
 New Zealand disallowed the use of Huawei equipment in 5G networks back in 2018.
 Immediately after the ban, Huawei executives attempted to pressure the New Zealand Government and spread misinformation about its competitors.
 Pragmatism forced the mobile operators in New Zealand to select 5G vendors other than Huawei.
