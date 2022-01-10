@@ -26,7 +26,7 @@ In addition, 2degrees is owned by a private equity company and used vendor finan
 
 ## Huawei's claims
 In \[YouTube2019\], Huawei's deputy CEO for New Zealand - Andrew Bowater - makes several claims regarding Huawei and its direct competitors.
-We document these claims below fact-check them against publicly available documentation.
+We document these claims below and fact-check them against publicly available documentation.
 
 ### Ownership
 Huawei statement: "We are ... 100% owned by our own staff."
