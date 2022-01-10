@@ -125,7 +125,7 @@ One wonders if Sweden's (and other countries') legal system should be reformed t
 
 \[16\]: China Mobile shuts out foreign vendors from $1.2B 5G tender. Light Reading. October 4, 2021.
 
-\[17\]Back off or Ericsson gets it, China reportedly tells Sweden. Light Reading. May 11, 2021.
+\[17\]: Back off or Ericsson gets it, China reportedly tells Sweden. Light Reading. May 11, 2021.
 
 \[17a\]: China sidelines foreign vendors in giant 5G tenders. Light Reading. August 3, 2021.
 

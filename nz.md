@@ -8,7 +8,7 @@ Vodafone has has traditionally used wireless equipment from Nokia, including for
 2degrees' market share is smaller than the other two operators. 
 In addition, 2degrees is owned by a private equity company and used vendor financing from Huawei to build its 3G/4G network.
 
-### 5G timeline
+## 5G test and deployment timeline
 - March 19, 2018: Spark conducts first 5G trial in New Zeland. Huawei wireless equipment is used \[Stuff2018\].
 - November 27, 2018: Government Communications Security Bureau (GCSB) denies Spark's application to use Huawei equipment in its 5G network. GCSB uses the 2013 Telecommunications Interception Capability and Security (TICSA) act in denying Spark's application \[NZHerald2018\].
 - May 6, 2019: Andrew Bowater, Deputy CEO Huawei NZ, makes misleading claims about 5G vendors's development process and presence in China \[Stuff2019\], \[YouTube2019\].
@@ -18,40 +18,43 @@ In addition, 2degrees is owned by a private equity company and used vendor finan
 - April 13, 2021. 2degrees declares use of Ericsson equipment in its 5G network \[NZHerald2021\].
 - October 2021. Good 5G consumer experience reported for Vodafone, Spark \[OpenSignal2021\]. 
 
-### Lessons from New Zealand's timeline
-By the fourth quarter of 2021, all three of Vodafone, Spark and 2degrees seem to have accepted GCSB's decision on Huawei.
-Vodafone and Spark have rolled out 5G in New Zealand and their networks' performance appears to be satisfactory to customers.
-2degrees has not fully rolled out a 5G network (in January 2022) - partially due to financial constraints, including previous reliance on Huawei vendor financing.
-
 ## Huawei's claims
-In \[YouTube2019\], Huwaei's deput CEO for New Zealand - Andrew Bowater - makes several claims regarding Huawei and its direct competitors.
-We document these claims below fact-check them against publicly availble documentation.
+In \[YouTube2019\], Huawei's deputy CEO for New Zealand - Andrew Bowater - makes several claims regarding Huawei and its direct competitors.
+We document these claims below fact-check them against publicly available documentation.
 
 ### Ownership
 Huawei statement: "We are ... 100% owned by our own staff."
 
 Huawei has an opaque ownership structure.
-Most of Huawei's own personnel are not fully aware of their employer's ownership structure.
+Most of Huawei's own personnel are not fully aware of their employer's ownership structure \[PF2\], \[PF3\].
 
 ### Record of wrongdoing
 Huawei statement: "GCHQ has never never found any evidence of deliberate wrongdoing by Huawei nor any state inteference from China or any suggestion of counter-espionage..."
 
-While GCHQ may not have found evidence of deliberate wrongdoing, there is other publicly available evidence of wrong doing by Huawei executives and managers.
+While GCHQ may not have found evidence of deliberate wrongdoing, there is other publicly available evidence of wrongdoing by Huawei executives, managers and engineers \[PF1\], \[PF2\].
 
 ### Competitor's R&D
 Huawei statement: "... [Nokia, Ericsson] manufacture and do their product development in China like us, the key difference being that their headquarters are in Europe"
 
-Nokia and Ericsson are not just headquartered in Europe - unlike Huawei, they do most of their research and development outside of China and outside the direct ifluence of the CCP.
+Nokia and Ericsson are not just headquartered in Europe - unlike Huawei, they do most of their research and development outside of China and outside the direct influence of the CCP.
 
 ### American companies
 Huawei statement: "America no longer had any skin in the [wireless telecom] market... Nortel, Sun and the other competitors .... had all disappeared..."
 
 Nortel was a Canadian (not U.S.) company.
 CCP directed operations accelerated Nortel's demise.
+
 Sun was never a wireless equipment vendor.
 It was acquired by and is now integrated into Oracle.
 
-## Conclusions from New Zealand's experience
+## Lessons from New Zealand's experience with 5G
+In November 2018, after the denials of its 5G application that included the projected use of Huawei equipment, Spark publicly objected to GCSB's decision.
+However, after Vodafone - that did not rely on Huawei for its 3G/4G network - made a decision to deploy Nokia equipment, Spark moved on from its objections and selected an Nokia \[NZHerald2018\].
+
+By the fourth quarter of 2021, all three of Vodafone, Spark and 2degrees seem to have accepted GCSB's decision on Huawei.
+Vodafone and Spark have rolled out 5G in New Zealand and their networks' performance appears to be satisfactory to customers \[OpenSignal2021\].
+
+2degrees has not fully rolled out a 5G network (as of January 2022) - partially due to financial constraints, including previous reliance on Huawei vendor financing.
 
 ## References and notes
 \[Statista2022\] Estimated mobile phone provider market share in New Zealand in 2020, by subscribers. Statista. Retrieved January 8, 2022. https://www.statista.com/statistics/996221/estimated-market-share-mobile-providers-by-subscribers-new-zealand/ 
@@ -77,5 +80,11 @@ It was acquired by and is now integrated into Oracle.
 \[OpenSignal2021\] NEW ZEALAND: 5G Experience Report. OpenSignal. October 2021. https://www.opensignal.com/reports/2021/10/newzealand/mobile-network-experience-5g
 
 \[Scoop2020\]: 2degrees fills network gaps with Vodafone deal. Scoop. June 26, 2020. https://www.scoop.co.nz/stories/HL2006/S00190/2degrees-fills-network-gaps-with-vodafone-deal.htm
+
+\[PF1\]: Huawei steals T-mobile's robot. Picking Flowers. https://github.com/r-dube/pickingflowers/blob/main/tmobile.md
+
+\[PF2\]: Cisco's code in Huawei's products. Picking Flowers. https://github.com/r-dube/pickingflowers/blob/main/cisco.md
+
+\[PF3\]: Exploiting Sweden's legal system. Picking Flowers. https://github.com/r-dube/pickingflowers/blob/main/sweden.md.
 
 **Copyright © 2021 r-dube. All Rights Reserved Worldwide.**
