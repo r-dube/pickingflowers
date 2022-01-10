@@ -23,20 +23,33 @@ By the fourth quarter of 2021, all three of Vodafone, Spark and 2degrees seem to
 Vodafone and Spark have rolled out 5G in New Zealand and their networks' performance appears to be satisfactory to customers.
 2degrees has not fully rolled out a 5G network (in January 2022) - partially due to financial constraints, including previous reliance on Huawei vendor financing.
 
-## Andrew Bowater's claims
+## Huawei's claims
+In \[YouTube2019\], Huwaei's deput CEO for New Zealand - Andrew Bowater - makes several claims regarding Huawei and its direct competitors.
+We document these claims below fact-check them against publicly availble documentation.
 
-### 2019 Statements
-"We are ... 100% owned by our own staff."
+### Ownership
+Huawei statement: "We are ... 100% owned by our own staff."
 
-"GCHQ has never never found any evidence of deliberate wrong doing by Huawei nor any state inteference from China or any suggestion of counter-espionage..."
+Huawei has an opaque ownership structure.
+Most of Huawei's own personnel are not fully aware of their employer's ownership structure.
 
-"... everything we do in the UK and New Zealand apart looking at all source code and nothing has been found"
+### Record of wrongdoing
+Huawei statement: "GCHQ has never never found any evidence of deliberate wrongdoing by Huawei nor any state inteference from China or any suggestion of counter-espionage..."
 
-"... [Nokia, Ericsson] manufacture and do their product development in China like us, the key difference being that their headquarters are in Europe"
+While GCHQ may not have found evidence of deliberate wrongdoing, there is other publicly available evidence of wrong doing by Huawei executives and managers.
 
-"... The core is critical and it's only through the core that you could manipulate a network..."
+### Competitor's R&D
+Huawei statement: "... [Nokia, Ericsson] manufacture and do their product development in China like us, the key difference being that their headquarters are in Europe"
 
-"America no longer had any skin in the [wireless telecom] market... Nortel, Sun and the other competitors .... had all disappeared..."
+Nokia and Ericsson are not just headquartered in Europe - unlike Huawei, they do most of their research and development outside of China and outside the direct ifluence of the CCP.
+
+### American companies
+Huawei statement: "America no longer had any skin in the [wireless telecom] market... Nortel, Sun and the other competitors .... had all disappeared..."
+
+Nortel was a Canadian (not U.S.) company.
+CCP directed operations accelerated Nortel's demise.
+Sun was never a wireless equipment vendor.
+It was acquired by and is now integrated into Oracle.
 
 ## Conclusions from New Zealand's experience
 
