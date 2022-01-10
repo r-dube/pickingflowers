@@ -1,16 +1,22 @@
 # Huawei misinformation in New Zealand
+New Zealand disallowed the use of Huawei equipment in 5G networks back in 2018.
+Immediately after the ban, Huawei executives atttempted to pressure the New Zealand Government and spread misinformation about its competitors.
+Pragmatism forced the mobile operators in New Zealand to select 5G vendors other than Huawei.
+Those that did so quickly are well on their way to a country-wide 5G network.
 
 ## Mobile operators in New Zealand
 There are three major mobile operators in New Zealand: Vodafone NZ, Spark and 2degrees \[Statista2022\], \[Wikipedia2022\]. 
 
-Vodafone has has traditionally used wireless equipment from Nokia, including for its 4G network. Spark and 2degrees have traditionally used Huawei wireless equipment \[NZHerald2021\], \[YouTube2019\].
+Vodafone has traditionally used wireless equipment from Nokia, including for its 4G network. 
+Spark and 2degrees have traditionally used Huawei wireless equipment \[NZHerald2021\], \[YouTube2019\].
 
 2degrees' market share is smaller than the other two operators. 
-In addition, 2degrees is owned by a private equity company and used vendor financing from Huawei to build its 3G/4G network.
+In addition, 2degrees is owned by a private equity company and used vendor financing from Huawei to build its 3G/4G network \[NZHerald2021\].
 
-## 5G test and deployment timeline
-- March 19, 2018: Spark conducts first 5G trial in New Zeland. Huawei wireless equipment is used \[Stuff2018\].
+## New Zealand 5G test and deployment timeline
+- March 19, 2018: Spark conducts first 5G trial in New Zealand. Huawei wireless equipment is used \[Stuff2018\].
 - November 27, 2018: Government Communications Security Bureau (GCSB) denies Spark's application to use Huawei equipment in its 5G network. GCSB uses the 2013 Telecommunications Interception Capability and Security (TICSA) act in denying Spark's application \[NZHerald2018\].
+- February 13, 2019: Huawei places advertisements in New Zealand newspapers protesting the Government's denial of Spark's 5G application \[CNBC2019\].
 - May 6, 2019: Andrew Bowater, Deputy CEO Huawei NZ, makes misleading claims about 5G vendors's development process and presence in China \[Stuff2019\], \[YouTube2019\].
 - August 19, 2019: GCSB accepts Vodafone's application to use Nokia equipment in its 5G network \[NZHerald2019\].
 - November 19, 2019. Spark selects Nokia as its 5G wireless equipment provider \[Nokia2019\], \[RCR2021\].
@@ -82,6 +88,8 @@ Vodafone and Spark have rolled out 5G in New Zealand and their networks' perform
 \[OpenSignal2021\] NEW ZEALAND: 5G Experience Report. OpenSignal. October 2021. https://www.opensignal.com/reports/2021/10/newzealand/mobile-network-experience-5g
 
 \[Scoop2020\]: 2degrees fills network gaps with Vodafone deal. Scoop. June 26, 2020. https://www.scoop.co.nz/stories/HL2006/S00190/2degrees-fills-network-gaps-with-vodafone-deal.htm
+
+\[CNBC2019\]: Huawei places ads in New Zealand newspapers saying 5G exclusion will hit customers. CNBC. February 13, 2019. https://www.cnbc.com/2019/02/13/huawei-ads-in-new-zealand-newspapers-say-5g-ban-will-hit-customers.html 
 
 \[PF1\]: Huawei steals T-mobile's robot. Picking Flowers. https://github.com/r-dube/pickingflowers/blob/main/tmobile.md
 
