@@ -36,16 +36,16 @@ While GCHQ may not have found evidence of deliberate wrongdoing, there is other 
 ### Competitor's R&D
 Huawei statement: "... [Nokia, Ericsson] manufacture and do their product development in China like us, the key difference being that their headquarters are in Europe"
 
-Nokia and Ericsson are not just headquartered in Europe - unlike Huawei, they do most of their research and development outside of China and outside the direct influence of the CCP.
+Nokia and Ericsson are not just headquartered in Europe - unlike Huawei, they do most of their research and development outside of China and outside the direct influence of the CCP \[PF3\].
 
 ### American companies
 Huawei statement: "America no longer had any skin in the [wireless telecom] market... Nortel, Sun and the other competitors .... had all disappeared..."
 
 Nortel was a Canadian (not U.S.) company.
-CCP directed operations accelerated Nortel's demise.
+CCP directed operations accelerated Nortel's demise \[PF4\].
 
 Sun was never a wireless equipment vendor.
-It was acquired by and is now integrated into Oracle.
+It was acquired by and is now integrated into Oracle \[Wikipedia2022-2\].
 
 ## Lessons from New Zealand's experience with 5G
 In November 2018, after the denials of its 5G application that included the projected use of Huawei equipment, Spark publicly objected to GCSB's decision.
@@ -60,6 +60,8 @@ Vodafone and Spark have rolled out 5G in New Zealand and their networks' perform
 \[Statista2022\] Estimated mobile phone provider market share in New Zealand in 2020, by subscribers. Statista. Retrieved January 8, 2022. https://www.statista.com/statistics/996221/estimated-market-share-mobile-providers-by-subscribers-new-zealand/ 
 
 \[Wikipedia2022\] Telecommunications in New Zealand. Retrieved January 8, 2022. https://en.wikipedia.org/wiki/Telecommunications_in_New_Zealand
+
+\[Wikipedia2022-2\] Sun Microsystems. Retrieved January 10, 2022  https://en.wikipedia.org/wiki/Sun_Microsystems
 
 \[NZHerald2018\] GCSB bans Spark from using Huawei gear for its 5G mobile upgrade. NZ Herald. November 27, 2018. https://www.nzherald.co.nz/business/gcsb-bans-spark-from-using-huawei-gear-for-its-5g-mobile-upgrade/5APETBE7J2AF74YL6JZQP25GGE/ 
 
@@ -86,5 +88,7 @@ Vodafone and Spark have rolled out 5G in New Zealand and their networks' perform
 \[PF2\]: Cisco's code in Huawei's products. Picking Flowers. https://github.com/r-dube/pickingflowers/blob/main/cisco.md
 
 \[PF3\]: Exploiting Sweden's legal system. Picking Flowers. https://github.com/r-dube/pickingflowers/blob/main/sweden.md.
+
+\[PF4\]: Chinese military infiltrates Nortel. https://github.com/r-dube/pickingflowers/blob/main/nortel.md
 
 **Copyright © 2021 r-dube. All Rights Reserved Worldwide.**
