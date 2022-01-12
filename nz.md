@@ -20,7 +20,7 @@ In addition, 2degrees is owned by a private equity company and used vendor finan
 - May 6, 2019: Andrew Bowater, Deputy CEO Huawei NZ, makes misleading claims about 5G vendors' development process and presence in China \[Stuff2019\], \[YouTube2019\].
 - August 19, 2019: GCSB accepts Vodafone's application to use Nokia equipment in its 5G network \[NZHerald2019\].
 - November 19, 2019. Spark selects Nokia as its 5G wireless equipment provider \[Nokia2019\], \[RCR2021\].
-- June 26, 2020. 2degrees deal with Vodafone to expand geographical coverage in New Zealand using Vodafone's cell towers \[Scoop2020\].
+- June 26, 2020. 2degrees signs deal with Vodafone to expand geographical coverage in New Zealand using Vodafone's cell towers \[Scoop2020\].
 - April 13, 2021. 2degrees declares the use of Ericsson equipment in its 5G network \[NZHerald2021\].
 - October 2021. Good 5G consumer experience reported for Vodafone, Spark \[OpenSignal2021\]. 
 
@@ -55,7 +55,7 @@ It was acquired and is now integrated into Oracle \[Wikipedia2022-2\].
 
 ## Lessons from New Zealand's experience with 5G
 In November 2018, after its 5G application denial that included the projected use of Huawei equipment, Spark publicly objected to GCSB's decision.
-However, after Vodafone - which did not rely on Huawei for its 3G/4G network - decided to deploy Nokia equipment, Spark moved on from its objections and selected Nokia \[NZHerald2018\].
+However, after Vodafone - which did not rely on Huawei for its 3G/4G network - decided to deploy Nokia equipment, Spark moved on from its objections and selected Nokia as its wireless vendor \[NZHerald2018\].
 
 By the fourth quarter of 2021, all three of Vodafone, Spark, and 2degrees seem to have accepted GCSB's decision on Huawei.
 Vodafone and Spark have rolled out 5G in New Zealand, and their networks' performance appears to be satisfactory to customers \[OpenSignal2021\].
