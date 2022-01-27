@@ -3,7 +3,7 @@
 ## Mobile operators in Australia
 As of 2022, Australia has three main mobile operators: Telstra, Optus and TPG Telecom \[Wiki1\].
 
-Telestra has the largest penetration of the three operators and uses Ericsson equipment in its mobile network.
+Telstra has the largest penetration of the three operators and uses Ericsson equipment in its 3G, 4G and 5G mobile networks.
 
 Optus is a subsidiary of Singapore Telecom (Singtel). Optus's 3G and 4G mobile networks used equipment from Huawei \[SMH2018\].
 
@@ -27,6 +27,17 @@ TPG Telecom came about with the merger of Vodafone Hutchison Australia (VHA) and
 - August 31, 2020: Huawei announces end to sponsorship of Canberra Raiders \[Herald2020\]
 
 ## Huawei's role in 2012 espionage incident
+As per \[Bloomberg2021\], Chinese agents (seemingly) worked with technical employees of Huawei to install an un-authorized software update on Huawei equipment Optus's network.
+Subsequently, this software update functioned as a wiretap - it recorded data being transmitted over Optus's network and sent the data to servers in China. 
+Finally, after a few days of operation, the un-authorized software update deleted the wiretap code.
+
+The incident is reported to have occurred in early 2012.
+Given that Optus only started using Huawei equipment in March 2012, the incident ocurred very early in Optus's 4G network rollout.
+It is possible that Chinese intelligence agents wanted to use the cover of (chaotic) bootstrapping activity for a new network to carry out their operation.
+
+The operation also appears to have been a proof-of-concept - in principle the wiretap code could have remained in place for multiple weeks or months, but at increasing risk of detection.
+It is likely that Chinese intelligence agents were merely validating that they had an adequate understading of and access to Huawei's equipment to conduct a covert wiretap.
+
 
 ## References and notes
 \[Wiki1\]: List of mobile network operators of the Asia Pacific region. Wikipedia. Retrieved January 27, 2022. https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Asia_Pacific_region#Australia
