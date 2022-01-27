@@ -23,20 +23,28 @@ TPG Telecom came about with the merger of Vodafone Hutchison Australia (VHA) and
 - June 27, 2017: China enacts "National Intelligenc Law" requiring all Chinese companies and citizens to comply with security agencies on intelligence matters; the new law (implictly) applies to Huawei, ZTE \[LR2021\]
 - August 23, 2018: Australian Govt. bans vendors subject to extra-judicial direction from a foreign government from participating in 5G mobile network buildout; Huawei and ZTE are (implicitly) deemed to be such vendors \[BBC2018\]
 - August 23, 2019: Huawei confirms plans to reduce staff in Australia \[Nikkei2019\]
-- March 3, 2020: Huawei winds down Australian board \[AFR2020\]
+- March 3, 2020: Huawei winds down Australian board of directors \[AFR2020\]
 - August 31, 2020: Huawei announces end to sponsorship of Canberra Raiders \[Herald2020\]
 
-## Huawei's role in 2012 espionage incident
-As per \[Bloomberg2021\], Chinese agents (seemingly) worked with technical employees of Huawei to install an un-authorized software update on Huawei equipment Optus's network.
+## Huawei's role in the 2012 espionage incident
+As per \[Bloomberg2021\], Chinese agents worked with technical employees of Huawei to install an un-authorized software update on Huawei equipment in Optus's network.
 Subsequently, this software update functioned as a wiretap - it recorded data being transmitted over Optus's network and sent the data to servers in China. 
-Finally, after a few days of operation, the un-authorized software update deleted the wiretap code.
+Finally, after a few days of operation, the un-authorized software update deleted itself.
 
 The incident is reported to have occurred in early 2012.
 Given that Optus only started using Huawei equipment in March 2012, the incident ocurred very early in Optus's 4G network rollout.
 It is possible that Chinese intelligence agents wanted to use the cover of (chaotic) bootstrapping activity for a new network to carry out their operation.
 
-The operation also appears to have been a proof-of-concept - in principle the wiretap code could have remained in place for multiple weeks or months, but at increasing risk of detection.
+The operation also appears to have been a proof-of-concept - in principle the wiretap code could have remained in place for multiple weeks or months, but at increasing risk of detection by Australian Intelligence services or Optus's system administrators.
 It is likely that Chinese intelligence agents were merely validating that they had an adequate understading of and access to Huawei's equipment to conduct a covert wiretap.
+
+## Executive level permission for espionage?
+It is unclear from the public reporting if Huawei executives knew of the 2012 espionage operation, opposed the operation or actively sanctioned it.
+Regardless, the Chinese government's access to the Huawei personnel that mattered for the operation - technical people that could facilitate (create, install and operate) the un-authorized update - is clear.
+
+Note that the 2012 operation happened before the Chinese National Intelligence Law went into affect (in 2017).
+That is, the law was not needed by Chinese intelligence agents to obtain cooperation from Huawei personnel.
+Effectively, the National Intelligence Law seems to have formalized the access that Chinese intelligence already had to Huawei (and other Chinese companies).
 
 
 ## References and notes
