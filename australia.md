@@ -1,21 +1,38 @@
 # Huawei assisted espionage in Australia
 
+## Mobile operators in Australia
+As of 2022, Australia has three main mobile operators: Telstra, Optus and TPG Telecom \[Wiki1\].
+
+Telestra has the largest penetration of the three operators and uses Ericsson equipment in its mobile network.
+
+Optus is a subsidiary of Singapore Telecom (Singtel). Optus's 3G and 4G mobile networks used equipment from Huawei \[SMH2018\].
+
+TPG Telecom came about with the merger of Vodafone Hutchison Australia (VHA) and TPG - an internet service provider that also ran a 4G mobile network. VHA used equipment from Huawei in its 3G and 4G mobile networks, in addition to Nokia and Ericsson equipment for other parts of the same network \[Wiki1\], \[SMH2018\].
+
 ## Timeline 
 - 2004: Huawei starts Australia operations \[Reuters2012\]
+- December 2010: VHA chooses Huawei for a portion of its mobile network \[SMH2018\]
 - June 2011: Huawei sets up board of directors for Australian subsidiary \[AFR2020\]
 - Late 2011: Australian Govt. privately instructs Huawei to refrain from submitting application to participate in National Broadband Network (NBN) project \[Verge2012\]
+- March 14, 2012: Optus chooses Huawei to build 4G network in Australia \[SMH2012\]
 - March 26, 2012: Australian Govt. publicly confirms exclusion of Huawei from NBN project on security grounds \[Verge2012\], \[Reuters2012\]
 - March 31, 2012: Huwaei sponsors Australian Rugby team Canberra raiders to improve Huawei's public image in Australia \[AFR2012\]
-- Early 2012: Australian Govt. informs U.S. Govt. of China's use of Huawei equipment for espionage in Australia \[Bloomberg2021\]
+- Early 2012: Australian Govt. informs U.S. Govt. of China's use of Huawei equipment for espionage in Australia using Optus's network \[Bloomberg2021\]
 - 2012: U.S. Govt. acknowledges China's use of Huawei equipment for espionage in U.S. \[Bloomberg2021\]
 - October 31, 2013: New Australian Govt. maintains Huawei's exclusion from NBN \[ZDNet2013\], \[AFR2015\]
-- June 27, 2017: China enacts "National Intelligenc Law" requiring all Chinese companies and citizens to comply with security agencies on intelligence matters; the new law implictly applies to Huawei, ZTE \[LR2021\]
-- August 23, 2018: Australia bans vendors subject to extra-judicial direction from a foreign government from participating in 5G mobile network buildout; Huawei and ZTE are (implicitly) deemed to be such vendors \[BBC2018\]
+- June 27, 2017: China enacts "National Intelligenc Law" requiring all Chinese companies and citizens to comply with security agencies on intelligence matters; the new law (implictly) applies to Huawei, ZTE \[LR2021\]
+- August 23, 2018: Australian Govt. bans vendors subject to extra-judicial direction from a foreign government from participating in 5G mobile network buildout; Huawei and ZTE are (implicitly) deemed to be such vendors \[BBC2018\]
 - August 23, 2019: Huawei confirms plans to reduce staff in Australia \[Nikkei2019\]
-- March 3, 2020: Huawei dissolves Australian board \[AFR2020\]
+- March 3, 2020: Huawei winds down Australian board \[AFR2020\]
 - August 31, 2020: Huawei announces end to sponsorship of Canberra Raiders \[Herald2020\]
 
+## Huawei's role in 2012 espionage incident
+
 ## References and notes
+\[Wiki1\]: List of mobile network operators of the Asia Pacific region. Wikipedia. Retrieved January 27, 2022. https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Asia_Pacific_region#Australia
+
+\[SMH2012\]: Optus picks Huawei to build 4G network. Syndey Morning Herald. March 14, 2012. https://www.smh.com.au/technology/optus-picks-huawei-to-build-4g-network-20120314-1uzke.html
+
 \[Reuters2012\]: Australia blocks China's Huawei from broadband tender. Reuters. March 26, 2012. https://www.reuters.com/article/us-australia-huawei-nbn/australia-blocks-chinas-huawei-from-broadband-tender-idUSBRE82P0GA20120326
 
 \[Verge2012\]: Australia bans Huawei from bidding on broadband network buildout due to security concerns. The Verge. March 26, 2012. https://www.theverge.com/2012/3/26/2903097/australia-ban-huawei-national-broadband-network-bid
@@ -27,6 +44,8 @@
 \[AFR2015\]: Huawei's epic PR fail. Australian Financial Review. June 9, 2015.
 
 \[BBC2018\]: Huawei and ZTE handed 5G network ban in Australia. BBC. August 23, 2018. https://www.bbc.com/news/technology-45281495 
+
+\[SMH2018\]: Huawei's history with Australia. Syndey Morning Herald. December 8, 2018. https://www.smh.com.au/business/companies/huawei-s-history-with-australia-20181207-p50kyj.html
 
 \[LR2021\]: How Australia came to ban Huawei. LightReading. May 21, 2021. https://www.lightreading.com/asia/how-australia-came-to-ban-huawei/d/d-id/769688 
 
