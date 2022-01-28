@@ -1,4 +1,4 @@
-# Huawei assisted espionage in Australia
+# Assisting espionage in Australia
 Huawei has been operating in Australia since 2004, providing networking and wireless equipment to telecom operators.
 While Huawei had grand ambitions of achieving deeper penetration into Australian telecom operators, a Huawei-assisted espionage incident stopped that ambition.
 In 2018, the Australian Govt. prevented Huawei from participating in Australia's 5G network build-out.
@@ -80,3 +80,5 @@ Effectively, the National Intelligence Law seems to have formalized the access t
 \[LR2021\]: How Australia came to ban Huawei. LightReading. May 21, 2021. https://www.lightreading.com/asia/how-australia-came-to-ban-huawei/d/d-id/769688 
 
 \[Bloomberg2021\]: Chinese Spies Accused of Using Huawei in Secret Australia Telecom Hack. Bloomberg. December 16, 2021.
+
+**Copyright © 2021, 2022 r-dube. All Rights Reserved Worldwide.**

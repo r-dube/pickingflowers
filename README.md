@@ -15,6 +15,7 @@
   * Part 2: Partnership with Chinese intelligence agencies
     * [Chinese military infiltrates Nortel](nortel.md)
     * [Communication products in Lithuania](lithuania.md)
+    * [Assisting espionage in Australia](australia.md)
   * Part 3: Exploiting press freedom and the legal system in foreign countries
     * [Exploiting Sweden's legal system](sweden.md)
     * [Spreading misinformation in New Zealand](nz.md)
@@ -24,4 +25,4 @@
   * [Aurora](aurora.md)
   * [Tibet](tibet.md)
 
-**Copyright © 2021 r-dube. All Rights Reserved Worldwide.**
+**Copyright © 2021, 2022 r-dube. All Rights Reserved Worldwide.**
