@@ -20,7 +20,7 @@ TPG Telecom came about with the merger of Vodafone Hutchison Australia (VHA) and
 - Late 2011: Australian Govt. privately instructs Huawei to refrain from submitting an application to participate in National Broadband Network (NBN) project \[Verge2012\]
 - March 14, 2012: Optus chooses Huawei to build 4G network in Australia \[SMH2012\]
 - March 26, 2012: Australian Govt. publicly confirms exclusion of Huawei from NBN project on security grounds \[Verge2012\], \[Reuters2012\]
-- March 31, 2012: Huwaei sponsors Australian Rugby team Canberra raiders to improve its public image in Australia \[AFR2012\]
+- March 31, 2012: Huawei sponsors Australian Rugby team Canberra raiders to improve its public image in Australia \[AFR2012\]
 - Early 2012: Australian Govt. informs U.S. Govt. of China's use of Huawei equipment for espionage in Australia in Optus's network \[Bloomberg2021\]
 - 2012: U.S. Govt. acknowledges China's use of Huawei equipment for espionage in U.S. \[Bloomberg2021\]
 - October 31, 2013: New Australian Govt. maintains Huawei's exclusion from NBN \[ZDNet2013\], \[AFR2015\]
