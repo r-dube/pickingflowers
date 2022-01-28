@@ -1,27 +1,32 @@
 # Huawei assisted espionage in Australia
+Huawei has been operating in Australia since 2004, providing networking and wireless equipment to telecom operators.
+While Huawei had great ambitions of achieving deeper penetration into Australian telecom operators, a Huawei-assisted espionage incident put a stop to that ambition.
+In 2018, the Australian Govt. prevented Huawei from participating in the 5G network build out in Australia.
+Since then, Huawei's business in Australia has been declining.
 
 ## Mobile operators in Australia
-As of 2022, Australia has three main mobile operators: Telstra, Optus and TPG Telecom \[Wiki1\].
+As of 2022, Australia had three main mobile operators: Telstra, Optus and TPG Telecom \[Wiki1\].
 
 Telstra has the largest penetration of the three operators and uses Ericsson equipment in its 3G, 4G and 5G mobile networks.
 
 Optus is a subsidiary of Singapore Telecom (Singtel). Optus's 3G and 4G mobile networks used equipment from Huawei \[SMH2018\].
 
-TPG Telecom came about with the merger of Vodafone Hutchison Australia (VHA) and TPG - an internet service provider that also ran a 4G mobile network. VHA used equipment from Huawei in its 3G and 4G mobile networks, in addition to Nokia and Ericsson equipment for other parts of the same network \[Wiki1\], \[SMH2018\].
+TPG Telecom came about with the merger of Vodafone Hutchison Australia (VHA) and TPG - an internet service provider that also ran a 4G mobile network. VHA used equipment from Huawei in its 2G, 3G and 4G mobile networks, in addition to Nokia and Ericsson equipment for other parts (core) of the same network \[Wiki1\], \[SMH2018\].
 
-## Timeline 
+## Huawei's Australia timeline 
 - 2004: Huawei starts Australia operations \[Reuters2012\]
 - December 2010: VHA chooses Huawei for a portion of its mobile network \[SMH2018\]
 - June 2011: Huawei sets up board of directors for Australian subsidiary \[AFR2020\]
 - Late 2011: Australian Govt. privately instructs Huawei to refrain from submitting application to participate in National Broadband Network (NBN) project \[Verge2012\]
 - March 14, 2012: Optus chooses Huawei to build 4G network in Australia \[SMH2012\]
 - March 26, 2012: Australian Govt. publicly confirms exclusion of Huawei from NBN project on security grounds \[Verge2012\], \[Reuters2012\]
-- March 31, 2012: Huwaei sponsors Australian Rugby team Canberra raiders to improve Huawei's public image in Australia \[AFR2012\]
-- Early 2012: Australian Govt. informs U.S. Govt. of China's use of Huawei equipment for espionage in Australia using Optus's network \[Bloomberg2021\]
+- March 31, 2012: Huwaei sponsors Australian Rugby team Canberra raiders to improve public image in Australia \[AFR2012\]
+- Early 2012: Australian Govt. informs U.S. Govt. of China's use of Huawei equipment for espionage in Australia in Optus's network \[Bloomberg2021\]
 - 2012: U.S. Govt. acknowledges China's use of Huawei equipment for espionage in U.S. \[Bloomberg2021\]
 - October 31, 2013: New Australian Govt. maintains Huawei's exclusion from NBN \[ZDNet2013\], \[AFR2015\]
 - June 27, 2017: China enacts "National Intelligenc Law" requiring all Chinese companies and citizens to comply with security agencies on intelligence matters; the new law (implictly) applies to Huawei, ZTE \[LR2021\]
 - August 23, 2018: Australian Govt. bans vendors subject to extra-judicial direction from a foreign government from participating in 5G mobile network buildout; Huawei and ZTE are (implicitly) deemed to be such vendors \[BBC2018\]
+- 2017/2018: Huawei's revenues in Australia peak at (AUS) $735M/year \[AFR2020\]
 - August 23, 2019: Huawei confirms plans to reduce staff in Australia \[Nikkei2019\]
 - March 3, 2020: Huawei winds down Australian board of directors \[AFR2020\]
 - August 31, 2020: Huawei announces end to sponsorship of Canberra Raiders \[Herald2020\]
@@ -66,12 +71,12 @@ Effectively, the National Intelligence Law seems to have formalized the access t
 
 \[SMH2018\]: Huawei's history with Australia. Syndey Morning Herald. December 8, 2018. https://www.smh.com.au/business/companies/huawei-s-history-with-australia-20181207-p50kyj.html
 
-\[LR2021\]: How Australia came to ban Huawei. LightReading. May 21, 2021. https://www.lightreading.com/asia/how-australia-came-to-ban-huawei/d/d-id/769688 
-
 \[Nikkei2019\]: Huawei to cut engineers in Australia and restructure after 5G ban. Nikkei Asia. August 23, 2019.
 
 \[AFR2020\]: Locked out Huawei dissolves local board as work dries up. The Australian Financial Review. March 3, 2020.
 
 \[Herald2020\]: NRL 2020: Huawei ends major sponsorship of Canberra Raiders. Herald Sun. August 31, 2020.
+
+\[LR2021\]: How Australia came to ban Huawei. LightReading. May 21, 2021. https://www.lightreading.com/asia/how-australia-came-to-ban-huawei/d/d-id/769688 
 
 \[Bloomberg2021\]: Chinese Spies Accused of Using Huawei in Secret Australia Telecom Hack. Bloomberg. December 16, 2021.
