@@ -13,6 +13,8 @@ Three built its network with Huawei, Nokia, and Samsung
 - 2001: Huawei opens first office in the U.K. \[Huawei1\]
 - November, 2010: Huawei Cyber Security Evaluation Centre (HCSEC) established in the U.K. to mitigate perceived risks arising from the involvement of Huawei in parts of the UK's critical infrastructure \[UK2020\]
 - 2014: HCSEC Oversight Board established to provide annual assessment of HCSEC's capabilities and security of Huawei's products, independently from Huawei Headquarters in China \[HCSEC2020\]
+- March 2015: HCSEC Oversight Board validates that HCSEC is able to operate independently from Huawei China's influence \[HCSEC2015\]
+- 2016, 2017: HCSEC Oversight Board reiterates HCSEC independence from Huawei China \[HCSEC2016\], \[HCSEC2017\]
 - July 2018: HCSEC Oversight Board identifies shortcomings in Huawei’s engineering  networks to new risks; the Oversight Board provides (only) limited assurance that all risks to U.K. national security from Huawei’s involvement in the U.K.’s critical networks have been sufficiently mitigated \[HCSEC2018\]
 - January 2019: U.S. Department of Justice files criminal charges against Huawei in the U.S. \[CNET2019\]
 - March 2019: The HCSEC Oversight Board continues to be able to provide only limited assurance that the long-term security risks can be managed in the Huawei equipment currently deployed in the U.K.; No material progress has been made on the security issues raised in the HCSEC 2018 report; \[HCSEC2019\]
@@ -29,6 +31,13 @@ Three built its network with Huawei, Nokia, and Samsung
 \[Wiki1\]: https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_Europe#United_Kingdom 
 
 \[Huawei1\]: https://www.huawei.com/uk/facts/huawei-uk
+
+\[HCSEC2015\]: Annual Report. HUAWEI CYBER SECURITY EVALUATION CENTRE (HCSEC) OVERSIGHT BOARD. March 2015. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/416878/HCSEC_Report.pdf
+
+\[HCSEC2016\]: Annual Report. HUAWEI CYBER SECURITY EVALUATION CENTRE (HCSEC) OVERSIGHT BOARD. May 2016. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/525761/huawei_cyber_security_evaluation_centre_oversight_board_2nd_annual_report_2016.pdf
+
+\[HCSEC2017\]: Annual Report. HUAWEI CYBER SECURITY EVALUATION CENTRE (HCSEC) OVERSIGHT
+BOARD. April 2017. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/626110/20170413_HCSEC_Oversight_Board_Report_2017_-_FINAL.pdf
 
 \[HCSEC2018\]: Annual Report. HUAWEI CYBER SECURITY EVALUATION CENTRE (HCSEC) OVERSIGHT
 BOARD. July 2018. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/727415/20180717_HCSEC_Oversight_Board_Report_2018_-_FINAL.pdf 
