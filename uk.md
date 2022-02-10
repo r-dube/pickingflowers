@@ -1,6 +1,13 @@
 # ... in the U.K.
 
 ## Mobile operators in the U.K.
+As of 2022, the U.K. has four major mobile operators: O2, EE, Vodafone and Three \[Wiki1].
+
+Back in 2020, O2 was the only operator that did not use Huawei equipment in its mobile network, relying on Nokia and Ericsson instead. 
+EE deployed equipment from Huawei, Nokia, and Ericsson
+Vodafone used Huawei, Ericsson, Nokia, and Cisco.
+Three built its network with Huawei, Nokia, and Samsung 
+\[LR2020\]. 
 
 ## Huawei's U.K. timeline 
 - 2001: Huawei opens first office in the U.K. \[Huawei1\]
@@ -19,6 +26,8 @@
 - September 2020: The HCSEC Oversight Board repeats "limited assurance of security" guidance from 2019 \[HCSEC2020\]
 
 ## References and notes
+\[Wiki1\]: https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_Europe#United_Kingdom 
+
 \[Huawei1\]: https://www.huawei.com/uk/facts/huawei-uk
 
 \[HCSEC2018\]: Annual Report. HUAWEI CYBER SECURITY EVALUATION CENTRE (HCSEC) OVERSIGHT
@@ -44,4 +53,6 @@ BOARD. September 2020. https://assets.publishing.service.gov.uk/government/uploa
 
 \[CNET2020\]: Trump signs law barring rural carriers from using Huawei gear. CNET. March 13, 2020. https://www.cnet.com/tech/mobile/trump-signs-law-barring-rural-carriers-from-using-huawei-gear/
 
-\[CNET2020=2\]: Trump executive order targeting Huawei gets extended for another year. CNET. May 15, 2020. https://www.cnet.com/tech/services-and-software/trump-extends-executive-order-targeting-huawei-for-another-year-temporary-license/
+\[CNET2020-2\]: Trump executive order targeting Huawei gets extended for another year. CNET. May 15, 2020. https://www.cnet.com/tech/services-and-software/trump-extends-executive-order-targeting-huawei-for-another-year-temporary-license/
+
+\[LR2020\]: Huawei avoidance strategy is paying off for UK's O2. LightReading. June 11, 2020. https://www.lightreading.com/5g/huawei-avoidance-strategy-is-paying-off-for-uks-o2/d/d-id/761639
