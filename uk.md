@@ -1,31 +1,30 @@
 # Failure in the U.K.
-
-Huawei made a concerted effort at establishing a partnership with the U.K. government and continue as a telecom equipment supplier.
-However, a combination of shoddy software, the U.S. ban on Huawei and a realization of the geopolitical consequences of allowing Huawei to participate in the 5G buildout sealed Huawei's fate in the U.K.
-The Chinese government's reaction validates that the U.K. decision makers were right to worry about their dependence on a Chinese company.
+Huawei made a concerted effort to establish a partnership with the U.K. government and continue as a telecom equipment supplier.
+However, a combination of shoddy software, the U.S. ban on Huawei, and a realization of the geopolitical consequences of allowing Huawei to participate in the 5G build-out sealed Huawei's fate in the U.K.
+The Chinese government's reaction validates that the U.K. decision-makers were right to worry about their dependence on a Chinese company.
 
 ## Mobile operators in the U.K.
-As of 2022, the U.K. has four major mobile operators: O2, EE, Vodafone and Three \[Wiki1].
+As of 2022, the U.K. has four major mobile operators: O2, E.E., Vodafone, and Three \[Wiki1].
 
-Back in 2020, O2 was the only operator that did not use Huawei equipment in its mobile network, relying on Nokia and Ericsson instead. 
-EE deployed equipment from Huawei, Nokia, and Ericsson
+In 2020, O2 was the only operator that did not use Huawei equipment in its mobile network, relying on Nokia and Ericsson instead. 
+E.E. deployed equipment from Huawei, Nokia, and Ericsson
 Vodafone used Huawei, Ericsson, Nokia, and Cisco.
 Three built its network with Huawei, Nokia, and Samsung 
 \[LR2020\]. 
 
 ## Huawei's U.K. timeline 
-- 2001: Huawei opens first office in the U.K. \[Huawei1\]
-- November, 2010: Huawei Cyber Security Evaluation Centre (HCSEC) established in the U.K. to mitigate perceived risks arising from the involvement of Huawei in parts of the UK's critical infrastructure \[UK2020\]
-- 2014: HCSEC Oversight Board established to provide annual assessment of HCSEC's capabilities and security of Huawei's products, independently from Huawei Headquarters in China \[HCSEC2020\]
-- March 2015: HCSEC Oversight Board validates that HCSEC is able to operate independently from Huawei China's influence \[HCSEC2015\]
+- 2001: Huawei opens its first office in the U.K. \[Huawei1\]
+- November 2010: Huawei Cyber Security Evaluation Centre (HCSEC) was established in the U.K. to mitigate perceived risks arising from the involvement of Huawei in parts of the U.K.'s critical infrastructure \[UK2020\]
+- 2014: HCSEC Oversight Board was established to provide an annual assessment of HCSEC's capabilities and security of Huawei's products, independently from Huawei Headquarters in China \[HCSEC2020\]
+- March 2015: HCSEC Oversight Board validates that HCSEC can operate independently from Huawei China's influence \[HCSEC2015\]
 - 2016, 2017: HCSEC Oversight Board reiterates HCSEC independence from Huawei China \[HCSEC2016\], \[HCSEC2017\]
-- July 2018: HCSEC Oversight Board identifies shortcomings in Huawei’s engineering practices; the Oversight Board provides (only) limited assurance that risks from Huawei to U.K.’s critical networks have been sufficiently mitigated \[HCSEC2018\]
+- July 2018: HCSEC Oversight Board identifies shortcomings in Huawei's engineering practices; the Oversight Board provides (only) limited assurance that risks from Huawei to U.K.'s critical networks have been sufficiently mitigated \[HCSEC2018\]
 - January 2019: U.S. Department of Justice files criminal charges against Huawei in the U.S. \[CNET2019\]
 - March 2019: The HCSEC Oversight Board continues to be able to provide only limited assurance that the long-term security risks can be managed in the Huawei equipment currently deployed in the U.K.; No material progress has been made on the security issues raised in the HCSEC 2018 report; \[HCSEC2019\]
-- April 2019: U.K. government considers disallowing Huawei equipment from mobile operator's 5G "core", but allowing Huawei equipment at the edge of these networks \[FW2019\]
-- May 2019: U.S. govenment prohibits transactions between Huawei and other U.S. entities on National Security grounds using an executive order; order effects Huawei hardware component and operating system suppliers \[CNET2019-2\]
+- April 2019: U.K. government considers disallowing Huawei equipment from mobile operator's 5G "core," but allowing Huawei equipment at the edge of these networks \[FW2019\]
+- May 2019: U.S. government prohibits transactions between Huawei and other U.S. entities on National Security grounds using an executive order; order affects Huawei hardware component and operating system suppliers \[CNET2019-2\]
 - July 2019: U.K. government delays decision on Huawei's participation in 5G networks on account of U.S. ban on component sales to Huawei and pending change in U.K. prime ministership \[Guardian2019\]
-- January 2020: U.K. government allows Huawei to participate in 5G network buildout (at the edge) but caps Huawei market share at 35% for all four major mobile operators; Howevever, U.K. government also declares Huawei a high-risk vendor
+- January 2020: U.K. government allows Huawei to participate in 5G network build-out (at the edge) but caps Huawei market share at 35% for all four major mobile operators; However, the U.K. government also declares Huawei, a high-risk vendor
 - March 2020: New U.S. law prohibits U.S. based rural carriers from using Huawei equipment \[CNET2020\]
 - May 2020: U.S. government extends 2019 executive order restricting transactions with Huawei by another year \[CNET2020-2\]
 - July 2020: U.K. government reverses decision on Huawei; disallows Huawei from mobile operators' 5G networks quoting the impact of U.S. restrictions on Huawei's stability as vendor \[Guardian2020-2\]
@@ -33,19 +32,19 @@ Three built its network with Huawei, Nokia, and Samsung
 
 Three items jump out in the timeline above.
 
-First, both Huawei and the U.K. government spent a substantial amount of effort in setting up a structure (HCSEC) that allowed Huawei to participate in U.K. mobile networks.
+First, both Huawei and the U.K. government spent substantial effort setting up a structure (HCSEC) that allowed Huawei to participate in U.K. mobile networks.
 
-Second, the U.K. parted company from the U.S. in 2019, allowing Huawei to participate in the 5G build out, even though the HCSEC oversight board had indicated Huawei's software had numerous problems.
+Second, the U.K. parted company from the U.S. in 2019, allowing Huawei to participate in the 5G build-out, even though the HCSEC oversight board had indicated Huawei's software had numerous problems.
 
 Third, the U.K. banned Huawei only when it appeared that the U.S. ban on Huawei would make Huawei a less reliable supplier.
 
 ## Huawei and Chinese reaction to ban
-Huawei correctly pointed out that the UK's actions seemed to use Huawei's reliability as an excuse to ban Huawei \[AH2020].
-Perhaps, the U.K.'s real reason was that the decision makers finally understood the long-term threat from retaining Huawei as a supplier.
+Huawei correctly pointed out that the U.K.'s actions seemed to use Huawei's reliability as an excuse to ban Huawei \[AH2020].
+Perhaps, the U.K.'s real reason was that the decision-makers finally understood the long-term threat from retaining Huawei as a supplier.
 
 However, the Chinese government's reaction to the ban is instructive.
-The reaction reinforces Huawei's role as a state directed enterprise, rather than an independent private company: "China strongly opposes Britain’s decision ... the decision was driven by the politicization of commercial and technological issues and not by national security" \[Reuters2020-1\], \[Reuters2020-2\].
-
+A Chinese foreign affairs spokesperson said, "China strongly opposes Britain's decision ... the decision was driven by the politicization of commercial and technological issues and not by national security" \[Reuters2020-1\], \[Reuters2020-2\].
+The reaction reinforces Huawei's role as a state-directed enterprise rather than an independent private company.
 
 ## References and notes
 \[Wiki1\]: https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_Europe#United_Kingdom 
