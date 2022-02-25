@@ -15,7 +15,7 @@ Three built its network with Huawei, Nokia, and Samsung
 - 2014: HCSEC Oversight Board established to provide annual assessment of HCSEC's capabilities and security of Huawei's products, independently from Huawei Headquarters in China \[HCSEC2020\]
 - March 2015: HCSEC Oversight Board validates that HCSEC is able to operate independently from Huawei China's influence \[HCSEC2015\]
 - 2016, 2017: HCSEC Oversight Board reiterates HCSEC independence from Huawei China \[HCSEC2016\], \[HCSEC2017\]
-- July 2018: HCSEC Oversight Board identifies shortcomings in Huawei’s engineering  networks to new risks; the Oversight Board provides (only) limited assurance that all risks to U.K. national security from Huawei’s involvement in the U.K.’s critical networks have been sufficiently mitigated \[HCSEC2018\]
+- July 2018: HCSEC Oversight Board identifies shortcomings in Huawei’s engineering practices; the Oversight Board provides (only) limited assurance that risks from Huawei to U.K.’s critical networks have been sufficiently mitigated \[HCSEC2018\]
 - January 2019: U.S. Department of Justice files criminal charges against Huawei in the U.S. \[CNET2019\]
 - March 2019: The HCSEC Oversight Board continues to be able to provide only limited assurance that the long-term security risks can be managed in the Huawei equipment currently deployed in the U.K.; No material progress has been made on the security issues raised in the HCSEC 2018 report; \[HCSEC2019\]
 - April 2019: U.K. government considers disallowing Huawei equipment from mobile operator's 5G "core", but allowing Huawei equipment at the edge of these networks \[FW2019\]
@@ -26,6 +26,22 @@ Three built its network with Huawei, Nokia, and Samsung
 - May 2020: U.S. government extends 2019 executive order restricting transactions with Huawei by another year \[CNET2020-2\]
 - July 2020: U.K. government reverses decision on Huawei; disallows Huawei from mobile operators' 5G networks quoting the impact of U.S. restrictions on Huawei's stability as vendor \[Guardian2020-2\]
 - September 2020: The HCSEC Oversight Board repeats "limited assurance of security" guidance from 2019 \[HCSEC2020\]
+
+Three items jump out in the timeline above.
+
+First, both Huawei and the U.K. government spent a substantial amount of effort in setting up a structure (HCSEC) that allowed Huawei to participate in U.K. mobile networks.
+
+Second, the U.K. parted company from the U.S. in 2019, allowing Huawei to participate in the 5G build out, even though the HCSEC oversight board had indicated Huawei's software had numerous problems.
+
+Third, the U.K. banned Huawei only when it appeared that the U.S. ban on Huawei would make Huawei a less reliable supplier.
+
+## Huawei and Chinese reaction to ban
+Huawei correctly pointed out that the UK's actions seemed to use Huawei's reliability as an excuse to ban Huawei \[AH2020].
+Perhaps, the U.K.'s real reason was that the decision makers finally understood the long-term threat from retaining Huawei as a supplier.
+
+However, the Chinese government's reaction to the ban is instructive.
+The reaction reinforces Huawei's role as a state directed enterprise, rather than an independent private company: "China strongly opposes Britain’s decision ... the decision was driven by the politicization of commercial and technological issues and not by national security" \[Reuters2020-1\], \[Reuters2020-2\].
+
 
 ## References and notes
 \[Wiki1\]: https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_Europe#United_Kingdom 
@@ -65,3 +81,9 @@ BOARD. September 2020. https://assets.publishing.service.gov.uk/government/uploa
 \[CNET2020-2\]: Trump executive order targeting Huawei gets extended for another year. CNET. May 15, 2020. https://www.cnet.com/tech/services-and-software/trump-extends-executive-order-targeting-huawei-for-another-year-temporary-license/
 
 \[LR2020\]: Huawei avoidance strategy is paying off for UK's O2. LightReading. June 11, 2020. https://www.lightreading.com/5g/huawei-avoidance-strategy-is-paying-off-for-uks-o2/d/d-id/761639
+
+\[Reuters2020-1\]: China warns UK: 'Dumping' Huawei will cost you. Reuters. July 15, 2020. https://www.reuters.com/article/us-britain-huawei-trump-idUSKCN24G0LF 
+
+\[Reuters2020-2\]: China says it will act to protect its interests after UK Huawei ban. Reuters. July 15, 2020. https://www.reuters.com/article/us-britain-huawei-china/china-says-it-will-act-to-protect-its-interests-after-uk-huawei-ban-idUSKCN24G0RW
+
+\[AH2020\]: UK Officials Bans Huawei 5G Equipment, Plan Complete Removal By 2027. Android Headlines. July 14, 2020. https://www.androidheadlines.com/2020/07/uk-officials-bans-huawei-5g-equipment-complete-removal-2027.html 
