@@ -21,6 +21,8 @@
     * [Spreading misinformation in New Zealand](nz.md)
   * Part 4: Coopting decision makers in foreign countries
     * ["Elite Capture" at Canadian universities](canada-univ.md)
+  * Part 5: Other topics
+    * [Failure in the U.K.](uk.md)
 * Book 2: Chinese espionage and influence operations beyond Huawei
   * [Aurora](aurora.md)
   * [Tibet](tibet.md)
