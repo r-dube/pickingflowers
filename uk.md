@@ -1,4 +1,8 @@
-# ... in the U.K.
+# Failure in the U.K.
+
+Huawei made a concerted effort at establishing a partnership with the U.K. government and continue as a telecom equipment supplier.
+However, a combination of shoddy software, the U.S. ban on Huawei and a realization of the geopolitical consequences of allowing Huawei to participate in the 5G buildout sealed Huawei's fate in the U.K.
+The Chinese government's reaction validates that the U.K. decision makers were right to worry about their dependence on a Chinese company.
 
 ## Mobile operators in the U.K.
 As of 2022, the U.K. has four major mobile operators: O2, EE, Vodafone and Three \[Wiki1].
