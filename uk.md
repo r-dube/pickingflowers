@@ -90,3 +90,5 @@ BOARD. September 2020. https://assets.publishing.service.gov.uk/government/uploa
 \[Reuters2020-2\]: China says it will act to protect its interests after UK Huawei ban. Reuters. July 15, 2020. https://www.reuters.com/article/us-britain-huawei-china/china-says-it-will-act-to-protect-its-interests-after-uk-huawei-ban-idUSKCN24G0RW
 
 \[AH2020\]: UK Officials Bans Huawei 5G Equipment, Plan Complete Removal By 2027. Android Headlines. July 14, 2020. https://www.androidheadlines.com/2020/07/uk-officials-bans-huawei-5g-equipment-complete-removal-2027.html 
+
+**Copyright © 2021, 2022 r-dube. All Rights Reserved Worldwide.**
