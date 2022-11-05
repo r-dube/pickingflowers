@@ -26,5 +26,7 @@
 * Book 2: Chinese espionage and influence operations beyond Huawei
   * [Aurora](aurora.md)
   * [Tibet](tibet.md)
+* Papers related to this project
+  * [Huawei's role in Chinese espionage and information operations](http://dx.doi.org/10.13140/RG.2.2.35835.18724), March 2022
 
 **Copyright © 2021, 2022 r-dube. All Rights Reserved Worldwide.**
