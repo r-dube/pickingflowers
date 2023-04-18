@@ -29,5 +29,6 @@
 * Papers related to this project
   * [Huawei's role in Chinese espionage and information operations](http://dx.doi.org/10.13140/RG.2.2.35835.18724), March 2022
   * [Huawei's trajectory in India - crippled by the Chinese military](http://dx.doi.org/10.13140/RG.2.2.28208.23047), February 2023
+  * [Huawei's business ethics and privacy violations in Pakistan; But spying too?](http://dx.doi.org/10.13140/RG.2.2.11877.47849), April 2023
 
 **Copyright © 2021, 2022, 2023 r-dube. All Rights Reserved Worldwide.**
